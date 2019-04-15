@@ -4,3 +4,10 @@
 data-mining-process/\.ipynb_checkpoints/
 
 tensorflow-tutorial/\.ipynb_checkpoints/
+
+gan-tutorial/\.ipynb_checkpoints/
+
+
+tensorboard/
+
+.ipynb_checkpoints
