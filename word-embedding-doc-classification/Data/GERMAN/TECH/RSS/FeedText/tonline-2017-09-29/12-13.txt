@@ -1,0 +1,103 @@
+Bill Gates entschuldigt sich für "Strg+Alt+Entf"
+Jeder Windows-Nutzer kennt die Tastenkombination Strg+Alt+Entf. Mit diesem "Affengriff" öffnet man bei Windows heute den Task-Manager. Früher diente er dem Neustart, wenn Windows abgestürzt war.
+Jetzt hat sich der "Vater" der nervigen Dreier-Kombi dafür entschuldigt. Auf dem "Bloomberg Global Business Forum" gestand der Microsoft-Mitgründer, dass dies "keine weise Entscheidung" gewesen sei. „Di...
+ 
+Amazon plant offenbar Alexa-Brille
+Laut einem Bericht der Financial Times entwickelt Amazon eine Brille, um die Sprachassistentin Alexa noch in diesem Jahr auch unterwegs nutzbar zu machen.
+Noch in diesem Jahr könnte Amazon eine smarte Brille vorstellen, berichtet die Financial Times (kostenpflichtiger Artikel). Die Smart Glasses von Amazon sollen mit Mikrofonen und Knochenschall-Kopfhörern ausgestattet sein, was die Interaktion...
+ 
+So surfen Sie zu Hause mit dem schnellen Datenfunk LTE
+Wo kein Kabel hinreicht, muss der Funk herhalten. Breitband-Internet über LTE ist in vielen Teilen Deutschlands eine Alternative zu DSL und Kabel. Allerdings taugt der Turbofunk nicht für alle Bedürfnisse.
+LTE ist schnell, richtig schnell. Wer die Mobilfunktechnik das erste Mal nutzt, bemerkt im Vergleich zu UMTS oder einer langsamen DSL-Leitung sofort den schnellen Verbindungsaufbau und die fl...
+ 
+Revolutionäre Software erkennt Alzheimer
+Italienische Forscher haben eine Künstliche Intelligenz für die Früherkennung von Alzheimer entwickelt. Der Algorithmus durchsucht Bilder aus dem Magnetresonanztomographen und findet Alzheimer mit 86 Prozent Trefferquote schon 10 Jahre vor den ersten Symptomen.
+Wissenschaftler der Universität Bari in Italien haben eine Software entwickelt, die kleine strukturelle Veränderungen im Gehirn findet,...
+ 
+Microsoft gibt Nutzern mehr Rechte
+Microsoft hat erneut Details zum großen Windows-Update im Oktober bekannt gegeben: Der Datenschutz soll besser werden, indem mehr Informationen bereitgestellt werden und der Nutzer selbst Rechte an Programme vergeben kann.
+In einem Blogeintrag veröffentlichte Microsoft nun konkrete Details zum veränderten Datenschutz, der mit dem Fall Creators Update eingeführt werden soll. Mit mehreren Maßnahm...
+ 
+Windows 10 Update macht HP-Rechner lahm
+Regelmäßig bringt Microsoft Updates für Windows heraus und eigentlich soll es dabei um Verbesserungen des Systems gehen. Für Besitzer von HP-Computern scheint das neuste Update aber nach hinten losgegangen zu sein: Die Rechner fahren nur noch zögerlich hoch. Eine Lösung gibt es bereits.
+Ein vor kurzem verbreitetes Update für Windows 10 macht Besitzern von HP-Computern zu schaffen. Wie in Foren ...
+ 
+JPMorgan-Chef bringt Bitcoins unter Druck
+Der Chef der US-Großbank JPMorgan, Jamie Dimon, hat die Digitalwährung Bitcoin am Dienstag mit scharfen Worten unter Druck gesetzt. Der Kurs fiel um 1,25 Prozent auf 4154,85 Dollar. Zwischenzeitlich war er auf 4080 Dollar abgesackt.
+Dimon bezeichnete den Bitcoin als "Betrug". Der jüngste Anstieg der Digitalwährung sei schlimmer als die Tulpenzwiebelblase im 17. Jahrhundert und "werde nicht gut ...
+ 
+So klappt es mit der Datensicherung
+Feuer, Diebstahl, Erpressungstrojaner: Digitale Besitztümer wie Fotos oder Arbeitsdokumente haben ein gefährliches Leben. Wer die Daten auf seinem Rechner dauerhaft schützen möchte, sollte möglichst sofort mit der Sicherung anfangen. Denn es kann jederzeit zu spät sein.
+
+Das Thema ist seit Aufkommen der massiven Welle an Erpressungstrojanern brisant wie selten: Wohin mit den Daten, die auf dem ...
+ 
+Das bringt das neue Fritzbox-Update
+Das Berliner Unternehmen AVM stellt seit Jahren nicht nur erfolgreich Router her, sondern programmiert auch fleißig die Software dazu. Mit dem neuen Update auf FritzOS 6.90 wird unter anderem das WLAN verbessert.
+Eine Fritzbox steht bei vielen Deutschen als Router in der Nähe der Telefonbuchse und sorgt für den Internetzugang, aber auch für WLAN und den Telefonbetrieb. In regelmäßigen Abständen...
+ 
+Den PC richtig aufrüsten – So geht's
+Immer neue Angeboten von Technikartikeln locken zum Neukauf. Doch das Wegwerfen alter Geräte ist nicht gut für die Umwelt – und besonders bei PCs häufig nicht nötig. Manchmal reicht es auch, wenn man einzelne Teile austauscht. Dabei sollte man sich überlegen, was man von einem PC überhaupt will.
+Was will ich überhaupt? Das ist die entscheidende Frage, um die richtige Entscheidung treffen zu kön...
+ 
+Zu alt? Mario ist kein Klempner mehr!
+Eigentlich ist es nur ein kurzer Satz, doch Fans hat er offenbar geschockt: Auf der offiziellen Nintendo-Webseite in Japan steht bei der beliebten Super-Mario-Spielfigur: Vor langer Zeit arbeitete er einmal als Klempner. Was ist passiert? Wann hat er den Beruf gewechselt? Musste er aus Altersgründen aufhören?
+In Computerspielen von Nintendo ist er weltbekannt geworden: Mario ist seit knapp 35 J...
+ 
+EuGH sieht Intel im Recht
+Im Prozess um die Milliarden-Wettbewerbsstrafe hat der US-Chiphersteller Intel einen Etappensieg erzielt. Der Europäische Gerichtshof (EuGH) in Luxemburg hebt das Urteil vorerst auf. Die Auswirkung von Rabatten und die Milliardenstrafe gegen den US-Konzern muss neu geprüft werden.
+Die EU-Kommission habe nicht ausreichend begründet, dass Intel tatsächlich den Wettbewerber AMD vom Markt habe verd...
+ 
+Gebogene Riesen-Monitore für Spieler und Büroarbeit
+Monitore kosten jetzt mehr als viele Gaming-PCs. Die neuesten Displays locken mit ultrabreiten Formaten, hoher Auflösung oder Bildwiederholrate. Wer beides möchte, muss tief in die Tasche greifen. Dafür wird Virtual Reality etwas günstiger. Gaming-Notebooks liegen nach wie vor im Trend.
+Im Display-Bereich sind Computerspieler so etwas wie die Triebfeder für Neuentwicklungen. Schaute man lange i...
+ 
+Windows 10: Großes Update kommt am 17.Oktober
+Zur IFA verriet Microsoft nun endlich das konkrete Datum: Das "Fall Creators Update" für Windows 10 soll am 17.10.2017 erscheinen und viele Neuerungen für Windows 10 mitbringen. Gleichzeitig erscheinen neue Produkte und VR-Brillen von diversen Herstellern.
+Bereits mehrmals berichteten wir über die Änderungen, die das vierte große Update für Windows 10 mitbringen soll, das unter dem Namen "Fall ...
+ 
+Smartphones auf der IFA: Hochwertig, robust und wasserdicht
+Die neuen Flaggschiff-Smartphones von Samsung wurden bereits vor Wochen präsentiert. Und das neue iPhone hat am 12. September seinen ersten Auftritt. Früher tat sich dazwischen – im Spätsommer und Herbstbeginn – nur wenig. Doch in diesem Jahr entwickelt sich die IFA zu einer echten Smartphone-Schau.
+Unter dem Messeturm in Berlin kann man in diesem Jahr nicht nur neue Mittelklasse-Smartphones se...
+ 
+Star-Wars-Notebooks und Virtual Reality von Lenovo
+Bei der Pressekonferenz von Lenovo dreht sich viel um "Star Wars". Die Science-Fiction-Filmreihe schmückt das neue Convertible-Notebook Yoga 920. In Kooperation mit Disney entstand ein Augmented-Reality-Headset. Und mit der "Lenovo Mirage" wird das Lichtschwert in "Jedi Challenges" geschwungen.
+Lenovo aktualisiert seine Yoga-Notebooks mit Intels achter Generation von Mobil-Chips. Das "Yoga 920"...
+ 
+Zusammenspiel von Windows 10 und Android kann Datenverlust verursachen
+Um Bilder und Videos auf Smartphone oder Tablet zu kopieren, verbinden viele Nutzer die Geräte mit einem Windows-Computer. Eigentlich klappt das gut. Bei Windows 10 und Android haben Tests nun in bestimmten Fällen aber zu totalem Datenverlust geführt.
+Viele Besitzer von Smartphones und Tablets finden es heute normal, Daten über die "Cloud" – also über Speicher im Internet – auszutauschen oder M...
+ 
+Flüchtlinge können "Aldi Talk" nicht aktivieren
+Seit Juli 2017 müssen Prepaid-Karten für Mobiltelefone mit Identitätsnachweis registriert werden. Ein Aufenthaltstitel von Flüchtlingen wird für die Ausweispflicht nicht akzeptiert, weswegen viele Asylbewerber Angebote wie "Aldi Talk" nicht mehr nutzen können.
+Der Bundestag beschloss Anfang Juni per Eilverfahren ein Anti-Terror-Paket, das auch die Ausweispflicht für den Kauf von Prepaid-Mobilfu...
+ 
+Medions WLAN-Lautsprecher bringt Alexa mit
+Mit dem Medion P61110 bringt der deutsche Hersteller eine Alternative zu Amazons Echo raus. Für knapp 100 Euro unterstützt der WLAN-Lautsprecher die Sprachassistentin Alexa.
+Aus der Ferne ist der Unterschied zwischen Amazons Echo und dem Medion P61110 kaum auszumachen: Medions 99-Euro-Alternative (Amazon Echo: 179 Euro) sieht dem Original sehr ähnlich. Ob auch die Fernfeld-Spracherkennung und d...
+ 
+Acer zeigt Spiele-Tablet, Pawbo ein Hunde-GPS
+Auf der ersten IFA-Pressekonferenz zeigt der Elektronikkonzern Acer ein lautloses Windows-Tablet mit spieletauglicher Grafikkarte, einen 35-Zoll-Luxus-Monitor und neue Notebooks mit aktuellen Intel-Prozessoren. Die Tocherfirma Pawbo will Hunde per GPS-Tracking "WagTag" verfolgen.
+Die IFA 2017 öffnet ihre Pforten erst am Freitag, viele Hersteller legen ihre Presseveranstaltungen jedoch schon vor...
+ 
+Software-Problem bei Ehe für alle
+Obwohl das Gesetz der Ehe für alle ab Oktober gesetzmäßig ist, sehen sich die Standesämter nicht in der Lage, Eheschließungen gleichgeschlechtlicher Paare ordnungsgemäßg zu registrieren. 
+Grund sind Software-Mängel: In den Personenstandsregistern aller deutschen Standesämter könne die gleichgeschlechtliche Ehe erst ab dem 1. November 2018 richtig erfasst werden, teilte die Berliner Innenverwalt...
+ 
+Software-Update für Amazon Echo
+Amazon macht mit einem Software-Update den smarten Lautsprecher "Echo" fit für die Musikwiedergabe in mehreren Räumen. Doch auch damit kann sie noch kein Multiroom-System ersetzten.
+
+Bisher lässt sich Musik nicht auf mehreren "Echo"-Systemen gleichzeitig und synchron abspielen. Doch nach mit dem jüngsten Software-Update können "Echo" und "Echo Dot" Musik auch auf anderen Echo-Geräten in Haus od...
+ 
+Gamescom endet mit Besucherrekord
+Nach fünf Messetagen mit vielen neuen Spielen endet am Samstag die Gamescom in Köln mit einem Besucherrekord: Über 350 000 Besucher aus 106 Ländern strömten seit Dienstag zum weltweit größten Event für Computer- und Videospiele an den Rhein.
+
+Die Messe wandelte sich in diesem Jahr von der Trendmesse zum Mode-Event, bei dem sich längst nicht nur Hardcore-Gamer und kostümierte Elfen blicken lasse...
+ 
+Syrer macht aus seiner Flucht ein Game
+Der syrische Grafiker Abdullah Karam floh von Syrien nach Österreich. Nun verarbeitet er seine Erfahrungen in einem Computerspiel.
+Bilder aus Kriegsgebieten können überfordern. Sie dokumentieren kaum Vorstellbares: Menschen, die alles verlieren, Tote, Verstümmelte, zerstörte Gebäude. Kriegsbilder zeigen, wie die größten Ängste real werden können. Und weil fast immer irgendwo Menschen leiden, re...
+ 
+Gamescom öffnet für alle Besucher
+Die Spielmesse Gamescom in Köln öffnet ihre Tore für reguläre Besucher. Die Hallen dürften sich rasch füllen – bis Samstag werden rund 350.000 Spiele-Fans erwartet.
+Sie sollten allerdings auch etwas Geduld mitbringen, denn die Warteschlangen bei den populärsten Spielen und Publishern sind legendär. Während der Messe sind in Nordrhein-Westfalen 50 Sonderzüge im Einsatz, um den Besucherstrom zu b...
+ 

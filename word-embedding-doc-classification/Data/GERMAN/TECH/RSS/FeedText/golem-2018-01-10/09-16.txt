@@ -1,0 +1,120 @@
+Kirin 970: Huawei öffnet KI-Chip für Entwickler
+Programmierer können künftig Software für Huaweis mobile KI-Plattform HiAI entwickeln, die momentan aus dem SoC Kirin 970 besteht. Über ein API liefert Huawei die notwendigen Entwicklerschnittstellen, Interessenten können sich online bewerben. (Huawei, KI) 
+ 
+Update: Razer Phone bekommt Netflix in HDR und Dolby 5.1
+Razers erstes Smartphone Razer Phone kann künftig Inhalte von Netflix in HDR anzeigen. Ein entsprechendes Update will der Hersteller in den kommenden Wochen verteilen. Als erstes Smartphone weltweit unterstützt das Gerät auch Dolby Digital Plus 5.1. (CES 2018, HDR) 
+ 
+Android-Verbreitung: Android 7 überholt Android 5
+Nougat hat das erste Mal Lollipop überholt. Google hat aktuelle Zahlen zur Android-Verbreitung bekanntgegeben. Nach wie vor laufen über 99 Prozent der Android-Smartphones mit einer veralteten Version von Googles Betriebssystem. (Android, Google) 
+ 
+Spectre und Meltdown: Microsoft stoppt Update-Auslieferung für AMD-Systeme
+Weil einige Athlon-Prozessoren nach dem Update nicht mehr in Windows booten, stoppt Microsoft die Verteilung von Spectre-Patches für betroffene AMD-Systeme. Schuld sollen fehlerhafte Angaben des Prozessorherstellers sein. (Spectre, Microsoft) 
+ 
+Konkurrenz für Cortana: Alexa kommt auf Windows-Computer
+Cortana bekommt Gesellschaft: Amazon will im Frühjahr eine Alexa-App für Windows 10 veröffentlichen. Die großen PC-Hersteller wollen ihre Gerät damit ausrüsten. Das alles passiert ungeachtet der geplanten Verzahnung zwischen Alexa und Cortana. (CES 2018, Microsoft) 
+ 
+Microsoft Windows: Einige Antivirenprogramme verhindern Januar-Updates
+Als Bedingung für die Januar-Updates gegen Spectre und Meltdown müssen Antivirenprogramme einen neuen Registry-Eintrag setzen. Einige Programme verhindern daher deren Installation. Microsoft rät zu unterstützten Programmen oder dem manuellen Setzen des Registry-Eintrages. (Virenscanner, Windows) 
+ 
+VPN: Samsung bringt "sicheres WLAN" für Galaxy Note 8
+Samsung will Nutzer von offenen WLANs mit einem neuen Dienst schützen. Bislang ist die Funktion nur für Besitzer des Galaxy Note 8 verfügbar. Kostenfrei sind bis zu 250 Mbyte nutzbar. (Galaxy Note 8.0, WLAN) 
+ 
+US Army: Multiplayer-Spiel lehrt Verhalten bei Schulamokläufen
+Cole Engineering Services und die US Army haben eine Simulation entwickelt, die Schüler und Lehrer auf Schießereien und Amokläufe vorbereiten soll. Es ist möglich, Lehrer, Polizist und sogar Täter zu spielen. Bots machen die Simulation realistischer. (Schulen, Applikationen) 
+ 
+Android 8.0: Oreo-Update für Oneplus Five wird wieder verteilt
+Oneplus verteilt für das Smartphone Five wieder das Update auf Android 8.0 alias Oreo. Zwischenzeitlich war die Verteilung unterbrochen worden, weil zu viele Fehler entdeckt wurden. Auf manchen Geräten lässt sich das Update aber immer noch nicht ohne Weiteres aufspielen. (Oneplus Five, Applikationen) 
+ 
+Spectre und Meltdown: All unsere moderne Technik ist kaputt
+Man kann sich auf Hardware nicht mehr verlassen - Spectre und Meltdown zeigen das überdeutlich. Bevor neue Grundlagentechniken wie spekulative Befehlsausführung massenhaft eingeführt werden, müssen sie ab jetzt anders getestet werden. (Sicherheitslücke, Intel) 
+ 
+Kartendienst: Zulieferer Bosch und Continental steigen bei Here ein
+Der Kartendienst Here erhält immer mehr Anteilseigner. Obwohl Bosch und Continental auch mit Konkurrent TomTom kooperieren, sind nun beide beim Kartendienst der deutschen Autohersteller eingestiegen (Black Hat 2016, Intel) 
+ 
+Oreo: Oneplus stoppt Upgrade für Oneplus Five
+Nach Hunderten Forenseiten mit zahlreichen Bug-Meldungen stoppt Oneplus das Upgrade auf Android 8.0 für das Oneplus Five. Genaue Gründe gibt der Hersteller nicht an, Nutzer berichten unter anderem über Probleme mit der Akkulaufzeit. (Oneplus Five, Applikationen) 
+ 
+Digitale Assistenten: Verzahnung von Alexa und Cortana verzögert sich
+Die für vergangenes Jahr versprochene Verzahnung von Alexa und Cortana wird erst mit Verspätung erscheinen. Weder Amazon noch Microsoft wollen sich derzeit auf einen neuen Termin festlegen. (Amazon Alexa, Microsoft) 
+ 
+BeA: Noch mehr Sicherheitslücken im Anwaltspostfach
+Das besondere elektronische Anwaltspostfach hat mehr als nur eine Sicherheitslücke. Die Probleme reichen von einer falschen Ende-zu-Ende-Verschlüsselung über Cross Site Scripting bis hin zu ROBOT und veralteten Java-Libraries. Dabei hat die Firma SEC Consult einen Sicherheitsaudit durchgeführt. (Sicherheitslücke, Technologie) 
+ 
+Buddybuild: Tools zum Testen von Apps werden Teil von Apples Xcode
+Apple übernimmt Buddybuild. Das Unternehmen stellt Dienste zum Testen von Apps in der Cloud bereit. Entwickler können Testbuilds über Github, Bitbucket oder Gitlab verteilen. All das wird Teil von Apples XCode für iOS-Apps, die Android-Unterstützung wird gestrichen. (Apple, Android) 
+ 
+Kryptowährungen: Von Tulpen, Berg- und Talfahrten
+Ein enormer Kursanstieg und grundlegende Reformen: 2017 ist in Bezug auf Bitcoin aufregend gewesen. Legitimität hat die virtuelle Währung als Ware an Chicagoer Handelsbörsen erhalten. Die zunehmende Verbreitung von Kryptowährungen und damit einhergehende Betrügereien alarmieren jedoch die Finanzaufsichten. (Bitcoin, Studie) 
+ 
+Windows-API: Die dritte Version von Wine ist fast fertig
+Mit dem vierten Release Candidate von Wine 3.0 ist die Entwicklung der neuen Version fast abgeschlossen. Die Entwickler befinden sich im Code Freeze. Mit der bald fertigen Version 3.0 wird Direct3D in der Version 11 auf AMD- und Intel-GPUs standardmäßig unterstützt. (Wine, API) 
+ 
+Open Source: Die Community gewinnt - fast immer
+Egal ob im Linux-Kernel, an den Low-Level-Userspace-Teilen, grafischen Oberflächen, Software von und für Unternehmen oder gar Hardware - am Ende setzt sich die Zusammenarbeit in der Community durch, wie das Jahr 2017 gezeigt hat. Von dieser Regel gibt es aber auch immer wieder Ausnahmen. (Open Source, API) 
+ 
+Amazon Music: Amazon stellt Upload von Musiktiteln ein
+Eine Sperre für die kostenlose Version ist bereits aktiv: In Amazon Music können keine Lieder mehr hochgeladen werden. Bis Januar 2018 können Kunden auf das kostenpflichtige Abo umstellen. Allerdings will Amazon diese Funktion bis Anfang 2019 komplett abschalten. (Amazon Music, Musik) 
+ 
+Homebrew-System auf Nintendos Switch: Glitch the Switch!
+Bei Nintendos Switch baut Nvidia sich eine eigene Backdoor im Grafikprozessor, und Nintendo mapped den Kernel aus Versehen ausführbar in den Userspace. Trotzdem ist es gar nicht so leicht, eigenen Code zur Ausführung zu bringen - für einen Angriff werden sogar Kondensatoren getauscht. (Nintendo Switch, Linux-Kernel) 
+ 
+Gerichtspostfach: EGVP-Client wird zum Jahreswechsel eingestellt
+Der Client für das Elektronische Gerichts- und Verwaltungspostfach hat ausgedient. Die Software kann nur noch kurze Zeit verwendet werden. Grund ist teilweise das besondere elektronische Anwaltspostfach, das kürzlich mit Sicherheitslücken aufgefallen ist. (Software, Java) 
+ 
+Computergeschichte: Quellcode für Apples Lisa von 1983 wird frei verfügbar
+Ein Software-Kurator belebt eines der ersten GUI-Betriebssysteme wieder: Lisa 7/7 von 1983. Die Umwandlung nach Unix-Konventionen ist bereits fertig und wird von Apple geprüft. Der Lisa gilt als ein Wegweiser in Apples Unternehmensgeschichte. (Apple, Office-Suite) 
+ 
+Künstliche Intelligenz: Die dummen Computer noch dümmer machen
+Computerbasierte Entscheidungen können schon heute das Leben vieler Menschen beeinflussen. Was dahintersteckt und wie man sich gegen künstliche Intelligenz wehren kann, haben Hacker auf dem Kongress des Chaos Computer Clubs gezeigt. (34C3, Spam) 
+ 
+Facebook-Tochter: Instagram zeigt noch weniger gewünschte Inhalte an
+Der Umbau von Instagram geht weiter. Die Facebook-Tochter zeigt seit einiger Zeit verstärkt "empfohlene" Inhalte an, vermutlich, um die Interaktionsraten zu steigern. Eine entsprechende Entwicklung war mit der Facebook-Übernahme allerdings vorauszusehen, und der Anwender kann sich, typisch für Facebook, kaum wehren. (Instagram, Grafiksoftware) 
+ 
+Mozilla: Neue Thunderbird-Version behebt Abstürze unter Windows
+Das Update 52.5.2 behebt einen Fehler, der zum Absturz des E-Mail-Programms führen kann. Windows-Nutzer sollten sich das Update installieren. Auch mehrere Sicherheitslücken im RSS Feed werden behoben - das gilt für alle Betriebssysteme. (Thunderbird, Web2.0) 
+ 
+Windows 10 Insider Preview: Timeline stellt vergangene Sitzungen wieder her
+Der Build 17063 bringt viele Neuerungen für Windows 10. Insider können zum ersten Mal Timeline testen, die vergangene Sitzungen abspeichert und geräteübergreifend abrufbar macht. Cortana soll dabei helfen können, während Microsoft Edge das Fluent Design erhält. (Windows 10, Microsoft) 
+ 
+DWD-Wetter-App: 170.000 Kunden haben für die Warnwetter-App bezahlt
+Warnungen vor Hochwasser, Sturmfluten und Lawinen: Nach einem Urteil dürfen nur noch diese Informationen in der Warnwetter-App kostenlos sein. Der Deutsche Wetterdienst ist erfreut über die Zahlungsbereitschaft seiner Nutzer. (App, Politik/Recht) 
+ 
+Künstliche Intelligenz: KI will rock you
+Ein Beatles-Song auf Knopfdruck? Kein Problem. Hip-Hop-Beats in Sekunden? Bitte sehr. Künstliche Intelligenz wird kreativ - und könnte die Musikbranche verändern. (KI, Musik) 
+ 
+Media Player: Plexamp ist minimalistisch wie Winamp
+Simples Design und trotzdem funktional: Das Entwicklerteam von Plex will den 20 Jahre alten Winamp-Player als Plexamp wiederbeleben. Die Prämisse: eine möglichst simple Benutzeroberfläche und trotzdem viele Funktionen dank Client-Server-Struktur zum Selberbauen. (MP3, Musik) 
+ 
+Bundesrechtsanwaltskammer: BeA bleibt vorerst offline
+Nachdem Golem.de über Schwachstellen im besonderen elektronischen Anwaltspostfach berichtet hat, bleibt das System vorerst offline. In einer Mitteilung räumt die Bundesrechtsanwaltskammer Sicherheitslücken ein. (TLS, Verschlüsselung) 
+ 
+Whatsapp: Supportende für Blackberry und Windows Phone 8 bekräftigt
+Einen weiteren Aufschub gibt es nicht für die Blackberry-Plattform: Ende des Jahres endet der Support für Whatsapp. Das gilt auch für Nutzer von Windows Phone 8.0 - allerdings müssen entsprechende Smartphones deswegen nicht gleich ausgemustert werden. (Whatsapp, Smartphone) 
+ 
+BeA: Bundesrechtsanwaltskammer verteilt HTTPS-Hintertüre
+Im Rahmen des besonderen elektronischen Anwaltspostfachs (BeA) forderte die Bundesrechtsanwaltskammer ihre Mitglieder dazu auf, ein Root-Zertifikat zu installieren, zu dem der private Schlüssel öffentlich ist. Ein gravierendes Sicherheitsrisiko, das die Funktion von HTTPS aushebelt. (TLS, Technologie) 
+ 
+Myloc/Webtropia: Offene VNC-Ports ermöglichten Angriffe auf Server
+Golem.de hat den Serverhoster Webtropia über eine kritische Schwachstelle informiert: Über eine Lücke in den Ports der Kontrollserver hätten Angreifer ohne Passwort die Kontrolle übernehmen können - zumindest bei einigen Systemen. (Server, Server-Applikationen) 
+ 
+Security: Blizzard installiert selbstsigniertes Zertifikat mit Root
+Ein Zertifikat, dass vom Localhost signiert wird: Blizzard installiert ein Zertifikat mit Root-Rechten auf den Rechern seiner Nutzer - ohne Begründung oder Information. Auf Reddit erhitzen sich die Gemüter, sodass Blizzard sich doch noch erklären muss. (Battle.net, Browser) 
+ 
+Intel: Linux bekommt experimentelle HDR-Unterstützung
+Auf Grundlage einiger Kernel-Patches aus dem Sommer hat nun ein Intel-Entwickler Bestandteile für eine vollständige HDR-Unterstützung unter Linux umgesetzt. Die Arbeit ist aber lediglich ein Experiment und weit von einem stabilen Einsatz entfernt. (HDR, Display) 
+ 
+Tacotron 2: Googles Sprachsynthese erreicht fast menschliche Qualität
+Für die aktuelle Version seiner Sprachsynthese aus Text kombiniert Google verschiedene Ansätze und erreicht so fast die Qualität professionell vorgelesener Aufnahmen. Das System, Tacotron 2, hat aber noch große Schwierigkeiten mit Fremdwörtern und praktische Probleme. (Google, Applikationen) 
+ 
+Keeper Security: Passwortmanager-Hersteller verklagt Journalist Dan Goodin
+Wenige Tage, nachdem in der Browsererweiterung des Passwortmanagers Keeper eine kritische Sicherheitslücke gefunden wurde, verklagt dessen Hersteller den Journalisten Dan Goodin. Es ist offenbar nicht das erste Mal, dass Keeper juristisch gegen die Veröffentlichung von Schwachstellen vorgeht. (Security, Google) 
+ 
+Nouveau: Nvidia baut neues Grafikspeicher-API für freien Treiber
+Um die Arbeiten an einem einheitlichen Speicher-API für den Linux-Grafikstack voranzutreiben, hat Nvidia nun seinen Prototypen für den freien Nouveau-Treiber implementiert. Damit soll die Technik besser getestet und untersucht werden können. (Linux, Linux-Kernel) 
+ 
+Google: Neuronales Netz bewertet Bilder auf Skala von 1 bis 10
+Nima soll möglichst genau die ästhetische und handwerkliche Qualität eines Fotos einschätzen können, ohne dass das direkte Referenzbild zur Verfügung steht. Die Ergebnisse sind laut Google schon nah an der menschlichen Einschätzung, die Forschung aber noch recht fern von der produktiven Anwendung. (Google, KI) 
+ 
+Linux: Ubuntu 17.10 verursacht schwere Bios-Fehler
+Unter bestimmten Umständen zerstört die Desktop-Ausgabe des aktuellen Ubuntu 17.10 das Bios vor allem (aber nicht nur) von Lenovo-Rechnern. Aus diesem Grund hat Canonical das Installationsmedium vorübergehend von seinen Seiten genommen. (Ubuntu, Business-Notebooks) 
+ 

@@ -1,0 +1,120 @@
+Betriebssystem: Tanenbaum bedankt sich für Minix in Intel ME
+In einem offenen Brief bedankt sich Minix-Erfinder Andrew S. Tanenbaum für die Verwendung seines Systems in der Intel Management Engine. Auf mögliche Sicherheitslücken geht Tanenbaum nicht ein, dafür erwähnt er überraschend deutlich die Lizenz von Minix. (Open Source, Urheberrecht) 
+ 
+Wissenschaft: Noch sind KIs in Starcraft für Profi-Gamer leichtes Spiel
+Computer (sehr leicht): Zumindest Profi-Gamer besiegen künstliche Intelligenzen im Echtzeitstrategiespiel Starcraft sehr schnell - trotz 19.000 APM. Die Systeme haben einfach noch nicht genug Trainingsdaten. Das Potenzial zu siegen ist jedoch da. (KI, Google) 
+ 
+Security: Malware mit legitimen Zertifikaten weit verbreitet
+Aktuelle Forschungen werfen erneut ein schlechtes Licht auf den Umgang mit Zertifikaten. Fast 200 Malware-Proben sind mit legitimen digitalen Unterschriften ausgestattet gewesen. Damit kann die Schadsoftware Prüfungen durch Sicherheitssoftware bestehen. (Security, Virus) 
+ 
+Autokorrektur-Bug: iOS macht ein "A" für ein "i"
+In iOS 11.1 kann bei der Autokorrektur ein seltsamer Fehler auftreten. Bei einigen Anwendern wird das kleine "i" durch ein großes "A" und ein Symbol ersetzt. Der Fehler wird offenbar von Nutzer zu Nutzer übertragen. (Apple, Applikationen) 
+ 
+Open Source Android: LineageOS-Fork bringt freie Google-Dienste
+Ein spezieller Ableger des Cyanogenmod-Nachfolgers LineageOS kommt mit Microg - einer freien Reimplementierung der proprietären Google-Dienste für Android. Die Verwendung hat jedoch ein prinzipielles Problem, weshalb sich das LineageOS-Team weigert, Microg aktiv zu unterstützen. (LineageOS, Google) 
+ 
+Backup and Sync: Fehler in Google Drive löscht lokale Dateien von selbst
+Nutzer berichten von einem seltsamen Verhalten in Google Drive. Es werden einfach lokal gespeicherte Dateien gelöscht. Allerdings bleiben Dateien in der Cloud erhalten. Google arbeitet wohl bereits an einem Fix. (Google Drive, Google) 
+ 
+Savitech: USB-Audiotreiber installiert Root-Zertifikat
+Ein Treiber von Savitech installiert Root-Zertifikate in Windows, mit denen theoretisch HTTPS-Verbindungen angegriffen werden können. Genutzt wird der USB-Audiotreiber in Geräten von Asus, Dell oder auch Audio-Technica. Die Zertifikate waren für Windows XP gedacht und wurden vergessen. (Security, Treiber) 
+ 
+Störung: Downtime bei Whatsapp behoben
+Zahlreiche Nutzer der Messengers Whatsapp meldeten, dass sie keine Nachrichten mehr senden und empfangen konnten. Der Ausfall betraf offenbar besonders Mitteleuropa sowie Südostasien, auch wir konnten zwischenzeitlich keine Nachrichten versenden. Mittlerweile scheint das Problem behoben. (Whatsapp, Instant Messenger) 
+ 
+IBM Cloud Private: Hybride Cloud-Plattform setzt auf Open Source
+IBMs neue neue Cloud Private soll besonders für Entwickler interessant sein, die ihre Programme mit Public-Cloud-Diensten verknüpfen, ihre Daten aber privat verwalten wollen. Die Plattform unterstützt gängige Open-Source-Software wie Kubernetes und Openstack. (IBM, KI) 
+ 
+IETF: TLS 1.3 ist zu sicher für Ciscos Sicherheitsboxen
+Nach Versuchen der Bankenlobby und von ominösen Betreibern von Rechenzentren, das kommende TLS 1.3 zu schwächen, erklärt nun Cisco, dass TLS 1.3 die Sicherheitstechnik sogenannter Middleboxen verhindert. Dabei verhindern kaputte Middleboxen die Einführung von TLS 1.3. (TLS, Cisco) 
+ 
+Docker auf dem Raspberry Pi mit Hypriot: Gut verpackt
+Das Containerisieren von Anwendung und die Verwaltung der Ressourcen trauen die meisten nur ausgewachsenen Computern zu. Dass sich auch der Raspberry Pi zur Verwaltung von Containern eignet, zeigt HypriotOS. (Raspberry Pi, Server) 
+ 
+Augmented Reality in iOS-App: Amazon setzt Saftpresse virtuell in Szene
+Amazon hat in seine iOS-App eine Augmented-Reality-Funktion eingebaut, die Gegenstände in das Wohn- und Arbeitsumfeld des Interessenten maßstabsgerecht einblendet. Das soll vor teuren Fehlentscheidungen schützen. (Augmented Reality, Apple) 
+ 
+Poly: Google veröffentlicht 3D-Bibliothek für AR und VR
+Wer bisher bei der Erstellung oder der Suche von 3D-Objekten oder -Szenen wenig Erfolg hatte, für den hat Google nun Poly: Die Bibliothek umfasst Tausende von Assets für Augmented Reality - egal ob per ARCore oder per ARKit - und Virtual Reality. (Google, API) 
+ 
+Certificate Authority: Comodo gehört jetzt einem Staatstrojanerbesitzer
+Es ist schon die zweite Zertifizierungsstelle, die in diesem Jahr verkauft wird: Comodo stößt das Geschäft mit Zertifikaten an eine Investmentgesellschaft ab. Diese hat unter anderem auch Hersteller von Staatstrojanern im Portfolio. (Comodo, OCR) 
+ 
+Nvidia: Neuronales Netzwerk generiert fotorealistische Bilder
+Prominente, Tiere oder Fahrzeuge: Nvidias maschineller Lernalgorithmus generiert möglichst realistische Bilder. Die Vorlage stellen 30.000 Referenzbilder. Momentan sind die Ergebnisse noch nicht ohne Fehler - es sei denn ein zweiköpfiges Pferd ist erwünscht. (Nvidia, Datenbank) 
+ 
+Crypto-Messenger: Signal-Desktop-Client wechselt von Chrome auf Electron
+Der Crypto-Messenger Signal nutzt für seinen Desktop-Client nun Electron als Basis statt Chrome-Apps. Der Client ist damit unabhängig vom Browser nutzbar und eine eigenständige Anwendung. Linux-Nutzer werden vorerst aber nur teilweise bedient. (Security, iPhone) 
+ 
+Windows 10: Gratis-Upgrade für Nutzer von Assistenztechnik endet bald
+Die unbestimmte Zeit wird zum bestimmten Termin: Silvester 2017 ist der letzte Tag, an dem Nutzer von spezieller Peripherie für die alternative Bedienung ihr Betriebssystem kostenlos auf Windows 10 aktualisieren können. Der Stichtag kommt still und unerwartet. (Barrierefreiheit, Microsoft) 
+ 
+iOS 11.1 & MacOS High Sierra: Apples Krack-Patches sind nicht mehr Beta
+Apple patcht Krack für iOS und MacOS - ältere iPhones gehen aber trotz offizieller Unterstützung für iOS 11 bislang leer aus. In den Betriebssystemen wurden darüber hinaus viele zum Teil kritische Schwachstellen gepatcht. (Apple, Mac OS X) 
+ 
+Fast Pair: Android will Bluetooth-Verbindungen vereinfachen
+Mit Fast Pair hat Google für Android einen neuen Prozess vorgestellt, der Bluetooth-Verbindungen drastisch vereinfacht. Dank Nearby-Kommunikation wird dem Nutzer das jeweilige Gerät automatisch angezeigt, er muss dann nur noch auf eine Schaltfläche tippen. (Android, Google) 
+ 
+Microsoft: Office-365-Kunden nutzen künftig Outlook.com werbefrei
+Microsoft will Funktionen in Outlook.com für Office-365-Abonnenten freischalten. Am wichtigsten: keine Werbung! Aber auch das Scannen von E-Mail-Anhängen auf Malware und ein größeres Postfach wird es geben - Zweiteres auch für das kostenlose Konto auf Outlook.com. (Office 365, Microsoft) 
+ 
+Apple: MacOS High Sierra 10.13.1 ist fertig
+Apple hat neben iOS 11.1, WatchOS 4.1 und TVOS 11.1 auch ein Update für MacOS High Sierra veröffentlicht, das einige kleine Fehler behebt und viele neue Emojis mitbringt. (MacOS 10.13 High Sierra, Apple) 
+ 
+WatchOS 4.1: Apple-Music-Streaming für die Apple Watch verfügbar
+Das WatchOS-4.1-Update für die Apple Watch ist nach kurzer Betaphase veröffentlicht worden. Es bringt den vollen Zugriff auf Apple Music und ermöglicht das Streamen von Apples Internetradiosendern vom Handgelenk aus. Auch TVOS 11.1 steht bereit. (Apple Watch, Apple TV) 
+ 
+Apple: Neues iOS 11.1 scheint Probleme mit Akkulaufzeit zu beheben
+Apple hat nach längerer Betaphase ein Hauptupdate für iOS 11 bereitgestellt. Mit iOS 11.1 scheinen unter anderem die Probleme mit der Akkulaufzeit behoben worden sein. Zudem gibt es neue Emojis. (iOS 11, Apple) 
+ 
+Animation entfernt: Apple behebt Taschenrechner-Bug mit iOS 11.2 Beta
+Apple hat einen peinlichen Fehler in iOS entfernt, der beim schnellen Tippen auf dem Taschenrechner zu Fehlern führte. Das geschah selbst bei einfachen Rechenoperationen wie 1+2+3. Eine bremsende Animation wurde kurzerhand abgeschaltet. (iOS 11, Apple) 
+ 
+Linux: Kernel-Hacker wollen Yaml zur Hardware-Beschreibung nutzen
+Device Tree Sources (DTS) werden im Linux-Kernel zum Beschreiben von Hardware genutzt und sollen sich künftig auch im Yaml-Format definieren lassen. Das bringe einige Vorteile, sagen Kernel-Entwickler. (Linux-Kernel, Dateisystem) 
+ 
+Maschinelles Lernen: RCN erkennt zwei Drittel aller Recaptchas automatisch
+Das Team von Vicarious AI arbeitet an einem maschinellen Lernalgorithmus, der automatisch Captchas verschiedener Anbieter lösen kann. Anders als vegleichbare Systeme nutzt das Recursive Cortical Network (RCN) aber nur einzelne Klartextbuchstaben als Referenz. Das Ergebnis soll trotzdem besser sein. (Captcha, KI) 
+ 
+Smarte Lautsprecher: Amazon testet Abo-Modell für Alexa-Skills
+Wer das Quiz Jeopardy über seinen Alexa-Lautsprecher spielt, kann in den USA künftig für 2 Dollar pro Monat sechs weitere Hinweise erkaufen. Amazon testet mit dem Hersteller des Skills, Sony, ein Abo-Modell, das künftig auch für weitere Entwickler zur Verfügung stehen soll. (Amazon Alexa, Sound-Hardware) 
+ 
+Pharmahersteller: Merck musste wegen NotPetya-Angriff Medikamente leihen
+Auch das Pharmaunternehmen Merck Sharp und Dohme merkt den NotPetya-Angriff in seiner Bilanz: Rund 375 Millionen US-Dollar Ausfall gibt das Unternehmen durch die Ransomware an. Um den Betrieb trotz Produktionsausfällen aufrechtzuerhalten, hat sich die Firma sogar Medikamente bei den US-Behörden geliehen. (Ransomware, Virus) 
+ 
+Futuremark: Servermark testet Media-Transcode- und VM-Server
+Servermark von Futuremark kann Serverknoten und Cluster auf Leistungsfähigkeit prüfen. Eine erste Version simuliert das Umwandeln von 4K-Videoinhalten. Später soll eine Version für virtuelle Maschinen folgen. Auch ein Webserver-Benchmark ist in Arbeit. (Futuremark, IBM) 
+ 
+SUSE: SLE 15 vereinheitlicht Codebasis für alle Angebote
+Der Code und Installer von SLE 15 wird von Suse für Cloud- und traditionelle Kunden zusammengefasst, was mit der ersten Beta getestet werden kann. Die Distribution liefert zudem viele Paket-Updates und vor allem bessere Sicherheitstechnik. (Suse, OpenJDK) 
+ 
+Videoschnitt: Neues Final Cut Pro X unterstützt VR und HDR
+Das Update auf Apple Final Cut Pro X 10.4 soll zahlreiche Neuerungen für Videofilmer bringen. Die neue Version bietet Unterstützung für VR- und HDR-Workflows sowie den Standard HEVC. (Videobearbeitung, Apple) 
+ 
+HTTPS: Chrome will HTTP Public Key Pinning wieder aufgeben
+Es bringt zwar Sicherheitsgewinne, aber auch einige Gefahren: HTTP Public Key Pinning (HPKP) ist ein kontroverses Feature in Browsern. Jetzt will Chrome es wieder abschaffen - und setzt stattdessen vor allem auf Certificate Transparency. (Chrome, Browser) 
+ 
+Max-Planck-Institut: Maschinelles Lernsystem verbessert Auflösung von Bildern
+Wird "Zoomen und Verbessern" bald Realität? EnhanceNet-PAT ist ein Lernalgorithmus, der durch Mustererkennung Bilder hochauflösender machen kann. Das Vorbild für das maschinelle Lernen ist der Mensch selbst. (Maschinelles Lernen, KI) 
+ 
+Virenscanner: McAfee lässt nur noch die USA an den Quellcode
+Nach Symantec jetzt auch McAfee: Das Unternehmen will Regierungen keinen Zugriff mehr auf den eigenen Quellcode gewähren. Mit einer Ausnahme. (McAfee, Intel) 
+ 
+Microsoft: Sonar überprüft kostenlos Webseiten auf Fehler
+Wo kann eine Webseite optimiert werden? Sonar scannt Domains auf eventuelle Fehler oder Designschwächen im Quellcode und bietet Lösungsvorschläge an. Das Tool kann kostenlos im Browser oder in der Kommandozeile verwendet werden. (Test, Web2.0) 
+ 
+Freie Linux-Firmware: Google will Server ohne Intel ME und UEFI
+Nach dem Motto "Habt ihr Angst? Wir schon!" arbeitet ein Team von Googles Coreboot-Entwicklern mit Kollegen daran, Intels ME und das proprietäre UEFI auch in Servern unschädlich zu machen. Und das wohl mit Erfolg. (Open Source, Dateisystem) 
+ 
+Check Point: LGs smarter Staubsauger lässt sich heimlich fernsteuern
+LG hat eine Sicherheitslücke in seiner Smart-Home-App gepatcht, die eine volle Kontrolle über alle verbundenen Geräte ermöglicht hat. Dazu ist nur die Mailadresse der Besitzer erforderlich. Betroffen ist unter anderem die Kamera in einem smarten Staubsauger. (Security, LG) 
+ 
+Android 8.1: Erste Developer Preview ist da
+Google hat eine erste Developer Preview von Android 8.1 veröffentlicht. Mit der neuen Version gibt es vor allem interne Änderungen am Betriebssystem. Das fertige Android 8.1 ist für Dezember geplant. (Android 8.0, Google) 
+ 
+Bildbearbeitung: DxO rettet Nik Software Collection vor dem Ende
+Erst hat Google die sieben beliebten Bildbearbeitungsprogramme der Nik Collection verschenkt, dann die Entwicklung aufgegeben. Nun hat DxO die Windows- und Mac-Werkzeuge übernommen. (Bildbearbeitung, Google) 
+ 
+Maschinelles Lernen: Adobe Scribbler färbt Schwarz-Weiß-Skizzen automatisch ein
+Adobes Project Scribbler ist ein maschineller Lernalgorithmus, der selbstständig Skizzen und Fotos einfärben kann. Anhand von Referenzbildern errät er Ethnie, Alter und Geschlecht von Abgebildeten, sodass sogar Albert Einstein Farbe im Gesicht bekommt. (Adobe, KI) 
+ 
