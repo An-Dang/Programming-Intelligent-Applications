@@ -19,3 +19,5 @@ gan-wgan/StartTensorboard\.bat
 word-embedding-doc-classification/Data/
 
 word-embedding-doc-classification/Pics/
+
+wikiextractor
