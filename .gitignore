@@ -11,3 +11,7 @@ gan-tutorial/\.ipynb_checkpoints/
 tensorboard/
 
 .ipynb_checkpoints
+
+keys/
+
+gan-wgan/StartTensorboard\.bat
