@@ -1,0 +1,180 @@
+Intel liefert Rekordzahlen – Warten auf Lösung für Meltdown und Spectre
+Mit glänzenden Zahlen und einem optimistischen Ausblick gelingt es Intel vorerst, Sorgen um schwere Sicherheitslücken zu zerstreuen. Wie und wann genau die Prozessor-Schwachstellen richtig behoben werden, bleibt unklar. Doch das stört Anleger wenig.
+ 
+Elektroauto Microlino: Micro Mobility präsentiert Vorserienmodell seiner "Knutschkugel"
+Noch in diesem Jahr soll das Schweizer Elektroauto, das an die BMW Isetta angelehnt ist, auf den Markt kommen. Nun wurde erst einmal ein Vorserienauto vorgestellt.
+ 
+Windows 10 Telemetrie-Daten: An Microsoft geschickte Infos überwachen
+Im Windows Insider Programm für Windows 10 hat Microsoft eine Funktion eingebaut, die Einblicke in die übermittelten Telemetriedaten gibt: Der Diagnostic Data Viewer verrät, welche Informationen nach Redmond übermittelt werden.
+ 
+TV-Displays: 4K im Aufwind, HDR oftmals ungenutzt
+Bereits 10 Prozent aller Haushalte in Westeuropa sind mit 4K-Fernsehern ausgestattet, bis 2021 sollen es 32 Prozent sein. Viele der ultrahochauflösenden TV-Displays sind "HDR-kompatibel" − eine Worthülse, die es in sich hat.
+ 
+Besonderes elektronisches Anwaltspostfach: Das Chaos nimmt zu
+Das vorläufige Scheitern des beA entwickelt eine unerwartete Sprengkraft. Atos verweigert die beAthon-Teilnahme und lässt damit die BRAK endgültig im Regen stehen. Der Deutsche Anwaltverein stellt umfangreiche Forderungen.
+ 
+Hack der Playstation 4 zeigt: Start von PS2-Spielen möglich, nur Sony will nicht
+Hacker überlisteten die Sicherheitssysteme der Spielkonsole und konnten Playstation-2-Spiele mit wenigen Anpassungen auch auf der Playstation 4 laufen lassen.
+ 
+IMSI-Catcher, "Stille SMS" und Funkzellenauswertung: Digitale Überwachung auf Allzeit-Hoch
+Sicherheitsbehörden des Bundes haben digitale Ermittlungs- und Überwachungsinstrumente im zweiten Halbjahr 2017 mit bislang unbekannter Intensität eingesetzt.
+ 
+Weltwirtschaftsforum: Geschwindigkeit und beschleunigte Vernetzung als Gefahr
+Vor 20 Jahren diskutierte das Weltwirtschaftsforum über die vernetzte Gesellschaft. Zum Auftakt in Davos 2018 rufen Wirtschaftslenker danach, die dauernde Beschleunigung und Bequemlichkeit der vernetzten Dienste zu hinterfragen.
+ 
+Amazon Echo Spot im Test: Sprachassistent mit Display
+Nach dem Echo Show ist der neue Echo Spot der zweite Amazon-Lautsprecher mit dem Sprachassistenten Alexa, der Zusatzinformationen über ein integriertes Display darstellt. Wie gut das klappt und ob man das braucht, zeigt der Test von TechStage.
+ 
+Firefox 58: Bessere Performance für "ruckelfreies Internet"
+Firefox wird noch schneller: Ein neuer Compiler verarbeitet WebAssembly-Code schon während des Downloads und eine verbesserte Engine erhöht die Bildwiederholungsrate.
+ 
+Facebook verstärkt den Kampf gegen Hetze und Fake-News
+Facebook geht weiter in die Offensive: 10.000 neue Mitarbeiter sollen die Nutzer besser vor politischer Unterdrückung, Falschmeldungen und anderen Bedrohungen schützen. Einfach wird das jedoch nicht.
+ 
+500 Millionen Spieler von Blizzard-Computerspielen waren über Lücke angreifbar
+Im Blizzard Update Agent klaffte eine Sicherheitslücke, über die Angreifer Schadcode auf Computer hätten ausführen können. Eine abgesicherte Version ist erschienen.
+ 
+DLD18: Cybersecurity als Aufgabe für Staat, Unternehmen und die Bürger
+Cybersecurity war ein Topthema der DLD 18, auf der zu hören war, es sei heute kein Problem mehr, die Schuldigen von Cyberattacken zu finden. Was es jetzt brauche, seien klare Regeln für effektive Gegenschläge.
+ 
+Besonderes elektronisches Anwaltspostfach: Deutscher Anwaltverein fragt "beA - Wie geht es weiter?"
+Nachdem der CCC Sicherheitslücken beim besonderen elektronischen Anwaltspostfach meldete und eine Nachbesserung gründlich schiefging, wurde das beA kurzerhand abgeschaltet. Wie geht es nun weiter?
+ 
+Cracker hebeln Kopierschutz Denuvo 4.8 aus, Sonic Forces illegal im Netz
+Cracker haben den Kopierschutz des Spiels Sonic Forces umgangen. Dabei handelt es sich um die aktuelle Denuvo-Version 4.8, welche bisher als sicher galt.
+ 
+Next-Gen-Spielegrafik: Unity zeigt Techdemo Book of the Dead
+Eine Gruppe von Unity-Entwicklern hat mit Book of the Dead eine Technikdemo erschaffen, die nur noch beim genauen Hinsehen von der Realität zu unterscheiden ist.
+ 
+Sportrechte: Facebook holt Eurosport-CEO
+Das soziale Netzwerk verstärkt seine Bemühungen, das Publikum mit Liveübertragungen von Sportveranstaltungen bei Laune zu halten und holt dafür den bisherigen Chef von Eurosport, der nach den Olympischen Winterspielen wechseln soll.
+ 
+"Schutzranzen"-Projekt kombiniert Kinder-Tracking mit Verkehrssicherheit
+Der Bürgerrechtsverein Digitalcourage fordert, dass das Projekt "Schutzranzen" sofort eingestellt wird. Es zeichnet die Bewegung von Grundschulkindern auf. Die Datenschutzaufsicht erwartet von allen Projektbeteiligten "Mäßigung".
+ 
+Wettrennen ins All: 65 Firmen wollen Raketen für kleine Satelliten bauen
+Ein Startup nach dem anderen wagt sich daran, einen günstigeren Weg zu finden, Satelliten ins All zu bringen. Es ist ein Rennen gegen die Zeit.
+ 
+Erster Amazon-Supermarkt ohne Kassen öffnet
+Amazon will den Supermarkt neu erfinden: Keine Kassen, keine Schlangen, man nimmt, was man braucht und geht einfach raus. Ab Montag können Verbraucher die Technik im ersten "Amazon Go" in Seattle ausprobieren.
+ 
+Telekom-Chef hat das Jammern satt
+Weniger Kritik, aber auch weniger Regulierung, ein breiteres Funkspektrum und viel mehr Intelligenz im Netz verlangt Deutsche-Telekom-Chef Timotheus Höttges.
+ 
+NetzDG: Facebook sperrt Karikaturisten Schwarwel
+In seiner Zeichnung nahm Schwarwel die rassistische H&M-Werbung aufs Korn. Facebook und Instagram verstanden jedoch keinen Spaß.
+ 
+Bugfix: Google behebt Patzer in Chromecast und Google Home
+Die Betriebssysteme hatten für Unruhe unter Router-Herstellern gesorgt, weil sie gewöhnliche Annoncierungs-Nachrichten nach Aufwachen aus dem Stromsparmodus massenhaft verschickten und so manche Router lahmlegten.
+ 
+Meltdown und Spectre im Überblick: Grundlagen, Auswirkungen und Praxistipps
+Der erste Pulverdampf hat sich verzogen: c't 3/2018 fasst die wichtigsten Informationen zu den schweren Sicherheitslücken aktueller Prozessoren zusammen, liefert Messergebnisse und bringt Praxistipps.
+ 
+High-End-Grafikspeicher: Samsung beginnt GDDR6-Massenproduktion für Next-Gen-Grafikkarten
+Samsung hat die Massenproduktion von 16-GBit-GDDR6-Grafikspeicher gestartet. Er soll hohe Transferraten für kommende High-End-Grafikkarten liefern.
+ 
+Angeschlagene iPhone-Akkus: Wie eine Abschaltung von Apples Leistungsdrossel aussehen könnte
+Apple-Chef Tim Cook hat angekündigt, dass Nutzer künftig selbst entscheiden dürfen, ob ihr iPhone auch mit alter Batterie die volle Leistung entwickelt. Das ist lobenswert, doch eine echte Lösung ist es nicht.
+ 
+Cloudflare Access soll Unternehmens-VPNs ersetzen
+Mit seinem Proxy-Dienst Access will Cloudflare Firmen den komplizierten VPN-Betrieb ersparen. Unternehmen sollen ihre Anwendungen öffnen und per Identity-Management dennoch sicheren Zugriff gestatten.
+ 
+Google bevorzugt schnelle Webseiten in der Mobilsuche
+Google will künftig schnelle Webseiten in der Mobilsuche bevorzugen. Lahme Seiten landen unter Umständen auf den hinteren Suchergebnisseiten. Sie werden damit praktisch unsichtbar.
+ 
+Regulierer: Internet häufig langsamer als vertraglich vereinbart
+Die Auswertung von rund 700.000 Bandbreitenmessungen bei der Bundesnetzagentur stellt den deutschen Zugangsanbietern kein besonders gutes Zeugnis aus: Viele Nutzer erhalten nicht einmal die Hälfte der versprochenen Bandbreite.
+ 
+Fataler Konstruktionsfehler im besonderen elektronischen Anwaltspostfach
+Markus Drenger und Felix Rohrbach vom Chaos Darmstadt haben ihre Erkenntnisse zum beA am Dienstagabend an der TU Darmstadt erneut präsentiert. Und es sieht ganz danach aus, dass die Client-Software einen irreparablen Konstruktionsfehler hat.
+ 
+Face ID: iPhone X kann Gefühlslage des Betrachters in Echtzeit überwachen
+Ein Hackerteam hat eine App entwickelt, die über die TrueDepth-Gesichtskamera ermittelt, ob der Benutzer gerade traurig, überrascht oder sauer ist. Werbetreibende lecken sich nach solchen Möglichkeiten die Finger.
+ 
+Skygofree: Ausgefeilter Android-Trojaner spioniert seit 2014 Smartphones aus
+Über den Schädling Skygofree können Angreifer Android-Geräte fernsteuern und so etwa Audioaufnahmen starten und WhatsApp-Nachrichten mitlesen, warnen Sicherheitsforscher. Angriffe gibt es bislang aber nur in Italien.
+ 
+Linux-Kernel 4.15 schützt vor Meltdown und Spectre
+Das noch diesen Monat erwartete Linux 4.15 versucht, die Prozessor-Sicherheitslücken Meltdown und Spectre im Zaum zu halten. Ohne Performance-Verlust geht das aber auch bei Linux nicht – und vollständig sind die Gegenmaßnahmen  auch noch nicht.
+ 
+Meltdown & Spectre: Google brüstet sich mit "unbemerkten" Cloud-Patches
+Google hat die Super-GAU-Lücke nach eigenen Angaben schon vor Monaten gepatcht, ohne irgend jemandem was davon zu erzählen. Auch will man Spectre ohne Wenn und Aber gebannt haben, was den Aussagen der Entdeckern der Lücke widerspricht.
+ 
+Einwilligung: Datenschützer erzielen Erfolg gegen Googles Sammelpraxis
+Das Verwaltungsgericht Hamburg hat ein Klageverfahren Googles gegen eine Anordnung des Hamburgischen Datenschutzbeauftragten Johannes Caspar eingestellt. Die Kalifornier dürfen damit nicht pauschal übergreifende Nutzerprofile erstellen.
+ 
+Chinas und Südkoreas Vorgehen gegen Bitcoin lässt Kurse stürzen
+Angesichts des hohen Energieverbrauchs gehen China und Südkorea verstärkt gegen Bitcoin-Mining vor. Die Regulierungsbemühungen der beiden asiatischen Staaten lassen den Kurs der digitalen Währung offenbar nun einbrechen.
+ 
+Kurswechsel bei Facebook: Biedermeier statt Aufklärung
+An der Oberfläche ist Facebooks neue Strategie Ausweis eines digitalen Biedermeier: Die bürgerliche Familie zieht sich ins heile Private zurück. Das Fundament bleibt allerdings Facebooks Lockvogeltaktik. Ein Kommentar von Daniel AJ Sokolov.
+ 
+Meltdown und Spectre: Spontane Neustarts nach Updates von Intels Haswell- und Broadwell-CPUs
+Manche Nutzer von Haswell- und Broadwell-Prozessoren kämpfen laut Intel mit spontanen System-Neustarts. Intel sucht derzeit noch die Ursache.
+ 
+AMD rudert zurück: Prozessoren doch von Spectre 2 betroffen, Microcode-Updates für Ryzen und Epyc in Kürze
+AMD-Prozessoren sind nun doch von der zweiten Spectre-Variante Branch Target Injection betroffen. AMDs Senior Vice President stellte bereits Microcode-Updates für Ryzen und Epyc in Aussicht.
+ 
+Vorsicht vor Fake-Mails vom BSI mit angeblichen Meltdown-/Spectre-Patches
+Betrügerische Mails im Namen des Bundesamt für Sicherheit in der Informationstechnik wollen Opfern einen als Meltdown-/Spectre-Patch getarnten Trojaner unterjubeln.
+ 
+Neue Algorithmen für Facebook: Weniger Nachrichten, mehr Persönliches
+Statt "relevanter Inhalte" stehen bei Facebook fortan "bedeutsame Interaktionen" mit Menschen im Vordergrund. Das bedeutet mehr Katzen- und Babyfotos, weniger Nachrichten. User werden dann womöglich weniger Zeit auf Facebook verbringen.
+ 
+Spectre-Lücke: Auch Server mit IBM POWER, Fujitsu SPARC und ARMv8 betroffen
+IBM stellt Firmware-Updates für Server mit POWER7+, POWER8 und POWER9 bereit, Fujitsu will einige SPARC-M10- und -M12-Server patchen; zu ARM-SoCs für Server fehlen Infos.
+ 
+Intel-Benchmarks zu Meltdown/Spectre: Performance sackt um bis zu 10 Prozent ab, SSD-I/O deutlich mehr
+Die Leistungsfähigkeit aktueller Intel-Prozessoren kann sich laut Intel nach dem Einspielen von Sicherheitspatches um bis zu 10 Prozent verringern, in Spezialfällen fällt der Performance-Verlust sogar noch höher aus. Besonders betroffen: SSD-Systeme.
+ 
+FAQ zu Meltdown und Spectre: Was ist passiert, bin ich betroffen, wie kann ich mich schützen?
+Antworten auf die häufigsten Fragen zu den Prozessorlücken und Angriffsszenarien Meltdown und Spectre.
+ 
+CES: Schnellladen per USB-C: USB-IF zertifiziert generische Schnellladegeräte
+Das Standardisierungsgremium USB-IF hat ein Zertifizierungsprogramm für USB-C-Netzteile aufgelegt, die Schnellladen gemäß der von Smartphone-Herstellern gewünschten PPS-Spezifikation bieten.
+ 
+Patchday: Zero-Day-Lücke in Microsoft-Office
+Microsoft schließt Sicherheitslücken in Office, Windows & Co. Davon gelten mehrere als kritisch. Angreifer nutzen derzeit eine Office-Schwachstelle aktiv aus.
+ 
+CES: Kartendienst Here: BMW-Integration und Tracking für SAP
+Der ehemalige Nokia-Kartendienst Here entwickelt für SAP ein Tracking-Verfahren, um beispielsweise Container per GPS zu verfolgen. Die mittlerweile über 500.000 km umfassende HD Live Map will Here noch dieses Jahr auf eine Million Kilometer erweitern.
+ 
+Donald E. Knuth: Der Informatik-Papst wird 80
+In den 60er-Jahren begann Donald E. Knuth ein Standardwerk der Informatik zu schreiben: The Art of Computer Programming. Das dauerte "etwas" länger als angenommen: Jetzt wird er 80 und schreibt noch immer.
+ 
+Microsoft über Meltdown & Spectre: Details zu Patches und Leistungseinbußen
+In einem Blog-Beitrag erklärt Microsoft-Vizepräsident Terry Myerson die Updates für Windows genauer und gibt auch Schätzungen zu Leistungseinbußen ab: Die können unter Windows Server erheblich sein.
+ 
+CES: Dell präsentiert sechs neue Laptops und Convertibles fürs Büro
+Eine Reihe neuer Rechner hat Dell auf der CES vorgestellt. Zwei erscheinen als Convertibles, bei den restlichen Modellen handelt es sich um klassische Laptops.
+ 
+Meltdown und Spectre: Intel patcht ab 2013 produzierte Prozessoren, bestätigt Performance-Auswirkung
+Intel will zunächst nur die Prozessoren der letzten fünf Jahre mit Sicherheitsupdates versorgen und will diese noch im Januar ausspielen. Was mit älteren Prozessoren geschieht, ist unklar.
+ 
+Meltdown und Spectre: Microsoft veröffentlicht Prüfwerkzeug für Prozessor-Sicherheitslücken
+Microsoft hat ein PowerShell-Modul veröffentlicht, mit dem sich Windows-Client- und -Server-Systeme darauf abklopfen lassen, ob sie anfällig für Meltdown- oder Spectre-Angriffe sind.
+ 
+VR-Headset HTC Vive Pro ausprobiert: Endlich mehr Pixel
+VR-System HTC Vive bestach bislang durch tolles Tracking, nicht so sehr durch Bildschärfe. Die neue Vive Pro will das mit höher auflösenden Displays ändern. Wir haben die Brille auf der CES ausprobiert.
+ 
+Meltdown und Spectre: Die Sicherheitshinweise und Updates von Hardware- und Software-Herstellern
+Hersteller von Hard- und Software sind von den Sicherheitslücken Meltdown und Spectre gleichermaßen betroffen. Eine Linkübersicht zu Stellungnahmen, weiterführenden Informationen und Update-Hinweisen.
+ 
+heise-Angebot: Netztalk am 16. Januar: Der (digitale) Kapitalismus ist nicht in der Krise
+Was passiert, wenn sich Unternehmen Menschheitsaufgaben zum Ziel setzen? Wie sieht eine Gesellschaft aus, in der das Internet zur Meta-Struktur einer neuartigen Ökonomie wird? Darüber und um mehr Themen geht es nächste Woche im Gespräch mit Timo Daum.
+ 
+CES: Nvidia für autonome und vernetzte Autos: weitere Drive-Bausteine und neue Partnerschaften
+Nvidia erweitert sein Angebot an Entwickler-Tools im Automotive-Bereich; zudem ist die nächste Hardware-Plattform Xavier fast fertig. Das lockt weitere Autohersteller und Zulieferer an.
+ 
+CES: Elektroauto Byton Concept: Das autonome Spielmobil kommt
+Ein Auto wie ein Smartphone: Der Elektro-SUV Byton Concept fährt mit riesigen Touchscreen als Armaturenbrett, Gestensteuerung und Gesichtserkennung vor. Dazu gibt es lernfähige Sprachassistenten und jede Menge Ablenkung vom langweilen Fahren.
+ 
+CES: Philips SmartSleep: Stirnband soll Tiefschlafphase auslösen
+Im Rahmen der CES hat Philips die nach eigenen Angaben erste Lösung vorgestellt, die für eine gesündere Nachtruhe sorgt, indem sie gezielt die Tiefschlafphase aktiviert.
+ 
+CES: Intel Core i-8000G: Kombiprozessoren mit leistungsfähiger Vega-Grafik für Notebooks
+Die leistungsfähigen Quad-Core-CPUs mit AMD-GPU und HBM2-Speicher ersetzen in flachen Notebooks Mobil-Grafikkarten. Intel verspricht genug Performance, damit aktuelle Spiele in Full-HD-Auflösung mit hohen Details flüssig laufen.
+ 
+CES: 8K, IoT und Elektroautos auf der CES: Las Vegas zeigt, was uns dieses Jahr erwartet
+Autos fahren von selbst, Fernseher können gar nicht genug Pixel bekommen und das Eigenheim spricht mit dem Handy. Auf der CES in Las Vegas stellen Unternehmen ihre Zukunftstechnik zur Schau. Was wir von der Messe erwarten.
+ 

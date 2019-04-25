@@ -1,0 +1,180 @@
+Huawei Mate 10 Pro im Test: Angriff auf die Oberklasse
+Die Präsentation des neuen Huawei Mate 10 Pro hat die Erwartungen hochgeschraubt: OLED-Display, Doppel-Kamera mit Leica-Schriftzug und ein eigener KI-Prozessor versprechen ein Smartphone im High-End-Segment. TechStage hat das Mate 10 Pro getestet.
+ 
+Krypto-Mining im Browser: Software-Hersteller wollen Nutzer besser schützen
+Mining-Skripte zwacken beim Surfen heimlich Rechenleistung zum Schürfen von Krypto-Währungen ab. Adblocker- und Browser-Hersteller erarbeiten Gegenstrategien. Einige Skript-Entwickler reagieren ihrerseits, indem sie Nutzer künftig um Erlaubnis fragen.
+ 
+Crypto Wars: EU-Kommission plant Entschlüsselungsstelle
+Europol soll Strafverfolgern in der EU dabei helfen, verschlüsselte Kommunikation zu entziffern, geht aus einem Brüsseler Aktionsplan hervor. Nationale Fahnder sollen auch einen "Werkzeugkasten" erhalten mit "alternativen Ermittlungsbehörden".
+ 
+Motorola Solutions: Neue Technik für Feuerwehr und Polizei
+Motorola Solutions hat in Berlin ein Innovation Center eröffnet. Am Standort am Borsigturm sollen Technik für künftige Einsatzszenarien von Feuerwehr und Polizei entwickelt werden.
+ 
+Ubuntu 17.10 freigegeben: Gnome verdrängt Unity als Standard-Desktop
+Unity hat ausgedient, Gnome ist als Standard-Desktop zurück. Der bringt gleich Wayland mit, das den X-Server überflüssig macht. Anders als seine direkten Vorgänger hat das neue Ubuntu damit eine Reihe aufregender Neuerungen.
+ 
+KRACK: Der Angriff auf WPA2 erklärt
+Seit Tagen sorgt eine auf den Namen KRACK getaufte Schwachstelle im Sicherheitsstandard WPA2 für Aufsehen. Das Prinzip der Attacke ist dabei eigentlich ganz einfach, erklärt heise Security.
+ 
+Samsung bestätigt: Windows-Mixed-Reality-Headset Odyssey kommt vorerst nicht nach Europa
+Das auf dem Papier leistungsfähigste Windows-Mixed-Reality-Headset kommt nicht nach Europa: Samsung hat gegenüber Medien bestätigt, die Odyssey hierzulande vorerst nicht auf den Markt zu bringen.
+ 
+Photoshop und die Zukunft der Bildbearbeitung
+Adobe hat auf der Kreativkonferenz Max 2017 Einblicke in die Bildbearbeitung der Zukunft gegeben. Adobe Sensei erstellt Kompositionen nach den Wünschen des Nutzers nahezu automatisch.
+ 
+Cyborg-Aktivistin: Wir können die Evolution überrunden
+Moon Ribas, Mitgründerin der Cyborg Foundation, und der Androiden-Papst Hiroshi Ishiguro warben auf einem russischen Innovationsforum für die menschliche Selbsterweiterung. Es gehe nicht um ein Wettrennen mit der Maschine, sondern um mehr Diversität.
+ 
+Adobe aktualisiert Creative Cloud
+Auf der Kreativkonferenz Adobe Max 2017 hat Adobe eine Reihe Updates für seine Creative-Cloud-Anwendungen vorgestellt und veröffentlicht, unter anderem für Illustrator und Premiere Pro sowie für die neuen Werkzeuge Adobe XD und Adobe Dimension.
+ 
+Adobe erfindet Lightroom neu
+Adobe hat Lightroom CC als Cloud-gestützte Desktop-Version von Lightroom Mobile völlig neu entwickelt. Photshop CC, mobiles und Desktop-Lightroom greifen künftig auf dieselben Daten zu. Aber auch Lightroom "Classic" CC bekommt ein Update.
+ 
+Hunderttausende Infineon-Sicherheits-Chips weisen RSA-Schwachstelle auf
+Viele Hardware-Hersteller verbauen Trusted Platform Modules (TPMs) von Infineon. In denen befindet sich bereits seit 2012 eine Lücke, die die Sicherheit von RSA aushebelt. Einige Hersteller haben Sicherheitsupdates veröffentlicht; andere stehen noch aus.
+ 
+Kuratas vs. Megabots: Sieg für die USA
+Mit einer Kettensäge hat Riesenroboter Eagle Prime von Megabots sich gegen den japanischen Konkurrenten Kuratas durchgesetzt. Dem ersten Duell soll jetzt eine Liga für bemannte Roboter folgen.
+ 
+Critical Patch Update: Oracle lässt 252 Sicherheitspatches von der Leine
+Oracle schließt in seinem Quartals-Update unzählige Schwachstellen in seinem Software-Portfolio. Besonders kritische Lücken klaffen in Oracle Hospitality Applications und Oracle Siebel CRM.
+ 
+DockerCon EU 2017: Bringt Kubernetes die Wende?
+Mit CEO Steve Singh und der nativen Unterstützung von Kubernetes will Docker nicht mehr nur wachsen, sondern auch Geld verdienen. Keine einfache Aufgabe, wie auf der DockerCon EU 2017 deutlich wurde.
+ 
+Medwedew schließt russischen Sonderweg in die digitale Welt aus
+Der russische Ministerpräsident Dmitri Medwedew betonte auf einem Innovationsforum, es sei problematisch, wenn kritische Infrastrukturen über fremde Plattformen kontrolliert würden. Vordenker kündigten den "perfekten Kapitalismus" an.
+ 
+Kurztest: Windows Mixed Reality überzeugt, Start mit 38 VR-Titeln
+Die erste Windows-Mixed-Reality ist in unserem Testlabor eingetroffen und überzeugt durchaus: Die Installation funktioniert einfach, das Mittendrin-Gefühl stimmt, die 16 Start-Titel sind ordentlich. Ein paar Kritikpunkte haben wir aber auch.
+ 
+Die KRACK-Attacke: Gefahr und Schutz, eine Einschätzung
+Die am Montag präsentierte KRACK-Attacke auf die WLAN-Verschlüsselung WPA2 ist eine ernste Lücke, die schnellstmöglich behoben werden sollte. Sie ist jedoch kein Grund zur Panik und auch kein Grund, alle Internet-Aktivitäten einzustellen.
+ 
+KRACK: Hersteller-Updates und Stellungnahmen
+Mittlerweile haben einige von der WPA2-Lücke KRACK betroffene Hersteller Patches veröffentlicht, die die Gefahr abwehren. Andere meldeten sich in Stellungnahmen zu Wort.
+ 
+Lobby-Bericht E-Privacy: Wie die Industrie starken Datenschutz bekämpft
+Mit Cocktail-Debatten und anhaltenden Kampagnen versucht vor allem die Online-Werbewirtschaft laut der Analyse "Big Data Is Watching You" die Schutzbestimmungen in der geplanten E-Privacy-Verordnung aufzuweichen.
+ 
+US Supreme Court wird über US-Zugriff auf EU-Daten entscheiden
+Die US-Regierung will Microsoft zwingen, in der EU gespeicherte Daten in die USA zu holen und preiszugeben. Bislang vergeblich. Nun widmet sich das US-Höchstgericht dem Fall.
+ 
+Details zur KRACK-Attacke: WPA2 ist angeschlagen, aber nicht gänzlich geknackt
+Schwachstellen im WPA2-Protokoll führen dazu, dass Angreifer eigentlich geschützten Datenverkehr mitlesen könnten. Davon sind im Grunde alle Geräte mit WLAN-Chip bedroht. Das WLAN-Passwort ist aber nicht gefährdet.
+ 
+Kilonova nachgewiesen: Forscher beobachten erstmals direkt Quelle von Gravitationswellen
+Die größten Detektoren haben schon mehrmals Gravitationswellen als Zeugnisse extremster Ereignisse im All registriert. Nun konnten sie dank ihnen erstmals direkt die Verschmelzung zweier Neutronensterne beobachten. Für Astronomen beginnt eine neue Ära.
+ 
+WPA2: Forscher entdecken Schwachstelle in WLAN-Verschlüsselung
+Sicherheitsforscher haben offenbar kritische Lücken im Sicherheitsstandard WPA2 entdeckt. Sie geben an, dass sich so Verbindungen belauschen lassen.
+ 
+Siri, Alexa & Co.: Kommunikation mit Assistenten immer noch voller Missverständnisse
+Quo vadis, Sprachassistenten? Die aktuelle Ausgabe der c't vergleicht die vier wichtigsten Assistenten, klärt Rechtsfragen und testet, wie sich die Sprachsysteme auf Dritthersteller-Geräten verhalten.
+ 
+Analyse: Endlich offenes WLAN!
+Die lang erwartete Änderung des Telemediengesetzes ist in Kraft getreten, die das Haftungsrisiko für die Betreiber offener WLANs entfallen lässt. Ein dicker Wermutstropfen bleibt allerdings.
+ 
+Kommentar: Schade ist's um Windows Mobile
+Endlich hat sich mal jemand unmissverständlich zum Schicksal von Windows Mobile geäußert: Microsofts Smartphone-System steht auf dem Abstellgleis und hat keine Zukunft mehr. Ein Abgesang.
+ 
+Fehler in WSUS-Update: Windows-Clients booten nicht mehr
+Fehlerhafte Update-Pakete für Windows 10 und Windows Server 2016, die Microsoft am jüngsten Patchday veröffentlicht hat, legten in den vergangenen Tagen Rechner in Unternehmensnetzwerken lahm. Betroffen waren nur Umgebungen mit WSUS und SCCM.
+ 
+Tiangong 1: Chinesische Raumstation vor unkontrolliertem Absturz
+Ende des Jahres oder Anfang 2018 wird Tiangong 1 abstürzen, ohne dass absehbar ist, wann genau das passieren wird und wo mögliche Trümmerteile einschlagen könnten. Das wird sich erst kurz vorher abzeichnen. Das Risiko einer Gefährdung sei sehr gering.
+ 
+IT-Fachkräfte: 2018 soll es mehr Geld geben
+2018 erwartet IT-Fachkräfte ein überdurchschnittlich höheres Gehalt. Das geht zumindest aus einer Prognose des Personaldienstleister Robert Half hervor. Insbesondere Softwareentwickler in München sollen profitieren.
+ 
+Bug auf T-Mobile-Website ermöglichte den Abruf vertraulicher Kundendaten
+In der Website t-mobile.com klaffte ein Sicherheitsleck, das die Abfrage von Kundendatensätzen durch potenzielle Angreifer erlaubte. Kunden aus Deutschland waren angeblich nicht betroffen.
+ 
+Internet per Coax-Kabel: Symmetrische 10 GBit/s am Horizont
+Die Kabel-Branche sieht sich weltweit durch allmählich fortschreitenden Glasfaser-Ausbau unter Druck. Nun will sie mit einer Erweiterung der DOCSIS-Spezifikation 3.1 dagegen halten.
+ 
+Systemverwaltung: PowerShell goes Cross-Plattform
+Die Veränderung von PowerShell geht weiter: Die im Laufe des Jahres erscheinende Version 6.0 soll das Microsoft-Framework zur Systemverwaltung weiter für den Cross-Plattform-Einsatz vorbereiten.
+ 
+Actioncam GoPro Hero6 Black im Test – perfekt zum Geschichten erzählen
+TechStage hat die neue Action-Kamera GoPro Hero6 Black getestet. Sie kann nun Videos im Format 4K UHD bei 60 Bildern pro Sekunde aufnehmen und erstellt automatisch Kurzfilme, die sich mit einem Klick teilen lassen. Ob sich das Paket für 569 Euro lohnt?
+ 
+Vertrauliche Daten von Accenture auf ungeschützten Webservern
+Tag der offenen Tür in Accentures Cloud: Mindestens vier Server voll vertraulicher Daten wie Passwörter und Entschlüsselungscodes waren laut Sicherheitsforschern im Netz frei zugänglich.
+ 
+Kindle Oasis: Neuer E-Reader mit größerem Display, ohne Akkuhülle und mit Hörbüchern
+Parallel zur Eröffnung der diesjährigen Frankfurter Buchmesse und kurz nach der Vorstellung des neuen Tolino Epos hat Amazon den neuen Kindle Oasis präsentiert. Der E-Reader wurde deutlich überarbeitet und kann nun auch Hörbücher abspielen.
+ 
+Online-Banking offline: Umleitungs-Probleme bei der Netbank
+Nach langfristigen Ankündigungen hat die Netbank am vergangenen Wochenende ihre Datenbestände migriert und - fast mit Ansage - eine Menge Kunden mit Dienstunterbrechungen in den Regen gestellt.
+ 
+Schlüsselbund-Passwörter-Klau auf dem Mac: Sierra und El Capitan bleiben anfällig
+Apple hat einen schwerwiegenden Fehler in der sogenannten Keychain nur in macOS High Sierra behoben. Der Entdecker will zunächst keinen Exploit publizieren – doch er wird kommen.
+ 
+Patchday: Microsoft kümmert sich um 62 Lücken, Adobe um keine
+In Windows & Co. klaffen 27 als kritische eingestufte Schwachstellen. Adobe veröffentlicht zwar einen neuen Flash Player, hat darin aber keine Sicherheitslücke gestopft.
+ 
+Kaspersky gehackt: Israelische Agenten sollen russischen NSA-Hack entdeckt haben
+Als russische Hacker angeblich dank der Malware-Analyse von Kaspersky auf einem PC NSA-Material entdeckt und an sich gebracht haben, hatten sie Beobachter: Laut einem Bericht war Kaspersky von israelischen Agenten infiltriert, die die NSA alarmierten.
+ 
+it-sa 2017: Weltweit erste externe Festplatte mit BSI-Zertifikat
+Behörden und Unternehmen mit hohen Datenschutz-Anforderungen setzen schon lange auf verschlüsselte Speichermedien. Nun wurde auf der it-sa die weltweit erste externe HDD/SSD mit BSI-Zertifikat präsentiert.
+ 
+Elektronische Gesundheitskarte: Informationen zum Start der Online-Anbindung
+Die Broschüren der Gematik sollen Leistungserbringer und den IT-Dienstleister darüber informieren, was alles bei der Einrichtung einer Online-Anbindung zu beachten ist.
+ 
+Freie Routerwahl: Es knirscht zwischen Fritzboxen und Vodafone-Kabelanschlüssen
+Kabel-Fritzboxen, die aus dem Fachhandel stammen, bauen seit einiger Zeit keine Internet-Verbindung mehr auf. Der Netzbetreiber hatte den Support zunächst verweigert, obwohl nicht klar ist, ob der Fehler im Router liegt.
+ 
+Librem 5: Purisms freies Smartphone erreicht Crowdfunding-Ziel
+Mit 1,5 Millionen US-Dollar hat der Hersteller Purism die Mindestsumme für die Entwicklung des "weltweit ersten freien Smartphones" namen Librem 5 einsammeln können. 2019 sollen Unterstützer ihr Gerät erhalten.
+ 
+Google-Analyse: Microsoft patcht Windows 7/8 teilweise nicht
+Forscher von Google haben nachgewiesen, dass Microsoft Sicherheitslücken in Windows 10 behoben hat, die gleichen Lücken in Windows 7 und 8 jedoch offen ließ. Patches kamen erst, als die Veröffentlichung durch Project Zero drohte.
+ 
+Financial Times bekämpft Werbebetrug
+Millionenverluste durch Domain-Spoofing: Werbenetzwerke verkauften Videowerbung für Leser der Financial Times, die aber tatsächlich auf anderen Websites ausgespielt wurde.
+ 
+Vernetzte Lautsprecher: Sony plant angeblich "smartes Haustier"
+Sony könnte demnächst mit einem eigenen smarten Lautsprecher Amazon, Google und Apple Konkurrenz machen, wenn es nach dem Bericht einer japanischen Zeitung geht.
+ 
+Microsoft-Manager: Keine neuen Funktionen mehr für Windows-Phones
+Microsoft-Gründer Bill Gates nutzt schon eine Zeit lang kein Smartphone mit einem Windows-System mehr. Nun erklärt der amtierende Windows-Chef das "Aus" für Windows Mobile 10 auf dem Smartphone.
+ 
+Abgas-Skandal: Hersteller sollen Diesel-Autos mit Hardware nachrüsten
+Ursprünglich hatte die Industrie nur angeboten, die Software anzupassen. Nun sollen sie dazu gebracht werden, auch die Hardware nachzurüsten, um den Stickoxidausstoß einzudämmen.
+ 
+Asteroid passiert knapp die Erde – Simulation des Ernstfall-Szenarios
+Der Asteroid 2012 TC4 wird sich kommende Woche der Erde nähern. Gefährlich wird er laut Experten nicht. Für die Wissenschaft bietet er jedoch die Gelegenheit, verschiedene Schutzszenarien durchzuspielen.
+ 
+Russland soll dank Kaspersky-Software NSA-Dokumente an sich gebracht haben
+Ein NSA-Angesteller soll 2015 Dokumente mit nach Hause genommen haben, um dort daran zu arbeiten. Auf dem Rechner seien sie von der Kaspersky-Software entdeckt und der ins Visier des Kremls geraten. Das berichtet das "Wall Street Journal" – ohne Belege.
+ 
+Erst Mond dann Mars: Trump-Regierung ändert Zielrichtung der NASA
+Die USA wollen erst zum Mond zurückkehren und dort eine Präsenz errichten, bevor es zum Mars gehen soll. Das kündigte US-Vizepräsident Mike Pence an und forderte, dass sein Land wieder die Führung im Weltraum übernehmen solle.
+ 
+Verfassungsschutzchef will IP-Adressen von Abrufern von Enthauptungsvideos
+Die Präsidenten der deutschen Geheimdienste haben in einer ersten öffentlichen Anhörung im Bundestag Teile ihres Wunschzettels präsentiert. Ganz oben stehen Befugnisse zum "Zurückhacken" und Abhören von WhatsApp und Co.
+ 
+Intel schlägt zurück: Core i7-8700K gegen AMD Ryzen 7
+Die Sechskerner der achten Core-i-Generation Coffee Lake lösen die Kaby-Lake-Quads ab: Reicht das, um gegen die AMD-Achtkerner zu punkten?
+ 
+NSA-Skandal: Keine Hinweise auf NSA-Spionage – Generalbundesanwalt beendet Untersuchung
+Mehr als vier Jahre nach Beginn des NSA-Skandals mit den Veröffentlichungen von Edward Snowden, sieht der Generalbundesanwalt "keine belastbaren Hinweise" auf eine massenhafte und systematische Internetüberwachung. Die Untersuchungen werden eingestellt.
+ 
+Vor 25 Jahren: IBM kündigt seine Thinkpads an
+Heute vor 25 Jahren kündigte IBM seine ersten drei Thinkpads an, die Modelle 700, 700C, und 700T. Gezeigt wurden sie dann erstmals auf der Comdex in Las Vegas im November 1992.
+ 
+Google Pixel 2: aus eigener Kraft mehr wie Apple sein – ein Kommentar
+Mit dem Nexus One führte Google einst das pure Android-Gerät ein. Mit dem Pixel veränderte Google den Kurs in Richtung integrierter Premium-Anbieter. Der Erfolg blieb aus. Jetzt legt Google nach – und kann dabei auf eigene Stärken bauen.
+ 
+Googles Pixel Buds: Bluetooth-Kopfhörer als Babelfisch
+Mehr als Musik hören: Dank Google Assistant sollen die neuen Kopfhörer des Suchmaschinenriesen auch noch zusammen mit dem Android-Phone als Übersetzer aus und in 40 Sprachen dienen.
+ 
+Google Pixel 2 ausprobiert: Guter Porträt-Modus, Offline-Musikerkennung und drei Jahre Update-Garantie
+Das Pixel 2 sieht ähnlich aus wie der Vorgänger, hat intern aber deutlich mehr zu bieten: Zum Beispiel eine verbesserte Kamera und "Google Lens". Android-Fans freuen sich über die dreijährige Update-Garantie. Was es nicht gibt: Eine Kopfhörerbuchse.
+ 
+Google Home Mini und Max: Smarte Lautsprecher für jeden Geschmack
+Künftig gibt es eine Mini- und eine Maxi-Version des Lautsprechers Google Home mit integriertem Sprachassistenzsystem.
+ 

@@ -1,0 +1,120 @@
+Bounded Floating Point: Patent grenzt Genauigkeitsfehler bei Fließkommazahlen ein
+Ob die Konstante Pi oder die Wurzel aus 0,1: Fließkommazahlen bringen Ungenauigkeiten mit sich. Im Militäreinsatz hat es dadurch auch schon Tote gegeben. Ein Patent für Bounded Floating Point soll diesen Fehler einschränken. Das Prinzip ist dabei schon länger bekannt. (Softwarepatent, Softwareentwicklung) 
+ 
+Not Petya: Maersk erneuerte IT-Infrastruktur in zehn Tagen
+In der Not muss es mit Papier und Stift gehen: Nach dem Not-Petya-Angriff arbeitete die Reederei Maersk rund zehn Tage lang analog. In der Zeit wurden mehr als 45.000 Rechner neu aufgesetzt. (Malware, Virus) 
+ 
+Anwaltspostfach: Die unnötige Ende-zu-Mitte-Verschlüsselung von BeA
+Beim besonderen elektronischen Anwaltspostfach wird angeblich eine Ende-zu-Ende-Verschlüsselung eingesetzt - dabei sind die privaten Schlüssel nicht in der Hand der Nutzer, sondern in einem Hardware Security Module gespeichert. Wir erklären, wie es besser gehen würde. (BeA, Verschlüsselung) 
+ 
+Windows 10: Microsoft will aufzeigen, was an Gerätedaten gesammelt wird
+Sprachdaten, Positionsdaten und Browserverlauf: Nutzer sollen künftig einen besseren Überblick über gesammelte Daten in Windows 10 bekommen. Dazu stellt Microsoft ein Dashboard für Microsoft-Accounts und einen Diagnostic Viewer für Geräteinformation zur Verfügung. (Microsoft, Datenschutz) 
+ 
+FIDO U2F: Firefox 60 kommt mit aktiver Webauthentication-API
+Mozilla will die Nutzung von Zwei-Faktor-Authentifizierung erhöhen und aktiviert in Firefox 60 die Webauthentication-API standardmäßig. Noch gebe es allerdings keine fertigen Bibliotheken, die Entwickler nur einbinden müssten. (Firefox, Browser) 
+ 
+Erste Betaversion: MacOS 10.13.4 warnt vor 32-Bit-Anwendungen
+Apple hat die erste Betaversion von MacOS High Sierra 10.13.4 veröffentlicht. Das Betriebssystem gibt einen Warnhinweis, wenn Nutzer eine 32-Bit-Anwendung öffnen. Ausführen lässt sie sich weiterhin, doch die Zukunft heißt wie bei iOS 64 Bit. (Mac OS, Apple) 
+ 
+Funktionsbeschneidungen: MacOS Server soll ab Frühjahr 2018 weniger können
+Apple hat größere Änderungen am Funktionsumfang des Betriebssystems MacOS Server angekündigt, die ab Frühjahr 2018 gelten sollen. Einige Funktionen werden versteckt, doch wer sie bereits konfiguriert hat, kann sie weiter nutzen. (MacOS 10.13 High Sierra, Apple) 
+ 
+Atos: Hersteller von Anwaltspostfach will keine Fragen beantworten
+Die Bundesrechtsanwaltskammer will im Rahmen einer Veranstaltung namens BeAthon die Sicherheitsprobleme des Besonderen elektronischen Anwaltspostfachs diskutieren. Doch der Hersteller Atos will nicht teilnehmen. (BeA, Verschlüsselung) 
+ 
+IBRS und Retpoline: Linux-Entwickler diskutieren weiter über Spectre-Paches
+Nach ausfälligen Kommentaren von Linux-Chefentwickler Linus Torvalds erklärt ein Amazon-Entwickler ausführlich den geplanten Verwendungszweck der verschiedenen Patches gegen den Spectre-Angriff. Einigkeit über das Vorgehen herrscht aber immer noch nicht. (Linux-Kernel, Virtualisierung) 
+ 
+Apple: iOS 11.3 bringt Abschaltung für iPhone-Drosselung
+Apple macht sein Versprechen wahr und bringt mit der kommenden iOS-Version 11.3 die angekündigte Abschaltung für die Leistungsdrosselung bei älteren iPhones. Zudem kann ARKit fortan auch vertikale Flächen erkennen, außerdem gibt es neue Animojis und einen Chat zur Kommunikation zwischen Kunden und Unternehmen. (Apple, iPhone) 
+ 
+Alexa und Google Assistant im Test: Okay Google, es ist Zeit für einen Sprachkurs
+Wir haben uns die digitalen Assistenten von Amazon und Google auf smarten Lautsprechern angehört. Die Unterschiede zwischen beiden sind enorm - und Alexa ist aus vielen Gründen sympathischer. (Digitaler Assistent, Google) 
+ 
+Ohne Abomodell: Google bietet im Play Store Hörbücher an
+In Googles Play Store finden sich ab sofort neben Apps, Filmen, Büchern und Musik auch Hörbücher. Anders als bei Amazons Hörbuchdienst Audible bietet Google kein Abonnement an, Nutzer zahlen für jedes Hörbuch. (Google, Applikationen) 
+ 
+Dating-App: Tinder-Apps übertragen Bilder unverschlüsselt
+Die Dating-Apps von Tinder nehmen es mit dem Datenschutz nicht so genau: Die Bilder der Nutzer werden unverschlüsselt übertragen. Alles kein Problem, findet das Unternehmen - die Bilder seien eh öffentlich. Trotzdem soll es bald Abhilfe geben. (Security, Android) 
+ 
+MacOS: Apple patcht MacOS Sierra und El Capitan gegen Meltdown
+Und sie kommen doch noch: Apple hat die beiden letzten Versionen von MacOS gegen Meltdown gepatcht. Außerdem gibt es eine Reihe von Sicherheitslücken im aktuellen Kernel, die Patches sollten schnell eingespielt werden. (Meltdown, Apple) 
+ 
+Detectron: Facebook gibt eigene Objekterkennung frei
+Die auf dem Python-Framework Caffe2 basierende Objekterkennung Detectron von Facebook steht nun als Open Source bereit. Das Projekt implementiert verschiedene Algorithmen auf Basis maschinellen Lernens und stellt auch einen Modellzoo bereit. (Deep Learning, Soziales Netz) 
+ 
+Diewithme: Zusammen im Chat den Akkutod sterben
+Die Chat-App Diewithme steht nur Nutzern zur Verfügung, die fünf Prozent oder weniger Akkuladung auf ihrem Smartphone haben. Zusammen in einem Gruppen-Chat können sie reden, bis der Akkutod eintritt. Hinter der App steht ein Künstler. (App, Smartphone) 
+ 
+Android 8.1: Oreo erkennt Qualität von WLAN-Netzwerk vor Verbindung
+Die aktuelle Android-Version 8.1 hilft Nutzern, indem sie vor dem Verbinden mit einem WLAN-Netz dessen Qualität einschätzt und die erwartete Geschwindigkeit anzeigt. Das funktioniert allerdings mit einer entscheidenden Einschränkung. (Android 8.1, WLAN) 
+ 
+Marktforschung: Viele Android-Apps kollidieren mit kommendem EU-Datenschutz
+Positionsdaten, Kontakte oder Kalendereinträge: 55 Prozent aller Android-Apps auf Google Play greifen auf personenbezogene Daten zu und kollidieren daher mit den kommenden EU-Datenschutzrichtlinien. Bereits im Februar will Google das unnötige Datensammeln von Software einschränken. (Datenschutz, Smartphone) 
+ 
+KWin: KDE beendet Funktionsentwicklung für X11
+Für die X11-Komponenten des KDE-Windowmanagers KWin wird es künftig keine neuen Funktionen geben. KWin-Entwickler Martin Flöser kündigte den damit letzten Feature Freeze an. Gepflegt werden soll der Code aber weiterhin. (Wayland, KDE) 
+ 
+Sprachassistenten: Alexa ist Feministin
+Amazons Sprachassistentin Alexa gibt jetzt Widerworte, bezeichnet sich als Frau und ist gegen die gesellschaftliche Ungleichheit zwischen Männern und Frauen. Was manche Nutzer aufregt, ist überfällig: Denn Sexismus gibt es auch in der Cloud. (Amazon Alexa, Amazon) 
+ 
+Spectre und Meltdown: Kleine Helferlein überprüfen den Rechner
+Wer sich kurz über den Status der Meltdown- und Spectre-Patches informieren will, der muss nicht unbedingt den aufwendigen Weg über die Powershell unter Windows gehen. Mit zwei kleinen Werkzeugen lassen sich auch Rechner von Familienmitgliedern fix überprüfen. Eines kann die Patches sogar deaktivieren. (Meltdown, Prozessor) 
+ 
+Remote Desktop: Teamviewer kommt für IoT-Geräte wie den Raspberry Pi
+Teamviewer IoT bringt die Fernwartungssoftware auf Sensoren, Gateways und andere IoT-Geräte. Admins können ihre Geräte über ein Dashboard verwalten. Die Software soll mit vielen ARM-Boards wie dem Raspberry Pi kompatibel sein. Allerdings ist auch eine Windows-Version von Teamviewer nötig. (Teamviewer, API) 
+ 
+Hacker One: Nur 20 Prozent der Bounty-Jäger hacken in Vollzeit
+Das US-Unternehmen Hacker One hat aktuelle Zahlen vorgestellt: Die meisten Bounties werden nach wie vor von US-Unternehmen gezahlt. Die Daten zeigen außerdem, dass das Finden von Schwachstellen für die meisten ein Nebenberuf oder Hobby ist. (Security, Sicherheitslücke) 
+ 
+Künstliche Intelligenz: Microsofts Bot zeichnet auf Geheiß alles
+Wie weit künstliche Intelligenz fortgeschritten ist, lässt sich besonders gut an visuellen Aufgaben erkennen, die die Programme mittlerweile lösen können. Microsoft hat einem Bot beigebracht, das zu zeichnen, was der Nutzer ihm sagt. Fehlerfrei ist er nicht. (KI, Microsoft) 
+ 
+Gemeinsame Bearbeitung: Office für Mac wird teamfähig
+Microsoft hat eine neue Version von Office für Mac veröffentlicht, die die gemeinsame Bearbeitung von Dokumenten der Office-Suite ermöglicht. Außerdem ist die Codebasis mit der Windows-Version zusammengelegt worden. Das gilt offenbar nicht nur für Windows und MacOS, sondern auch für iOS und Android. (Office 2016, Microsoft) 
+ 
+Gerichtspostfach: EGVP-Client kann weiter genutzt werden
+Ursprünglich sollte das Elektronische Gerichts- und Verwaltungspostfach (EGVP) Mitte Februar abgeschaltet werden. Das Debakel um das Besondere elektronische Anwaltspostfach (BeA) zwingt jedoch zum Umdenken. (Software, Java) 
+ 
+Magento: Kreditkartendaten von bis zu 40.000 Oneplus-Käufern kopiert
+Oneplus hat seine Untersuchung zu kopierten Kreditkarten abgeschlossen. Angreifer konnten wohl eine Schwachstelle für Cross-Site-Scripting ausnutzen. (Oneplus, Datenschutz) 
+ 
+Windows-API-Nachbau: Wine 3.0 bringt Direct3D 11 und eine Android-App
+Die aktuelle Version 3.0 des freien Windows-API-Nachbaus Wine ist verfügbar. Die Version 3.0 unterstützt standardmäßig Direct3D in der Version 11 auf AMD- und Intel-GPUs. Der Android-Support ist ebenfalls verbessert worden. (Wine, API) 
+ 
+BeA: Soldan will Anwälten das Internet ausdrucken
+Anwälten, die das besondere elektronische Anwaltspostfach BeA nicht nutzen wollen, will der Kanzleizulieferer Soldan einen besonderen Service bieten: Sie sollen sich nicht selbst um Einrichtung und Abholung kümmern, sondern die Nachrichten ausgedruckt und per Briefpost zugestellt bekommen. Das ist kurios - und mit Risiken verbunden. (Atos, E-Mail) 
+ 
+Sicherheitsupdate: Microsoft-Compiler baut Schutz gegen Spectre
+Eine neue Funktion in Microsofts Compiler für C und C++ soll Schutzmaßnahmen gegen eine Variante des Spectre-Angriffs in Code einbauen. Diese Vorgehen wird zwar von Intel empfohlen, hat aber offensichtlich Grenzen und wird deshalb von der Linux-Community kritisiert. (Spectre, Microsoft) 
+ 
+Facebook Messenger: Bug lässt iPhone-Nutzer nur wenige Wörter tippen
+Einige iPhone-Besitzer haben aktuell offenbar Probleme mit ihrem Facebook Messenger: Die App stürzt offenbar nach dem Tippen weniger Wörter immer wieder ab. Facebook hat das Problem bestätigt, eine Lösung scheint es noch nicht zu geben. (Facebook, Instant Messenger) 
+ 
+Meltdown und Spectre: "Dann sind wir performancemäßig wieder am Ende der 90er"
+Wir haben mit einem der Entdecker von Meltdown und Spectre gesprochen. Er erklärt, was spekulative Befehlsausführung mit Kochen zu tun hat und welche Maßnahmen Unternehmen und Privatnutzer ergreifen sollten. (Meltdown, Prozessor) 
+ 
+Google Play Services: Update gegen Chromecast-WLAN-Blockade kommt bald
+Chromecast-fähige Geräte stören mitunter das heimische WLAN. Google hat das Problem gefunden und will den Fehler über ein Google-Play-Service-Update noch heute beheben. (Chromecast, WLAN) 
+ 
+Loki: App zeigt Inhalte je nach Stimmung des Nutzers an
+Ein soziales Netzwerk, das über die Frontkamera des iPhone X unsere Gesichtsregungen erkennt und entsprechende Inhalte anzeigt - was nach Zukunftsmusik klingt, haben vier Entwickler als Konzeptstudie auf einer Konferenz programmiert. (Datenschutz, Smartphone) 
+ 
+Eclipse Foundation: Erster EE4J-Code leitet Java-EE-Migration ein
+Oracleverabschiedet sich von Java EE, die Eclipse Foundation übernimmt die Projektpflege. Das Eclipse-EE4J-Projekt hat mit der Veröffentlichung von JSON-P einen ersten Meilenstein in der Migration der Java EE als Eclipse-Projekt erreicht. (Java, IBM) 
+ 
+Virtualisierung: Linux-Gasttreiber für Virtualbox bekommt Mainline-Support
+Bisher war die Verwendung von Linux als Gastsystem unter Virtualbox nicht immer ganz einfach. Die Treiber für die Unterstützung werden nun aber Teil des Mainline-Kernels und sollten so mittelfristig in allen Distributionen landen. (Linux-Kernel, Linux) 
+ 
+Ransomware: Krankenhaus zahlt 60.000 US-Dollar trotz Backups
+Nur Backups zu haben, reicht im Fall einer Ransomware-Infektion nicht aus. Unternehmen brauchen auch einen Plan, wie diese im Krisenfall schnell eingespielt werden können, wie ein Krankenhaus im US-Bundesstaat Indiana erfahren musste. (Ransomware, Backup) 
+ 
+Skygofree: Kaspersky findet mutmaßlichen Staatstrojaner
+Ein Unternehmen aus Italien soll hinter einer Android-Malware stecken, die seit Jahren verteilt wird. Interessant ist dabei die Vielzahl an Kontrollmöglichkeiten der Angreifer - von HTTP über XMPP und die Firebase-Dienste. (Kaspersky, Virus) 
+ 
+Open Source: Microsoft liefert Curl in Windows 10 aus
+Das Betriebssystem Windows 10 ist um eine wichtige Open-Source-Anwendung reicher: Curl. Es läuft nicht nur in Waschmaschinen und Autos, sondern auch schon über 20 Jahre auf Windows. Microsoft übernimmt jetzt die Pflege eigener Builds. (Open Source, Microsoft) 
+ 
+Smartphone: Kreditkartenbetrug bei Oneplus-Kunden
+Wer ein Oneplus-Smartphone gekauft hat, dem wurden in den vergangenen Wochen häufig noch weitere Dinge von der Kreditkarte abgebucht - die aber gar nicht erworben wurden. Oneplus scheint derzeit selbst nicht genau zu wissen, was auf der eigenen Webseite Probleme macht. (Oneplus, Datenschutz) 
+ 

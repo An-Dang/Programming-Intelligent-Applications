@@ -1,0 +1,114 @@
+So räumen Sie die Festplatte beim Mac auf
+Die Festplatte des Mac ist voll, der Rechner wird immer langsamer. Wo die ganzen Speicherfresser liegen, ist vielen Nutzern nicht klar. Hilfe gibt es vom Dienstprogramm "Speicher verwalten".
+
+Es lässt sich über einen Rechtsklick auf das Festplattensymbol auf dem Schreibtisch aufrufen. In der folgenden Auflistung werden dann die verschiedenen Dateitypen und ihre Größe angezeigt. Per Klick in die...
+ 
+Wichtiges Windows-Update verspätet sich
+Erwartet wurde es für den 10. April, doch das Spring Creators Update von Windows 10 lässt Nutzer warten. Der Grund für die Verspätung soll ein Fehler in der Software sein.
+Das jüngste Update mit der Nummer 17133 macht Probleme. Erwartet wurde es für den 10 April. Die Gründe für die Verzögerung sind noch nicht ganz klar. 
+Updates sind sehr wichtig, weil sie Sicherheitslücken schließen und zum Te...
+ 
+Nvidia beendet Support für ältere Grafikkarten
+Viele in die Jahre gekommenen Grafikkarten des Herstellers Nvidia werden künftig keine neuen Treiber und Funktionen mehr bekommen. Auch die "Geforce Experience" gibt es in neuer Version nur noch für 64-Bit-Systeme.
+Nvidia setzt künftig nur noch auf 64 Bit. Alle neu entwickelten Treiber werden nur noch für die 64-Bit-Ausgaben von Windows 7, 8, 8.1 und 10 sowie Linux und FreeBSD veröffentlicht. D...
+ 
+Diese Programme braucht Ihr Windows-PC unbedingt
+Wer sich einen neuen Windows-Rechner gekauft hat oder seinen alten PC neu aufsetzt, steht vor der Aufgabe, die richtige Software zu wählen. Kostenlose Programme gibt es jede Menge. Die Kunst ist, die Richtigen und Wichtigen auszuwählen. Experten geben Tipps, was wirklich nützlich ist.
+Ganz gleich, ob der Rechner beruflich oder privat genutzt wird: Ein Repertoire an Standard-Software ist Pflicht...
+ 
+Das können T-Online & Co
+Ob Google Mail oder Windows Live, kostenlose E-Mail-Anbieter gibt es viele. Auch T-Online bietet einen kostenlosen E-Mail-Dienst an. Wir zeigen Ihnen, was damit alles möglich ist.
+
+E-Mail-Nutzer von T-Online erreichen ihr Konto über die Nachrichtenseite oder die Smartphone-Apps von t-online.de. Wie bei anderen Anbietern auch können die Mails auch mit Programmen wie Thunderbird oder Outlook abge...
+ 
+Behörde rät dringend zum Windows-Update
+Windows-Nutzer sollten dringend ein Update installieren, das eine kritische Lücke im Virenscanner des Betriebssystems schließt. Angreifer könnten die Schwachstelle sonst aus der Ferne ausnutzen, um Programmcodes auszuführen, warnt das Bundesamt für Sicherheit in der Informationstechnik.
+
+Betroffen sind laut Microsoft die Windows-Versionen 7, 8.1 und 10, Windows Server ab 2008 und Windows RT 8.1...
+ 
+Apple will eigene Chips entwickeln
+Apple will offenbar ab 2020 eigene Prozessoren in seinen Mac-Computern einsetzen. Das hat die Aktie des Chip-Riesen Intel am Montag auf Talfahrt geschickt.
+Apple nutzt seit über einem Jahrzehnt Intel-Chips in seinen Macs, während in Mobilgeräten wie iPhones und iPads Prozessoren aus eigener Entwicklung eingesetzt werden. Sie basieren auf der Architektur des Chipentwicklers ARM, Apple steckt da ...
+ 
+Neuer Mini-Computer kostet 35 Euro
+Mehr Rechenleistung und flottere Funkverbindungen: Die neue Version des Bastelcomputers Raspberry Pi 3 B+ ist da. Pünktlich zum "Pi-Day" startetet der Verkauf zu unverändert günstigen Preis.
+
+Er verfügt über einen besseren Prozessor mit 1,4 Gigahertz (Ghz) und vier Kernen, außerdem gibt es nun Dualband-WLAN mit 2,4 und 5 Ghz für schnellere und stabilere Funkverbindungen.
+
+Am Formfaktor hat sich...
+ 
+Adobes Flash Player kann weg
+Die Flash Player-Ära neigt sich dem Ende: Über die fehlerhafte Software hat sich oft Malware auf die Computer geschlichen. Dabei funktionieren die meisten Webseiten längst ohne den Player. Experten empfehlen Anwendern, die Software endgültig von ihren Rechnern zu tilgen. 
+Videos, Animationen, Spiele, Werbeanzeigen - auf Internetseiten brachte diese Dinge jahrelang Adobes Flash zum Laufen. Mittl...
+ 
+Windows-Update schließt bekannte Sicherheitslücken
+Microsoft hat für Nutzer von Windows 10 ein weiteres Sicherheitsupdate bereitgestellt, das gegen die Sicherheitslücken "Meltdown" und "Spectre" schützen soll. Dabei wird erstmals auch der Microcode aktualisiert, der den Prozessor steuert.
+
+Zum ersten Mal wird dabei über das Windows-Update auch der Microcode aktualisiert, der den Prozessor steuert. Für eine optimale Absicherung gegen "Meltdown" ...
+ 
+Ohne Virenscanner gibt es keine Updates mehr
+Ist auf einem Windows 7-Computer kein Virenscanner installiert, werden offenbar keine Sicherheitsupdates mehr installiert. Es gibt jedoch zwei Wege, wie man die Aktualisierungen weiter erhält.
+Windows-7-Computer ohne Virenscanner werden offenbar nicht mehr mit Sicherheitsupdates versorgt, berichtet "heise online". Grund ist demnach ein fehlender Eintrag in der Systemregistrierung, der verhinder...
+ 
+AVM stellt Fritzbox für Highspeed-Internet vor
+Die Fritzbox 7583 wurde entwickelt, um das Maximum aus alten Kupferleitungen herauszuholen. Die meisten Nutzer hierzulande werden wohl dennoch nicht in den Genuss der vom Hersteller genannten Spitzengeschwindigkeiten kommen.  
+Pünktlich zum Mobile World Congress in Barcelona stellt die Berliner Firma AVM neue Router-Modelle für extraschnelles Surfen vor. Der Nachfolger der beliebten Hochkant-Fr...
+ 
+Für die kurze Strecke zwischendurch
+Elektroroller habe in der Stadt ihre klaren Vorteile. Mit dem "Stigo" geht nun eine elektrisch angetriebene Mofa-Alternative an den Start. t-online.de ist den kleinen Klapproller ausführlich Probe gefahren.
+Zugegeben: Der Januar ist nicht der ideale Monat, um einen Elektroroller zu testen. Es ist zu kalt, wird zu früh dunkel und nur die härtesten Radfahrer sind noch unterwegs. Doch der Mini-Kla...
+ 
+Das bieten die neuen Business-Notebooks
+Die Zeiten, als Notebooks zum Arbeiten langweilig aussahen, sind zum Glück vorbei. Mit neuen, schicken Business-Modellen wetteifern Microsoft und HP um die Gunst der mobil arbeitenden Bevölkerung. t-online.de hat sich die neuen Topmodelle näher angesehen.
+
+Beginnen wir mit dem neuen Microsoft Surface Book 2 mit 15-Zoll-Display. Es wird seit dem 15. Februar 2018 in Deutschland ausgeliefert.
+
+"Su...
+ 
+So aktiviert man den Nachtmodus in Windows 10
+Auch Microsofts Windows 10 hat einen Nachtmodus. Beim nächtlichen Arbeits-Marathon kann ein solcher Blaulichtfilter durchaus angenehm und gut für die Gesundheit sein.
+Windows 10 bietet einen Nachtmodus, der die blauen Bestandteile im Licht, das Displays ausstrahlen, filtert. Das soll den Augen beim Arbeiten in Dämmerung und dunkler Umgebung Entspannung bringen und später das Einschlafen leichte...
+ 
+VLC-Player jetzt mit 8K und Chromecast-Unterstützung
+Mit Version 3.0 bringt der beliebte VLC-Player jede Menge neue Features mit sich. Besonders in Sachen Bildqualität wurde nachgebessert.
+Die weit verbreitete Abspiel-Software VLC Media Player kann nun über den Chromecast-Standard Videos an kompatible Geräte streamen. Außerdem wird in der gerade veröffentlichten Version 3.0 auch die Wiedergabe von 8K-Auflösungen, Hochkontrast-Material (HDR), 360-...
+ 
+Lenovo ruft Notebooks wegen Brandgefahr zurück
+Lenovo ruft eine bestimmte Notebook-Generation zurück, bei der es offenbar Produktionsfehler gegeben hat. Ohne eine Reparatur könnte der Akku in Flammen aufgehen. 
+Lenovo ruft eine Generation des Thinkpad X1 Carbon zurück – ob Kunden betroffen sind, können sie auf einer Supportseite des Herstellers ermitteln. Dafür reicht die Eingabe der Seriennummer aus, erklärt Lenovo. Thinkpadbesitzer aus De...
+ 
+So halten die Akkus von Smartphones länger durch
+Der Smartphoneakku ist schon wieder fast alle, obwohl Sie es noch gar nicht lange benutzt haben? Es kann zwei Gründe geben: zu hoher Stromverbrauch und Akkuverschleiß. Wir zeigen Ihnen, wie Ihre Akkus länger durchhalten.
+Gleich vorweg eine Entwarnung: der sogenannte Memory-Effekt, bei dem Sie auf Ladezeiten achten müssen, tritt bei Akkus aus Lithium-Ionen nicht mehr in nennenswerter Weise auf. ...
+ 
+Computerfirma macht aus Elektroschrott Schmuck
+Der US-Computerhersteller Dell startet ein Programm, um Gold aus alten Elektronikgeräten zu gewinnen. Es wird ab Frühjahr 2018 recycelt und unter anderem in Millionen von PC-Hauptplatinen verbaut. 
+
+Aus Recycling-Gold entsteht sogar neuer Schmuck: Die Schauspielerin, Unternehmerin und Aktivistin Nikki Reed arbeitet mit Dell zusammen und hat eine "Circular Collection" entworfen, die unter dem Na...
+ 
+Darum wurde "Lisa" von Apple ein Mega-Flop
+Mit dem Rechner Lisa unternahm Apple vor 35 Jahren den ersten Versuch, eine grafische Bedienoberfläche in den Massenmarkt einzuführen. Das war bahnbrechend. Jedoch scheiterte einer der wichtigsten Computer der Technik-Geschichte grandios.
+Manchmal fällt der dritte Schritt viel schwerer als die beiden ersten. So erging es zumindest Anfang der 80er Jahre dem damals noch sehr jungen Start-up Apple...
+ 
+Microsoft bringt einen Klassiker zurück
+Ab sofort ist die "Classic Intellimouse", eine kabelgebundene Maus von Microsoft verfügbar. Sie soll laut Hersteller als schneller Allrounder für Office-Anwendungen, kreative Arbeit und zum Spielen dienen. 
+Inspiriert ist die neue Maus von der "IntelliMouse 3.0", einer der beliebtesten Mäuse von Microsoft. Sie ist kabelgebunden und hat ein klassisches, ergonomisch geformtes Gehäuse. Ausgestatte...
+ 
+Aldis neues Notebook hat drei Schwächen
+Aldi Nord bietet ab dem 25. Januar ein kompaktes Windows-Laptop für 350 Euro an, das auch als Tablet genutzt werden kann. t-online.de sagt, ob sich der Kauf lohnt.
+
+Das Medion Akoya E3216 ist ein so genanntes 360-Grad-Notebook mit einem drehbaren Bildschirm mit 33,8 Zentimeter (13,3 Zoll) Durchmesser.
+An Bord sind ein Intel Pentium  N4200 Prozessor, das Betriebssystem Windows 10 in der Home-Ver...
+ 
+Vernetzte Socken, Sprachassistenten und selbstfahrende Koffer
+Die internationale Consumer Electronics Show findet seit vielen Jahren in Las Vegas statt. Christoph Vilanek, CEO von Freenet, hat sich angeschaut, welche Produkte und Trends bei uns Einzug halten könnten – und auch Skurriles gefunden.
+Die CES 2018 ist vorbei. Was mit der Präsentation von Kühlschränken, Waschmaschinen und Fernsehern begann, ist heute eine digitale Spielwiese, die weit über die ...
+ 
+Dünner und kompakter - das können die neuen Laptops
+Den Trends zum dünneren Gerät mit Sprachassistenten können sich auch Laptops nicht verschließen. Ein Hersteller zeigte auf der Technikmesse CES sogar die Vision, Smartphone als Laptop zu nutzen.
+Den Bedarf an einem Laptop reduzieren wollen die Hersteller Razer und Miraxess: Sie haben Prototypen vorgestellt, mit denen das Smartphone zur Rechenzentrale wird. Sie werden an Geräte in Laptopform ang...
+ 
+Eine Milliarde Euro für mehr Rechenpower
+Europäische Wissenschaftler und Unternehmen müssen ihre Daten bisher außerhalb der EU verarbeiten, weil die Rechenpower nicht ausreicht. Das soll sich jetzt ändern.
+Die weltweit leistungsstärksten Supercomputer stehen bislang vor allem in China und den USA – jetzt will die EU-Kommission auch in der Europäischen Union den Bau eines Hochleistungsrechners von Weltrang auf den Weg bringen. Bis zum ...
+ 

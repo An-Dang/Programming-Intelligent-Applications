@@ -1,0 +1,180 @@
+Nachfolger für Kepler: NASA-Weltraumteleskop TESS soll Exoplaneten finden
+Kurz vor dem Ende von Kepler schickt die NASA mit dem Weltraumteleskop TESS einen Nachfolger ins All, der tausende weitere Exoplaneten entdecken soll. Erstmals soll SpaceX eine wissenschaftliche Sonde der US-Agentur befördern.
+ 
+Missing Link: Schuhe auf dem Kurfürstendamm - von erfolgreichen Revolten und technisch machbaren Utopien
+Rudi Dutschke überlebte die Schüsse, die ein Rechtsradikaler vor 50 Jahren auf ihn abgab, starb aber an den Spätfolgen des Attentats im Jahre 1979. Schon damals spielten Kommunikationsströme und  der Computer als Machbarkeitsmittel für Utopien eine Rolle.
+ 
+Dyson V10 Cyclone im Test: starke Saugkraft, lange Akkulaufzeit
+Der Dyson V10 Cyclone ist ein Akkusauger, der die Daseinsberechtigung herkömmlicher Staubsauger mit Kabel hinterfragt. Seit zwei Wochen hat TechStage den mindestens 570 Euro teuren V10 Cyclone im Dauereinsatz. Wie gut er saugt, verrät der Test.
+ 
+Entwickler: Facebook kann WhatsApp-Chats einsehen – trotz Ende-zu-Ende-Verschlüsselung
+Wenn Facebook und WhatsApp auf dem iPhone installiert sind, können die Apps trotz iOS-Sandbox Daten austauschen, warnt ein Entwickler. Facebook sei so in der Lage, die Chat-Historie auszulesen – es gebe aber keinen Hinweis, dass dies tatsächlich passiert.
+ 
+Facebook-Anhörung: Wie Zuckerberg die US-Repräsentanten abblitzen ließ
+Die Einvernahme Mark Zuckerbergs im Repräsentantenhaus zeichnete sich durch deutlich konkretere Fragen aus als die vorangegangene Anhörung im US-Senat: die interessantesten Fragen der Repräsentanten und die Antworten zusammengefasst.
+ 
+"Fuchsia ist kein Linux": Google dokumentiert Android-Nachfolger
+Software-Entwickler diskutieren momentan angeregt über Googles Dokumentation für das neue Betriebssystem Fuchsia, das früher oder später Android ersetzen soll. Jedenfalls, wenn es nach Google geht.
+ 
+Facebook-Anhörung: Zuckerberg laviert und verspricht Besserung
+Facebook-Chef Mark Zuckerberg kam glimpflich durch die Anhörungen im US-Kongress, auch wenn am zweiten Tag im Abgeordnetenhaus ein etwas härterer Wind wehte. Facebook schließt eine Bezahl-Version nicht aus und will EU-Datenschutzregeln weltweit anwenden.
+ 
+Windows 10: Version 1803 kommt – irgendwann später
+Die nächste Version von Windows 10 heißt Version 1803 und ist quasi fertig. Sie wurde für gestern Abend erwartet – doch daraus wurde nichts. Offenbar verhinderte ein seltener aber schwerer Bug die geplante Auslieferung.
+ 
+Patchday: Microsoft kümmert sich um mehr als 60 Lücken in Windows & Co.
+Über Windows Update stehen Sicherheitsptaches bereit. Unter anderem schließen diese eine Lücke, über die Angreifer ein Wireless Keyboard in einen Keylogger verwandeln könnten.
+ 
+Facebook-Anhörung im US-Senat: Zuckerberg zeigt sich reuig, weicht konkreten Fragen aus
+Viel Asche streute sich Mark Zuckerberg bei einer Anhörung im US-Senat aufs Haupt. Und er kündigte an, Facebook-Postings bald mit 20.000 Mitarbeitern zu überwachen. Konkreten Fragen zu Daten- und Kinderschutz wich er aber aus.
+ 
+Großrechner-Redesign: IBM stellt seine ersten Mainframes fürs 19"-Rack vor
+Wer bislang IBMs Mainframes im herkömmlichen 19"-Rack einsetzen wollte, ging leer aus. Nun hat Big Blue reagiert und neue z14-Systeme vorgestellt.
+ 
+DE-CIX: Stromausfall legte deutsches Internet lahm
+Lahme Internetverbindungen und nicht erreichbare Webseiten: Internetnutzer mussten vorige Nacht vielfach digitalen Verzicht üben. Grund waren Stromausfälle im Rechenzentrum des Dienstleisters Interxion, das auch den Internetknotenpunkt DE-CIX beherbergt.
+ 
+Neues Billig-iPad mit Stifteingabe angetestet
+Mac & i konnte das nun ab 350 Euro erhältliche 9,7-Zoll-Tablet von Apple einem ersten Test unterziehen – mit interessanten Ergebnissen.
+ 
+Streit übers Radio per UKW – Dienstleister droht mit Abschaltung
+UKW-Empfang ist für die meisten Menschen in Deutschland die wichtigste Art, Radio zu hören. Ein Dienstleister bringt wegen eines Streits um Geld die Zwangs-Abschaltung ins Spiel. Zehn Millionen Hörer könnten angeblich betroffen sein. Was steckt dahinter?
+ 
+Windows Defender verschluckt sich an RAR
+Microsofts Malware Protection Engine ermöglichte dank missglückter Bugfixes zeitweise die Remote Code Execution mittels präparierter RAR-Archive. Mittlerweile ist jedoch ein Update verfügbar, das automatisch verteilt wird.
+ 
+Milliarden vertraulicher Dokumente frei im Netz auffindbar
+Falsch konfigurierte Web- und File-Server, Firewalls und S3 Buckets sorgen dafür, dass viele Firmen unbemerkt vertrauliche Daten öffentlich ins Netz laden.
+ 
+Magento: Mindestens 1000 gehackte Shops mit Malware entdeckt
+Mit Standard-Passwörtern und Brute-Forcing sollen sich Kriminelle Zugriff zu über 1000 Onlineshops verschafft haben, die auf der eCommerce-Plattform Magento aufsetzen. Sie stahlen Kreditkartendaten, schürften Kryptogeld und leiteten auf Phishing-Seiten.
+ 
+Test: Microsoft Surface Book 2 mit 15-Zoll-Display, GeForce GTX 1060 und 512 GByte SSD
+Microsoft verkauft sein Hybrid-Notebook Surface Book 2 mittlerweile auch als 15-Zoll-Variante mit leistungsstarker GPU. Im Test zeigt sich: hohe Leistung und kompaktes Design schließen sich nicht aus.
+ 
+Sicherheitslücke Spectre V2: Ältere Intel-Prozessoren bleiben schutzlos
+Intel erklärt die Arbeiten an den Microcode-Updates, die Funktionen zum Schutz gegen BTI nachrüsten, für beendet - und lässt neun CPU-Familien ungeschützt, darunter den einst beliebten Core 2 Duo.
+ 
+Netzfrequenz 50 Hz: Zeitverlust aufgeholt
+Seit heute liegt die Zeitabweichung von 50-Hertz-Synchronuhren wieder im normalen Bereich von unter 30 Sekunden.
+ 
+Sony Xperia XZ2 im Test: starke Hardware, dickes Design
+Mit dem Xperia XZ2 bringt Sony ein leistungsfähiges und modernes Smartphone zu einem Preis von 799 Euro auf den Markt. TechStage hat das Gerät seit einer Woche im Test und verrät alles Wichtige!
+ 
+1.1.1.1: Cloudflare bietet datenschutzfreundlichen und schnellen DNS-Dienst
+Eine öffentliche Namensauflösung unter einer leicht zu merkenden IP-Adresse soll mehr Tempo und vor allem mehr Privatsphäre bringen. Cloudflare will keine Daten speichern und das betagte DNS-Protokoll sicherer machen.
+ 
+Linux 4.16 freigegeben: Spectre-v1-Schutz, längere Akkulauzeit und bessere Performance
+Mehr Akkulaufzeit und Schutz vor der Prozessorlücke Spectre v1 sind zwei Highlights des neuen Linux-Kernels. Der integrierte Hypervisor unterstützt jetzt AMDs Speicherverschlüsselung. Außerdem läuft Linux auch als Gast unter einem Hardware-Partitionierer.
+ 
+Chinesische Raumstation Tiangong 1 über dem Südpazifik verglüht
+In der Nacht zum Montag ist die chinesische Raumstation wie prognostiziert in die Atmosphäre eingetreten und verglüht. Das geschah über dem Südpazifik, weitab der Landmassen, die auch hätten betroffen sein können.
+ 
+Weniger Geoblocking: EU-Nutzer dürfen ihre Digital-Abos jetzt mit auf die Reise nehmen
+Am 1. April ist die Verordnung zur "grenzüberschreitenden Portabilität" bezahlter Inhaltsdienste wie Netflix & Co in Kraft getreten. EU-Bürger können Online-Abonnements damit auch zeitweilig in anderen Mitgliedsstaaten nutzen.
+ 
+50 Jahre "2001 Odyssee im Weltraum" – oder: Wie ich lernte, den Computer zu lieben
+Am 6. April 1968 kam der Film "2001 – Odyssee im Weltraum" in die Kinos und veränderte das Genre des Science-Fiction-Films für immer. Der Film ist heute aufgrund der Diskussionen über Machine Learning aktueller denn je.
+ 
+Tesla-Crash: Autopilot war eingeschaltet, aber Fahrer hat nicht reagiert
+Bei dem tödlichen Unfall eines Tesla Model X in Kalifornien war der "Autopilot" eingeschaltet, das ergab die Auswertung der Log-Dateien. Der Fahrer hatte jedoch unmittelbar zuvor nicht auf Anweisungen reagiert.
+ 
+Filmkritik "Ready Player One": Im Popkultur-Schweinsgalopp durch die Virtual Reality
+Das Virtual-Reality-Märchen "Ready Player One" funktioniert auf der Kinoleinwand anders als im Roman – erzeugt aber ein ähnliches Wohlgefühl. Der Unterhaltungsfaktor ist Spielberg-typisch hoch, die sozialkritische Komponente des Buches kommt etwas kurz.
+ 
+Brexit: EU-Kommission droht mit Kündigung von über 300.000 britischen .eu-Domains
+Mit dem Ausscheiden aus der EU können Organisationen und Bürger aus Großbritannien keine Webadressen unter der Top Level Domain .eu mehr registrieren, hat die EU-Kommission verdeutlicht. Bestehende Einträge dürften sogar widerrufen werden.
+ 
+5G-Mobilfunk: EU-Cybersicherheitsbehörde warnt vor "extremen" Gefahren
+Die EU-Agentur Enisa befürchtet, dass der kommende Mobilfunkstandard 5G Sicherheitsschwächen der Roaming- und Abrechnungsprotokolle seiner Vorgänger "erbt" und die Angriffsflächen sich damit deutlich vergrößern.
+ 
+Facebook-Memo: "Alles was uns erlaubt, Menschen zu verbinden, ist gut" – auch wenn jemand stirbt
+Kurz nachdem der Tod eines Mannes live auf Facebook übertragen worden war, hat ein hoher Manager intern versichert, das Konzernziel rechtfertige auch negative Begleiterscheinungen. Menschen zu verbinden, sei in sich gut – auch wenn einmal jemand sterbe.
+ 
+Tesla: Größter Rückruf der Firmengeschichte trifft Model S
+Wegen rostgefährdeter Schrauben aus deutscher Produktion ruft Tesla mehr als 120.000 Elektroautos des Models S zurück. Für die Fahrer bestehe keine Gefahr und es sei auch kein Unfall deswegen bekannt.
+ 
+Umbau bei Microsoft: Windows-Chef Myerson geht
+Paukenschlag bei Microsoft: Terry Myerson, seit über 20 Jahren in Redmond und zuletzt als "Mr. Windows" für das Betriebssystem verantwortlich, verlässt das Unternehmen im Zuge einer Umstrukturierung.
+ 
+Geschäftsgeheimnisse: Justizministerium patzt beim Whistleblower-Schutz
+Das Bundesjustizministerium will die umstrittene EU-Richtlinie zum Schutz von Geschäftsgeheimnissen umsetzen. Eine Klausel, die parallel das Klagerisiko für Hinweisgeber auf Missstände mildern soll, hat es dabei weitgehend übergangen.
+ 
+Bundesgerichtshof erlaubt Rabatte von MyTaxi
+Im langjährigen Rechtsstreit zwischen Taxi Deutschland und der Vermittlungs-App MyTaxi haben die Taxizentralen in der letzten Runde eine Niederlage erlitten: Der BGH hat das Rabattverbot für MyTaxi aufgehoben.
+ 
+Bundeshack: Bundespolizei stellt Strafanzeige, tausende Logindaten könnten betroffen sein
+Beim Hackerangriff auf die Bundesregierung könnten deutlich mehr sensible Daten abgeflossen sein als bislang bekannt. Die Bundespolizei vermutet offenbar, dass Zugangsdetails ihrer Ermittler zu einer Lernplattform abgegriffen wurden.
+ 
+Abhör-Alptraum: GPS-Smartwatch für Kinder und Senioren lässt sich von Fremden belauschen
+Eine Investigativ-Recherche von c't und heise online belegt: Hunderte in Deutschland verkaufte Smartwatches lassen sich im Handumdrehen aus dem Internet in eine Wanze umfunktionieren, ohne dass der Träger dies bemerkt.
+ 
+Ferngesteuert fahren: Nur ein Zwischenschritt zum autonomen Auto?
+Bis autonome Autos völlig ohne menschliche Hilfe zurechtkommen, dürfte noch einige Zeit vergehen. Hersteller und Forscher interessieren sich deshalb zunehmend für einen wichtigen Schritt davor: Die Fernsteuerung.
+ 
+Hubble-Nachfolger: James-Webb-Weltraumteleskop verzögert sich weiter und wird noch teurer
+Auch 2019 wird das James-Webb-Weltraumteleskop nicht starten können, anvisiert ist nun der Mai 2020. Die Kosten dürften damit weiter steigen, eine Beendigung des Projekts wäre möglich. Astronomen in den USA sind deswegen besorgt.
+ 
+Nvidia DGX-2: Machine-Learning-Monster mit 16 GPUs und 2 Petaflops Rechenleistung
+KI und Deep Learning sind in aller Munde – und Jensen Huang, Mitbegründer und CEO von Nvidia, ist vermutlich noch heute dankbar, dass vor zehn Jahren jemand auf die Idee kam, die GPU von Grafikkarten seiner Firma für parallele Berechnungen einzusetzen.
+ 
+Ausgesetzte Vorratsdatenspeicherung: Ermittler erwägen Verfahren gegen Vodafone/Telekom
+Ein Mordverdächtiger verschwindet, die Fahndung beginnt. Handydaten zum Standort könnten den Ermittlern weiterhelfen, doch die Rechtslage ist unklar. Dass Vodafone und die Telekom die Daten nicht weitergeben, bringt die Staatsanwaltschaft auf die Palme.
+ 
+Apple stellt neues, günstiges iPad vor
+Die neue Version des 9,7-Zoll-iPad kommt erstmals mit Unterstützung für den Apple Pencil und soll den Bildungsmarkt aufmischen.
+ 
+Netzwerkdurchsetzungsgesetz: Millionenschwere Bußgelder können jetzt verhängt werden
+Das Bundesjustizministerium hat die Bußgeldleitlinien veröffentlicht, mit denen das Sanktionsverfahren bei Verstößen gegen das "Facebook-Gesetz" konkretisiert und die Höhe der Geldstrafen festgelegt wird.
+ 
+E-Mail-Verschlüsselung: Enigmail 2.0 ist da
+Mit der neuen Enigmail-Version 2.0 für den Mail-Client Thunderbird kann man unter anderem neben Text in Mails nun auch die Betreffzeile verschlüsseln.
+ 
+Tödlicher Unfall mit autonomem Auto: Arizonas Gouverneur verbietet Uber weitere Testfahrten
+Bisher galt Arizona gegenüber Unternehmen, die autonome Autos auf öffentlichen Straßen testen wollen, als tolerant. Nun hat der Gouverneur des US-Bundesstaats Uber die Erlaubnis für Testfahrten entzogen.
+ 
+"Kontakte synchronisieren": Facebook sammelte jahrelang Anrufdaten
+Die Android-Apps des Facebook-Messengers erfassten jahrelang Metadaten zu Anrufen und SMS. Möglich machte das offenbar eine ältere Schnittstelle von Android, die inzwischen stillgelegt ist. Nutzer sollen dies mit "Kontakte synchronisieren" aktiviert haben
+ 
+Missing Link: Vom Netz der Netze zur Content Delivery Plattform - ist das Internet noch zu retten?
+Das Netz von Netzen wird abgelöst von einer Content-Service-Plattform. Das Internet wird fundamental umgebaut, die Netze konsolidiert und zu privaten Content-Zuspielnetzen. Ist das schlimm? Nicht nur Netzaktivisten, auch die Techniker kommen ins Grübeln.
+ 
+Sorge um Datenschutz: Hälfte der Nutzer erwägt Social-Media-Abmeldung
+Der Facebook-Skandal stimmt viele Social-Media-Nutzer nachdenklich. Laut einer Umfrage hat fast jeder zweite Nutzer in Deutschland schon einmal über eine Abmeldung nachgedacht. Der Tesla-Chef Elon Musk macht jetzt Ernst.
+ 
+GDC: Valve bekämpft Cheater in Counter-Strike mit Deep Learning
+Für sein Anti-Cheat-Programm setzt Valve inzwischen auf Neuronale Netzwerke, die per Deep Learning trainiert werden. Auf der GDC stellte der Hersteller sein Abwehrsystem anhand von Counter-Strike vor.
+ 
+Seehofer: Null Toleranz gegen Verbrecher, Vorfahrt für die Sicherheit
+Horst Seehofer hat bei seiner ersten Rede als neuer Innenminister im Bundestag in dieser Funktion für einen starken Staat geworben, dem "zeitgemäße Fahndungs- und Ermittlungsinstrumente" wie die "intelligente Videotechnik" zur Verfügung stehen müssten.
+ 
+Tödlicher Unfall mit autonomem Auto: "Öffentlicher Betatest mit unwissentlichen Crashtest-Dummies"
+Kritiker bezeichnen nach dem tödlichen Unfall mit einem autonomen Auto den US-Bundesstaat Arizona als "Wilden Westen der Autotester".
+ 
+Facebook-Datenskandal: Whistleblower wollte "feuchten Traum der NSA" erschaffen
+Christopher Wylie hat mit seinen Enthüllungen über die Praktiken von Cambridge Analytica eine Debatte über Facebook ausgelöst. Seine Skrupel sind aber offenbar eher neu, legen Dokumente nah. In Großbritannien stockt derweil die Aufarbeitung.
+ 
+Amnesty International: Menschenrechtler bezeichnen Apple als "Datenschutzverräter"
+Apples iCloud-Umzug in China könne lokalen Behörden uneingeschränkten Zugriff auf Nutzerdaten einräumen, kritisiert Amnesty International. Der Konzern habe Kunden nicht ausreichend davor gewarnt und helfe dabei, eine “dystopische Zukunft” zu erschaffen.
+ 
+Seagate: HAMR-Festplatten mit 20 TByte und Multi-Aktuator mit 480 MByte/s kommen 2020
+Seagate stellt auf dem Open Computer Project Summit erneut zwei Techniken zur Steigerung von Festplattenkapazität und -leistung vor. 2020 sollen HAMR und Multi-Aktuator-Technik serienreif sein.
+ 
+Kommentar: #deletefacebook ist auch nicht die Lösung
+Nach dem Datenskandal hat Facebook das Vertrauen vieler Nutzer verloren. Auf Twitter macht der Hashtag #deletefacebook die Runde – doch müssen wir jetzt wirklich ohne Facebook auskommen?
+ 
+20 Jahre Telekommunikations-Liberalisierung: "Wir reden über Daseinsvorsorge"
+Verbraucherschützer Klaus Müller mahnte die Telekom-Herausforderer beim 20. Geburtstag der Marktliberalisierung, dass "der Hunger auf Neues dabei bleiben muss". Die Industrie will aus "der verengten Debatte über die digitale Infrastruktur herauskommen".
+ 
+Datenskandal Cambridge Analytica: Facebook-Chef Mark Zuckerberg räumt Fehler ein
+Nach tagelangem Schweigen hat sich Mark Zuckerberg zur Datenaffäre um Cambridge Anayltica geäußert. In einem Post gibt er sich demütig und zeigte auf, wie es zu dem Datenmissbrauch kommen konnte. Politiker fordern derweil Konsequenzen.
+ 
+Windows Server 2019: hybride Clouds, mehr Container, mehr Linux
+Microsoft hat den Fahrplan für den neuen Windows Server vorgestellt. Windows Server 2019 steht im Insider-Programm zum Test bereit. In der zweiten Jahreshälfte 2018 wird er fertig. Schwerpunkt sind Container-Technik und hyperkonvergente Systeme.
+ 
+Deutschland will DNA-Phänotypisierung für polizeiliche Zwecke legalisieren
+Das bayerische Polizeiaufgabengesetz will unbekannte Verdächtige aufgrund ihrer DNA-Spuren zur Fahndung ausschreiben können. Es wird als Blaupause für eine bundesweite Regelung gehandelt.
+ 
+Ryzenfall, Fallout & Co: AMD bestätigt Sicherheitslücken in Ryzen- und Epyc-Prozessoren
+Der Chiphersteller AMD konnte die Sicherheitslücken in Epyc- und Ryzen-CPUs sowie Promontory-Chipsätzen nachvollziehen und kündigt Sicherheitspatches für die betroffenen Systeme an.
+ 

@@ -1,0 +1,181 @@
+CES: Kartendienst Here: BMW-Integration und Tracking für SAP
+Der ehemalige Nokia-Kartendienst Here entwickelt für SAP ein Tracking-Verfahren, um beispielsweise Container per GPS zu verfolgen. Sein mittlerweile über 500.000 km umfassende Straßennetz will Here noch dieses Jahr auf eine Million Kilometer erweitern.
+ 
+Donald E. Knuth: Der Informatik-Papst wird 80
+In den 60er-Jahren begann Donald E. Knuth ein Standardwerk der Informatik zu schreiben: The Art of Computer Programming. Das dauerte "etwas" länger als angenommen: Jetzt wird er 80 und schreibt noch immer.
+ 
+Meltdown & Spectre unter Windows: Microsoft detailliert Patches und Leistungsschwund
+In einem Blog-Beitrag erklärt Microsoft-Vizepräsident Terry Myerson die Updates für Windows genauer und gibt auch Schätzungen zu Leistungseinbußen ab: Die können unter Windows Server erheblich sein.
+ 
+CES: Dell präsentiert sechs neue Laptops und Convertibles fürs Büro
+Eine Reihe neuer Rechner hat Dell auf der CES vorgestellt. Zwei erscheinen als Convertibles, bei den restlichen Modellen handelt es sich um klassische Laptops.
+ 
+Meltdown und Spectre: Intel patcht ab 2013 produzierte Prozessoren, bestätigt Performance-Auswirkung
+Intel will zunächst nur die Prozessoren der letzten fünf Jahre mit Sicherheitsupdates versorgen und will diese noch im Januar ausspielen. Was mit älteren Prozessoren geschieht, ist unklar.
+ 
+Meltdown und Spectre: Microsoft veröffentlicht Prüfwerkzeug für Prozessor-Sicherheitslücken
+Microsoft hat ein PowerShell-Modul veröffentlicht, mit dem sich Windows-Client- und -Server-Systeme darauf abklopfen lassen, ob sie anfällig für Meltdown- oder Spectre-Angriffe sind.
+ 
+VR-Headset HTC Vive Pro ausprobiert: Endlich mehr Pixel
+VR-System HTC Vive bestach bislang durch tolles Tracking, nicht so sehr durch Bildschärfe. Die neue Vive Pro will das mit höher auflösenden Displays ändern. Wir haben die Brille auf der CES ausprobiert.
+ 
+Meltdown und Spectre: Die Sicherheitshinweise und Updates von Hardware- und Software-Herstellern
+Hersteller von Hard- und Software sind von den Sicherheitslücken Meltdown und Spectre gleichermaßen betroffen. Eine Linkübersicht zu Stellungnahmen, weiterführenden Informationen und Update-Hinweisen.
+ 
+heise-Angebot: Netztalk am 16. Januar: Der (digitale) Kapitalismus ist nicht in der Krise
+Was passiert, wenn sich Unternehmen Menschheitsaufgaben zum Ziel setzen? Wie sieht eine Gesellschaft aus, in der das Internet zur Meta-Struktur einer neuartigen Ökonomie wird? Darüber und um mehr Themen geht es nächste Woche im Gespräch mit Timo Daum.
+ 
+CES: Nvidia für autonome und vernetzte Autos: weitere Drive-Bausteine und neue Partnerschaften
+Nvidia erweitert sein Angebot an Entwickler-Tools im Automotive-Bereich; zudem ist die nächste Hardware-Plattform Xavier fast fertig. Das lockt weitere Autohersteller und Zulieferer an.
+ 
+CES: Elektroauto Byton Concept: Das autonome Spielmobil kommt
+Ein Auto wie ein Smartphone: Der Elektro-SUV Byton Concept fährt mit riesigen Touchscreen als Armaturenbrett, Gestensteuerung und Gesichtserkennung vor. Dazu gibt es lernfähige Sprachassistenten und jede Menge Ablenkung vom langweilen Fahren.
+ 
+CES: Philips SmartSleep: Stirnband soll Tiefschlafphase auslösen
+Im Rahmen der CES hat Philips die nach eigenen Angaben erste Lösung vorgestellt, die für eine gesündere Nachtruhe sorgt, indem sie gezielt die Tiefschlafphase aktiviert.
+ 
+CES: Intel Core i-8000G: Kombiprozessoren mit leistungsfähiger Vega-Grafik für Notebooks
+Die leistungsfähigen Quad-Core-CPUs mit AMD-GPU und HBM2-Speicher ersetzen in flachen Notebooks Mobil-Grafikkarten. Intel verspricht genug Performance, damit aktuelle Spiele in Full-HD-Auflösung mit hohen Details flüssig laufen.
+ 
+CES: 8K, IoT und Elektroautos auf der CES: Las Vegas zeigt, was uns dieses Jahr erwartet
+Autos fahren von selbst, Fernseher können gar nicht genug Pixel bekommen und das Eigenheim spricht mit dem Handy. Auf der CES in Las Vegas stellen Unternehmen ihre Zukunftstechnik zur Schau. Was wir von der Messe erwarten.
+ 
+Analyse zur Prozessorlücke: Meltdown und Spectre sind ein Security-Supergau
+Die Sicherheitslücken Meltdown und Spectre treffen die Prozessorhersteller ins Mark - vor allem Intel. Aus den Lücken ergeben sich mehr als ein Dutzend Angriffsmöglichkeiten - ein Security-Supergau. EIne Analyse von Andreas Stiller.
+ 
+Programmiersprachen-Ranking: TIOBE kürt C zur Sprache des Jahres 2017
+Im Jahresvergleich verzeichnet der TIOBE Programming Community Index nur leichte Änderungen. Mit einem Popularitäts-Plus von 1,69 Prozent ragt C aus der Masse der Sprachen hervor.
+ 
+Trackmageddon: GPS-Tracking-Services ermöglichen unbefugten Zugriff
+Sicherheitsforscher haben Schwachstellen in zahlreichen Online-Tracking-Services entdeckt, die Angreifern unter anderem das Abrufen von GPS-Daten ermöglichen. Eine Liste der verwundbaren Services ist online verfügbar.
+ 
+Visa sperrt hunderttausende Bitcoin-Kreditkarten
+Visa hat Prepaid-Kreditkarten gesperrt, die mit Bitcoin oder anderen Krypto-Währungen aufgeladen werden konnten. Betroffen sind mindestens die internationalen Anbieter AdvCash, TenX und Xapo, die auch in Deutschland Kreditkarten angeboten haben.
+ 
+Prozessor-Lücken Meltdown und Spectre: Intel und ARM führen betroffene Prozessoren auf, Nvidia analysiert noch
+Betroffen sind unter anderem sämtliche Intel-Core-Prozessoren bis zurück zum Jahr 2008 sowie eine Vielzahl von ARM-Cortex-CPUs. Nvidia glaubt, dass die CUDA-GPUs nicht anfällig sind und analysiert noch seine Tegra-Prozessoren.
+ 
+Kurz vor Zwölf: Die Datenschutzerklärung für die Datenschutzgrundverordnung rüsten
+Meist verfügen Unternehmen bereits über eine Datenschutzerklärung für ihre Nutzer. Doch am 25. Mai 2018 mit Inkrafttreten der EU-DSGVO veraltet sie. Verantwortliche finden in der aktuellen iX eine kostenlose Checkliste für den Stichtag.
+ 
+Prozessor-Bug: Browser-Hersteller reagieren auf Meltdown und Spectre
+In Chrome lässt sich eine Option aktivieren, die das Risiko der Prozessor-Sicherheitslücke verringern soll. Mozilla hat ebenfalls Maßnahmen angekündigt, die die Auswirkungen der Lücke abmildern sollen.
+ 
+Prozessor-Bug: Intel-Chef stieß hunderttausende Aktien ab, Börsenkurs sackt ab
+Brian Krzanich verkaufte im November 2017 eine riesige Anzahl von Intel-Aktien. Die CPU-Lücke war dem Unternehmen seit Juni bekannt.
+ 
+Gravierende Prozessor-Sicherheitslücke: Nicht nur Intel-CPUs betroffen, erste Details und Updates
+Nach diversen Spekulationen über Ursache und Auswirkungen der CPU-Sicherheitslücke nehmen Intel und Google Stellung. Google veröffentlicht Details, außerdem zeigten Sicherheitsforscher mit Spectre und Meltdown zwei Angriffsszenarien.
+ 
+Spotify strebt an die Börse, aber ohne IPO
+Musikstreamer Spotify möchte seine Aktien an einer US-Börse listen, nimmt jedoch einen ungewöhnlichen Weg: Das Unternehmen bietet keine eigenen neuen Aktien feil.
+ 
+Tracking-Skripte klauen E-Mail-Adressen aus Web-Browsern
+Mittlerweile verfügen alle gängigen Browser über einen integrierten Login-Manager. Diese Funktion ist nicht nur praktisch für Nutzer, sondern auch für zwielichtige Werbefirmen, die die Daten fürs User-Tracking zweckentfremden.
+ 
+KIC 8462852: Feiner Staub könnte mysteriösen Stern verdunkeln – Rätsel bleiben
+Seit Jahren sorgt der sich immer wieder verdunkelnde Stern KIC 8462852 für viele Spekulationen. Vergangenes Jahr haben Forscher ihn ausführlich analysiert und eine natürliche Erklärung gefunden. Die wirft aber neue Fragen auf.
+ 
+Massive Lücke in Intel-CPUs erfordert umfassende Patches
+Derzeit arbeiten Linux- und Windows-Entwickler mit Hochdruck an umfangreichen Sicherheits-Patches, die Angriffe auf Kernel-Schwachstellen verhindern sollen. Grund für die Eile: eine Intel-spezifische Sicherheitslücke.
+ 
+High-Speed-SSDs: Plextor stellt M9Pe-Serie mit bis zu 3,2 GByte/s Lesegeschwindigkeit vor
+Die M9Pe-SSDs von Plextor gibt es in drei Bauformen und mit bis zu 1 TByte Speicherkapazität.
+ 
+Neue EU-Geldwäscherichtlinie: "Die Privatsphäre fällt praktisch weg"
+Die überarbeiteten EU-Vorgaben gegen Geldwäsche führen laut Rechtswissenschaftlern dazu, dass der Zahlungsverkehr künftig "fast vollständig überwacht ist". Transaktionsdaten könnten jahrzehntelang auf Vorrat gespeichert werden.
+ 
+Kritik an AMD: Adrenalin-Grafiktreiber verhindert Start von Spiele-Klassikern
+Einige ältere Spiele wie Command & Conquer 3 und The Witcher starten mit dem neuen AMD-Treiber nicht. Die Beschwerden der Spieler häufen sich, AMD blockt die Kritik noch ab.
+ 
+Akkutausch beim iPhone: Welche Geräte abgedeckt sind und was es kostet
+Nachdem bekannt wurde, dass Apple die Leistung von iPhones mit angeschlagenem Akku drosselt, hat der Konzern den Austausch des Energielieferanten signifikant verbilligt. Ganz simpel ist der Vorgang aber nicht.
+ 
+"Facebook-Gesetz": NetzDG macht Soziale Netze zu Richtern über "Hate Speech"
+Das Netzwerkdurchsetzungsgesetz stößt in Politik, Wirtschaft und Jurisprudenz auf heftige Kritik: Einschränkung der Meinungsfreiheit, Ende des freien Internet, Privatfirmen als Richter, so die Befürchtungen. Erst einmal sind die Bestimmungen jetzt gültig.
+ 
+Erneuerbare Energie: Entlegene Siedlungen werden noch Jahrzehnte Diesel verstromen
+Viele Ureinwohner Kanadas wollen ihren Dieselverbrauch zur Stromproduktion senken. Doch bei nicht ans Stromnetz angeschlossenen Siedlungen ist das erstaunlich schwierig.
+ 
+34C3: Riesige Sicherheitslücken bei Stromtankstellen
+An Ladesäulen auf fremde Rechnung Strom fürs E-Auto abzuzapfen ist laut dem Sicherheitsforscher Mathias Dalheimer kein Problem. Die Abrechnungsnummer für Nutzerkarten könne einfach kopiert werden, die Kommunikationsinfrastruktur sei kaum geschützt.
+ 
+Botnetze können das Stromnetz sabotieren
+Ein Botnetz könnte den Stromverbrauch vernetzter Geräte rascher beeinflussen, als Stromnetze darauf reagieren können. Damit könnte die Stromversorgung ganzer Länder sabotiert werden.
+ 
+Allen Lesern frohe, erholsame und besinnliche Feiertage!
+Wie auch immer Sie jetzt feiern oder auch nur ein paar ruhige Tage verbringen: Eine friedliche Zeit wünschen die Redaktionen. Auch in den Tagen bis Neujahr und natürlich dann 2018 halten wir Sie auf dem Laufenden.
+ 
+Edward Snowdens Überwachungs-App: Selbst-Schutz und Schutz vor Überwachern
+Edward Snowden hat eine Android-App vorgestellt, die Smartphones zu unauffälligen Sicherheits-Systemen aufrüstet. Hinter dem Open-Source-Projekt stehen The Guardian Project und die Freedom of The Press Foundation.
+ 
+Highlights des Jahres: c't kürt die 20 besten Spiele
+2017 sollte das große Jahr der VR werden, doch für die größte Überraschung sorgte eine kleine Mobilkonsole. Dazu gabs skurile Genre-Mischungen. Wir stellen die 20 wichtigsten Titel plattformübergreifend vor.
+ 
+Missing Link: Fluchtpunkt Afrika - Kontinent technologischer Visionen und Innovationen
+Hightech aus Afrika? Das widerspricht dem Bild vom Kontinent mit Armut, politischer Gewalt und Flüchtlingen. Geprägt ist er aber auch von Erfindungsgeist und Innovationen - und einer kulturellen Bewegung, die sich im Afrofuturismus widerspiegelt.
+ 
+Ubuntu Touch lernt Android-Apps auszuführen
+Das Smartphone-Betriebssystem Ubuntu Touch bringt Anbox (Android in a Box). Damit können auf den Handys auch Android-Apps genutzt werden.
+ 
+Europäisches Leistungsschutzrecht: EU-Kommission hielt kritische Studie versteckt
+Die im Januar im EU-Parlament anstehende Copyright-Reform gerät weiter unter Beschuss. Eine von der EU-Kommission in Auftrag gegebene und bislang unveröffentlichte Studie bilanziert, dass ein Leistungsschutzrecht den Verlagen mehr schadet als nützt.
+ 
+Civilization VI überraschend fürs iPad erhältlich
+Der jüngste Teil der populären Strategiespielreihe ist plötzlich für (neuere) iPads erhältlich. Civilization VI lässt sich kostenlos herunterladen und ausprobieren – bevor der volle Umfang freigeschaltet werden muss.
+ 
+Fachkräftemangel bremst Wachstum im Handwerk
+Mehr als 40 Prozent der Handwerksbetriebe suchten Fachkräfte und Auszubildende. Manche Betriebe könnten wegen Personalmangel keine neuen Aufträge annehmen, sagt der Präsident des Zentralverbandes des Deutschen Handwerks.
+ 
+Währung oder Spekulationsobjekt – das Bitcoin-Dilemma: Zahlen oder Zocken?
+Als Währung gedacht, doch vor allem zum Spekulieren genutzt: Der Bitcoin-Höhenflug steht dem ursprünglichen Sinn und Zweck des Kryptogeldes im Weg. Der Hype wirft die Frage auf, ob das digitale Objekt der Begierde überhaupt noch zum Bezahlen taugt.
+ 
+Kommentar: Sprich mit uns auf Augenhöhe, Apple!
+Würde Apple nicht immer erst mit der Sprache herausrücken, wenn der Ärger schon da ist, sondern seine Nutzer wie verständige und mündige Menschen behandeln, wären alle Seiten besser dran.
+ 
+Windows 10: Insider-Preview mit Ausblick auf viel neues
+Mit einer neuen Vorabversion mit der Build-Nummer 17063 gibt Microsoft einen Ausblick auf Feature- und Designänderungen, die mit der nächsten Ausgabe des Systems fertig werden dürften.
+ 
+Einfache Mail-Verschlüsselung: PGP-Helfer Autocrypt in Version 1.0 vorgestellt
+Eine benutzerfreundliche E-Mail-Verschlüsselung versprechen die Macher der Autocrypt-Spezifikation, die heute in Version 1.0 freigegeben wurde.
+ 
+Heftige Brute-Force-Attacken auf WordPress-Seiten
+Sicherheitsforscher haben weltweit 14 Millionen Angriffe pro Stunde auf WordPress-Webseiten registriert. Die Angreifer wollen sich Zugang zu den Seiten verschaffen.
+ 
+Ubuntu 17.10: Downloads gestoppt wegen Panne auf Lenovo-Notebooks
+Die Installation von Ubuntu 17.10 kann zu Defekten an einigen Lenovo-Notebooks führen, vermutlich wegen eines unausgegorenen Treibers.
+ 
+“Bright”: Fantasy-Cop-Action mit Will Smith und Orks
+Die erste große Filmproduktion von Netflix ist ein Polizeifilm mit Personal aus Mittelerde: Will Smiths neuer Partner ist ein Ork – und damit fangen die Probleme erst an.
+ 
+EuGH: Uber rechtlich mit Taxi-Unternehmen gleichgestellt
+Uber hat vor dem Europäischen Gerichtshof eine Niederlage erlitten. Das Unternehmen meinte, als Informationsdienstleister müsste es weniger Regeln beachten. Dem hat der EuGH widersprochen: Uber entspreche rechtlich einer Taxi-Firma.
+ 
+iOS-Schwachstellen: Schwere Vorwürfe an Apples Security-Team
+Apple habe mit HomeKit eine “supersichere Tür gebaut”, aber den Schlüssel steckenlassen und die Mauer vergessen, so ein Entwickler. Bis von ihm gemeldete Sicherheitslücken ausgeräumt waren, seien viele Wochen vergangen.
+ 
+Werbe-Add-on im Firefox: Mozilla entschuldigt sich
+Nachdem der Browserhersteller bei US-Nutzern des Firefox ein Add-on zur TV-Serie "Mr. Robot" installiert hatte, gesteht er nun Fehler ein und will seine Prozesse überprüfen.
+ 
+Viel Kritik an Microsofts Plänen für eine "Digitale Genfer Konvention"
+Es ist Zeit für eine Genfer Konvention für mehr Sicherheit im Netz, findet Microsoft und will damit unter anderem den weltweiten Run auf Sicherheitslücken eindämmen. Geht es nicht eine Nummer kleiner, fragen  Diplomaten und Techniker.
+ 
+Multifunktionstrojaner Loapi kann Android-Smartphones physisch beschädigen
+Loapi ist die eierlegende Wollmilchsau unter den Android-Trojanern und geht so hart zu Werk, dass Smartphones aufplatzen können.
+ 
+12. Internet Governance Forum: Eine Zensur findet statt – Kritik an Europa
+Der Sonderberichterstatter für Meinungsfreiheit, David Kaye fand am ersten Tag des Internet Governance Forum in Genf harte Worte für den Zustand der Meinungsfreiheit und Informationsfreiheit im bei der UN-Konferenz viel beschworenen offenen Internet.
+ 
+Kein Raumschiff: Interstellarer Asteroid ʻOumuamua ist natürliches Objekt
+ʻOumuamua ist der erste Besucher aus einem anderen Sonnensystem, der eindeutig als solcher erkannt wurde. Das macht den Asteroiden hochinteressant für Astronomen – und nach außerirdischem Leben
+suchende Forscher.
+ 
+Hilfe für Vielschreiber: Papyrus Autor 9 mit neuem Organizer
+Mit Papyrus Autor 9 schreiben Schriftsteller effektiver: Der neue "Organizer" hilft beim Aufbau einer Story und erleichtert große Umbauten. Beim Feinschliff helfen Korrektor und Stilanalyse – beide erhielten viele Verbesserungen.
+ 
+Gesichtserkennung von Windows 10 mit Papierausdruck reingelegt
+Sicherheitsforscher haben Windows Hello erfolgreich ausgetrickst und sich an damit gesicherten Computern angemeldet. Das funktioniert aber nur mit bestimmten Hard- und Softwarekonstellationen.
+ 
+WTF, Mozilla? Ein Kommentar zu Firefox-Add-Ons
+Mit der Installation eines Werbe-Add-Ons hat Mozilla hart erarbeitetes Vertrauen verspielt – und das völlig unnötig, kommentiert Torsten Kleinz.
+ 
