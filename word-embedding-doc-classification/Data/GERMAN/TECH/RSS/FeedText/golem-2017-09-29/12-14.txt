@@ -1,0 +1,120 @@
+Grafiktreiber: AMDs Display-Code steht kurz vor Aufnahme in Linux-Kernel
+Nach knapp eineinhalb Jahren Arbeit und anfangs großem Widerstand der Kernel-Community könnte der neue Display-Code von AMD nun in den Linux-Kernel wandern. Benötigt wird der Code vor allem für Vega und die kommenden Raven-Ridge, die auf Ryzen basieren. (Linux-Kernel, AMD) 
+ 
+Container-Orchestrierung: Kubernetes 1.8 hilft Admins und verbessert Workload-API
+Administratoren der Container-Orchestrierung Kubernetes steht mit Version 1.8 ein rollenbasiertes Zugriffsmodell bereit. Darüber hinaus ist das Workload-API nun bereit für Big Data und das Team experimentiert mit einem Selfhosted Cluster. (Orchestrierung, API) 
+ 
+Windows 10: Microsoft sagt Passwörtern auf Wiedersehen
+Mit Fido 2.0, Azure Active Directory und Windows Hello will Microsoft alternative Anmeldemethoden für viele Plattformen einführen - und sagt dem klassischen Passwort den Kampf an. Die Vision: sich mit dem Authenticator, dem USB-Stick oder einem Wearable überall anmelden zu können. (Azure, Microsoft) 
+ 
+Stiftung Warentest: Die meisten Überwachungskameras haben Sicherheitsmängel
+Ungeschützte IoT-Kameras gehören zu den großen Problemen bei der IT-Sicherheit. Aus den Vorfällen der vergangenen Monate scheinen einige Hersteller jedoch nicht viel gelernt zu haben. (Mirai-Botnetz, Server-Applikationen) 
+ 
+Mozilla: Firefox 56 macht Hintergrund-Tabs stumm
+Die aktuelle Version 56 von Mozillas Browser Firefox stoppt Autoplay-Medien im Hintergrund, liefert eine Suche für die Einstellungen, beschleunigt die TLS-Verschlüsselung für bessere Download-Raten und verbannt Flash von Android. (Firefox, Browser) 
+ 
+Google: Android bekommt neuen Update-Mechanismus
+Wenn Google bisher Updates für Android verteilte, kamen diese strikt in Wellen bei den Nutzern an. Wer während der Verteilung den Update-Button seines Smartphones oder Tablets drückte und noch nicht dran war, ging leer aus. Das soll sich jetzt ändern. (Android, Smartphone) 
+ 
+Abseil: Google legt eigene Basisbibliotheken offen
+Die Codesammlung Abseil von Google ist der grundsätzliche Baustein für die interne Software des Unternehmens und damit für alles, was bei Google an Software läuft. Das Projekt mit C++-Code steht nun als Open Source zur Verfügung. (Google, Python) 
+ 
+Android: Google schafft Entsperrung per NFC-Chip ab
+Vorsicht beim Gerätewechsel: Google hat die Entsperrung per NFC-Tag aus Android entfernt. Nutzer von subdermalen Implantaten oder NFC-Ringen dürften die unbegründete Entscheidung nicht gut finden. (NFC, Smartphone) 
+ 
+iOS 11.1: Apple lässt nächste Betas seiner Betriebssysteme testen
+Der Testzyklus für neue Apple-Betriebssysteme geht in eine neue Runde. Neben iOS 11.1 Beta 1 stehen auch die ersten Vorabversionen von WatchOS 4.1, TVOS 11.1 und MacOS High Sierra zum Download bereit. (Apple, Applikationen) 
+ 
+Cloud-Speicher: Nextcloud setzt auf Ende-zu-Ende-Verschlüsselung
+Mit der kommenden Version 13 will Nextcloud Ende-zu-Ende-Verschlüsselung in seinen Cloud-Speicherdienst einbauen. Die soll verzeichnisbasiert funktionieren, einfach sein und für den Unternehmenseinsatz taugen. (Nextloud, Verschlüsselung) 
+ 
+Google Cloud Platform: Pay-per-Second-Umstellung spart "einen Morgenkaffee"
+Google stellt viele Dienste auf ein Bezahlmodell pro Sekunde um - sofort. Dazu zählen auch VMs mit Linux- und Windows-Server. Googles Meinung nach ist das aber eine kaum relevante Änderung. (Google, Suse) 
+ 
+Netzspeicher: Huawei startet eigene Mobile Cloud
+Huawei wird für seine Smartphones einen eigenen Cloudspeicher anbieten. Die Mobile Cloud ermöglicht es Nutzern, ihre Geräteeinstellungen und Daten wie Fotos, Videos und Dokumente auf 5 GByte Speicher abzulegen. Ab 2018 sollen Nutzer auch mehr Speicherplatz erwerben können. (Huawei, Cloud Computing) 
+ 
+IBM Watson Workspace ausprobiert: Noch nicht fertig kombiniert, Watson!
+IBMs Watson Workspace ist eine Antwort auf Slack, Microsoft Teams und Ähnliches. Mit Watsons Hilfe hat das Programm Potenzial. Unser Ersteindruck ist jedoch: noch nicht fertig. (Watson, IBM) 
+ 
+Programmiersprache für Android: Kotlin ist auch nur eine Insel
+Die recht junge Programmiersprache Kotlin gewinnt zunehmend mehr Liebhaber. Als Java-Alternative gestartet, folgt Kotlin nun als zweite offizielle Sprache für Android. Wir stellen die wichtigsten Eigenschaften der Sprache vor. (Programmiersprache, Java) 
+ 
+Desktop-Android: Samsungs Dex ohne spezielle Station nutzbar
+Bisher konnte der Desktop-Modus von Samsungs aktuellen Smartphones nicht mit herkömmlichen Dongles, sondern nur mit der passenden Dex-Station verwendet werden. Dank eines modifizierten Kernels lässt sich die Benutzeroberfläche jetzt aber auch so nutzen. (Samsung, Android) 
+ 
+Microsoft: Office 2019 kommt 2018
+Microsoft will seine neue Office-Suite für Windows Ende 2018 auf den Markt bringen. Sie trägt die Bezeichnung Office 2019 und soll offenbar weiter verkauft und nicht nur als Abo im Rahmen von Office 365 angeboten werden. Zuvor hat es Berichte gegeben, Microsoft wolle komplett auf ein Abomodell umsteigen. (Microsoft, Instant Messenger) 
+ 
+Mobiles Betriebssystem: Apple veröffentlicht überraschend iOS 11.0.1
+Apple hat kurz nach der Vorstellung von iOS 11 ein Update hinterhergeschoben. Es handle sich um ein Wartungsupdate, heißt es. Einige Nutzer berichten seit iOS 11 von kurzen Akkulaufzeiten und Tonproblemen beim Telefonieren. (iOS 11, Apple) 
+ 
+Banking-App: Outbank im Insolvenzverfahren
+Der Betreiber der großen Banking-App kann seine Rechnungen nicht mehr bezahlen. Wird kein Käufer gefunden, muss Outbank eingestellt werden. (iCloud, Server) 
+ 
+Ransomware: Redboot stoppt Windows-Start und kann nicht entschlüsseln
+Die Redboot-Ransomware überschreibt den MBR, die Partitionstabelle - und hat offenbar keine Möglichkeit, die verschlüsselten Dateien jemals wiederherzustellen. Selbst, wenn die Opfer zahlen würden. (Security, Virus) 
+ 
+Office: Microsoft 365 zeigt LinkedIn-Informationen von Kontakten an
+Mehr LinkedIn: Office 365 und Microsoft 365 sollen detaillierte Kontaktinformationen direkt im Programm einblenden können. Dazu nutzt Microsoft LinkedIn und seine 500 Millionen Nutzer. Eine ähnliche Funktion soll auch für Dynamics 365 kommen. (Office 365, Microsoft) 
+ 
+MacOS High Sierra: MacOS-Keychain kann per App ausgelesen werden
+Der Sicherheitsforscher Patrick Wardle hat demonstriert, dass Apples Keychain unter MacOS mit einer App komplett ausgelesen werden kann. Diese muss aber zunächst an Apples Gatekeeper vorbei. (Apple, Verschlüsselung) 
+ 
+Windows: Microsoft 365 kommt auch für Schüler und Fabrikarbeiter
+Microsoft 365 wird es auch für den Bildungsbereich und First-Line-Arbeiter geben. Diese Lizenzen beinhalten ebenfalls Windows 10 und Office 365. Der Unterschied zwischen beiden: Minecraft und eine Art WSUS-Funktion. (Microsoft, Office-Suite) 
+ 
+Suchmaschine: Apple stellt Siri auf Google um
+Apple stellt die Suchmaschine um und verwendet jetzt Google statt Bing für seinen Sprachassistenten Siri und die systemweite Suche Spotlight unter iOS und MacOS. Bei Bildern macht Apple allerdings eine Ausnahme. (Google, Apple) 
+ 
+Gruppenchat: Skype for Business wird durch Microsoft Teams ersetzt
+Microsoft Teams ist noch kein Jahr alt, soll nun aber Skype for Business langfristig ersetzen. Das hat Microsoft auf seiner Ignite-Konferenz mitgeteilt. Skype for Business hat Lync, Microsofts frühere Business-Chat-Anwendung, schon 2015 abgelöst. (Office 365, Skype) 
+ 
+MacOS 10.13: Apple gibt High Sierra frei
+Apple hat das neue MacOS 10.13 alias High Sierra zum Download bereitgestellt. APFS wird damit für einige Nutzer Pflicht. Es gibt allerdings auch schon Warnungen von Herstellern, die mit den kurzen Entwicklungszyklen von Apple nicht zurechtkommen. (Mac OS, Apple) 
+ 
+WatchOS 4.0 im Test: Apples praktische Taschenlampe mit autarkem Musikplayer
+Etliche Neuerungen von WatchOS 4.0 sind nur Spielereien. Einige Kleinigkeiten machen die Apple Watch im Alltag aber deutlich praktischer. (WatchOS, Test) 
+ 
+Windows 10: Windows Store wird zum Microsoft Store mit Hardwareangeboten
+Ein neues Logo und neue Angebote: Microsoft will den zukünftigen Microsoft Store mit eigenen und Partnerprodukten befüllen - zusammen mit passenden Angeboten beim Neukauf. Der neue Store kommt wahrscheinlich mit dem Fall Creators Update. (Windows Store, Microsoft) 
+ 
+PixelNN: Mit Machine Learning unscharfe Bilder erkennbar machen
+PixelNN kann unscharfe oder unvollständige Bilder rekonstruieren. Der Algorithmus sei dabei präziser als ähnliche Projekte. Die Entwickler nutzen ein neuronales Netz, um bereits jetzt relativ genaue Ergebnisse zu liefern. (Neuronales Netzwerk, KI) 
+ 
+Bundestagswahl 2017: IT-Probleme verzögerten Stimmübermittlung
+Kein großer Hack, aber einzelne Probleme: Selten stand die IT-Infrastruktur der Wahl so im Fokus wie dieses Mal. Neben Störungen bei der Übermittlung gab es auch zwischenzeitlich falsche Darstellungen der Ergebnisse. (BTW 2017, CCC) 
+ 
+Übernahme: SAP kauft Gigya für 350 Millionen US-Dollar
+Noch im vierten Quartal sollen die 300 Mitarbeiter von Gigya zu SAP wechseln. Das Unternehmen entwickelt eine Business-to-Consumer-Plattform. In der Vergangenheit wurde die damals unsichere Software von Hackern ausgenutzt. (SAP, Spam) 
+ 
+Remote Forensics: BKA kann eigenen Staatstrojaner nicht einsetzen
+Nach wie vor wollen Behörden Stärke demonstrieren, können ihren Staatstrojaner aber immer noch nicht einsetzen. Eine neue Version soll Abhilfe schaffen, Zitis soll sich künftig um die Abwägung bekannter Sicherheitslücken kümmern. (Trojaner, Skype) 
+ 
+Oracle: Java SE 9 und Java EE 8 gehen live
+Java geht in eine neue Runde: In Version 9 gibt es eine verbesserte Dokumentation und mit JShell eine interaktive REPL. Java EE 8 verbessert JSON und JAX-RS. Außerdem sollen OpenJDK und Oracle JDK ähnlicher werden. (Java, Oracle) 
+ 
+Unterwegs auf der Babymesse: "Eltern vibrieren nicht"
+Unternehmen wollen die Kindererziehung umkrempeln und digitalisieren. Dabei setzen sie auf getunte Kinderwagen, Socken mit Bluetooth und Feinstaubmesser im Kinderzimmer. Es bleibt die Frage: Wollen Eltern das wirklich? (Security, Server) 
+ 
+Apple: 4K-Filme in iTunes laufen nur auf neuem Apple TV
+Apple bietet mittlerweile bei iTunes Filme in 4K an - abspielen kann sie aber niemand. Auf PCs und Macs läuft das Material nämlich nicht: Nutzer benötigen dafür das neue Apple TV 4K, das am 22. September 2017 in den Handel kommt. (Apple TV, Apple) 
+ 
+Pipewire: Fedora bekommt neues Multimedia-Framework
+Das neue Framework Pipewire kümmert sich unter Linux um Multimedia-Inhalte, bringt Wayland- und Flatpak-Support mit und steckt bereits in der Vorabversion von Fedora 27. Künftig könnte es sogar Pulseaudio ablösen - zumindest in Teilen. (Linux, Fedora) 
+ 
+Creators Update: "Das zuverlässigste und sicherste Windows seit jeher"
+Schneller, sicherer und längere Akkulaufzeit: Das Creators Update soll im Rückblick eine Menge Verbesserungen für Nutzer gebracht haben. So argumentiert zumindest Microsoft selbst. Neue Probleme sind trotzdem entstanden. (Microsoft, Windows) 
+ 
+Apple iOS 11: Wer WLAN und Bluetooth abschaltet, benutzt es weiter
+Für Apple-Nutzer mit iOS 11 wird es künftig schwerer, Funkverbindungen abzuschalten. Wenn der Nutzer im Kontrollzentrum WLAN oder Bluetooth abschaltet, passiert technisch nur wenig. Tatsächlich gibt es eine mehrstufige Abschaltung, die auch angezeigt wird. Der Flugmodus ist zum Glück sauber implementiert. (iOS 11, WLAN) 
+ 
+MPEG: H.265-Nachfolger kann 30 bis 60 Prozent Verbesserung bringen
+Erste Experimente für den geplanten H.265-Nachfolger zeigen die erhofften Ergebnisse, allerdings nur bei deutlich gestiegener Komplexität. Der freie Code AV1 positioniert sich außerdem als qualitativ gleichwertige Konkurrenz zu H.265, wie sich auf der Rundfunkmesse IBC zeigt. (Audio/Video, Film) 
+ 
+Apache-Sicherheitslücke: Optionsbleed bereits 2014 entdeckt und übersehen
+Der Optionsbleed-Bug im Apache-Webserver wurde 2014 bereits in einem wissenschaftlichen Paper beschrieben. Allerdings hatte offenbar niemand bemerkt, dass es sich um eine kritische Sicherheitslücke handelt, obwohl kurz zuvor der ähnliche Heartbleed-Bug entdeckt worden war. (Apache, Server-Applikationen) 
+ 
+Apple: Swift 4 erleichtert Umgang mit Strings und Collections
+In Version 4 der Sprache Swift von Apple wird das Verarbeiten von Strings einfacher - etwa für XML, Unicode oder Substrings. Verbessert hat das Team zudem sogenannte Collections sowie die Speicherzugriffe, was an Rust erinnert. (Swift, Apple) 
+ 

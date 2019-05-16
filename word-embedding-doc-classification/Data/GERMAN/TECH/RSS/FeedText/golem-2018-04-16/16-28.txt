@@ -1,0 +1,120 @@
+McAfee-Studie: Jedes vierte Unternehmen meldet Datendiebstahl in der Cloud
+Die Public Cloud ist beliebt, aber risikoreich: Laut McAfee war jedes vierte befragte Unternehmen schon Opfer eines Datendiebstahls. Trotzdem wird die Public Cloud zum Speichern von personenbezogenen Daten und geheimen Informationen genutzt. (Cloud Computing, Google) 
+ 
+CVE-2018-7600: Kritische Drupal-Lücke wird ausgenutzt
+Wer seine Drupal-Installation noch nicht gepatcht hat, soll dies spätestens jetzt nachholen. Nach der Veröffentlichung weiterer Details und einem auf Twitter zirkulierenden Exploit-Code wurden erste Angriffe beobachtet. (Drupal, CMS) 
+ 
+Windows 10: Tabs in der Kommandozeile sowie Copy-and-paste unter Linux
+Microsoft verbessert die Kommandozeile für kommende Windows-10-Versionen. Wer gerne oft mit der Kommandozeile arbeitet, wird sich über ein Tab-Interface freuen. Linux-Anwender mit dem Windows Subsystem for Linux können zudem Copy-and-paste verwenden. (Windows 10, Microsoft) 
+ 
+Künstliche Intelligenz: Google sucht Antworten auf Fragen in Büchern
+Mit Talk to Books hat Google eine neue Suchmaschine vorgestellt, die in Büchern nach Antworten auf Fragen sucht. Das dahinterstehende Modell basiert auf maschinellem Lernen, Google betont aber selbst, dass die Suchmaschine noch nicht unbedingt in der Lage ist, spezifische Antworten zu geben. (Google, KI) 
+ 
+Windows: 250 Millionen Euro des Staatshaushalts gehen an Microsoft
+Windows, Office, Active Directory: Deutsche Behörden kaufen Microsoft-Software. Das ergibt die Untersuchung der Partei Die Linke. Bis Mai 2019 sollen sogar 250 Millionen Euro dafür aufgewendet werden. Diese Abhängigkeit sei ein Risiko. (Bundesregierung, Microsoft) 
+ 
+Betriebssysteme: Linux 4.17 bringt Verbesserungen für AMD-Grafikkarten
+In Linux 4.17 profitieren AMDs Grafikkarten erneut von Verbesserungen im quelloffenen AMDGPU-Treiber. Zudem ist der Code vieler obsoleter CPU-Architekturen entfernt worden. Auch der Leerlaufprozess ist optimiert. Die Umsetzung der umstrittenen Sicherheitsfunktion Lockdown ist hingegen vertagt. (Linux-Kernel, IBM) 
+ 
+Google: Gmail könnte E-Mails mit Ablaufdatum bekommen
+In einer E-Mail an G-Suite-Administratoren hat Google ein Redesign von Gmail angekündigt - dazu könnten auch neue Funktionen wie E-Mails mit Ablaufdatum gehören. Diese wären nur eine vordefinierte Zeit lang lesbar; realisiert wird das Konzept offenbar über Links. (Gmail, Google) 
+ 
+Messenger: Russland blockiert Telegram
+Nutzer in Russland können künftig nicht mehr über Telegram miteinander kommunizieren. Ein Gericht in Moskau setzt damit eine schon länger angedrohte Sperre um. (Instant Messenger, Verschlüsselung) 
+ 
+BeA: Rechtsanwaltsregister wegen Sicherheitslücke abgeschaltet
+Das deutsche Rechtsanwaltsregister hat eine schwere Sicherheitslücke. Schuld daran ist eine veraltete Java-Komponente, die für einen Padding-Oracle-Angriff verwundbar ist. Das Rechtsanwaltsregister ist Teil des besonderen elektronischen Anwaltspostfachs, war aber anders als dieses weiterhin online. (BeA, Java) 
+ 
+Internet der Dinge: Ein Birkenwäldchen für die Bosch-Entwickler
+Schon in zwei Jahren sollen bei Bosch alle elektronischen Produktklassen vernetzt sein. Um für seine Entwickler eine kreative Arbeitsumgebung zu schaffen, hat das Unternehmen in Berlin einen eigenen IoT-Campus eröffnet. (Black Hat 2016, Technologie) 
+ 
+Microsoft: Project Honululu ist fertig und heißt Windows Admin Center
+Das Windows Admin Center ist ein Tool, über das Administratoren Windows-Clients und -Server unter einem Dach verwalten können. Aber auch Active Directory und die Azure-Cloud finden dort Platz - Project Honululu mit neuem Namen. (Azure, Server-Applikationen) 
+ 
+Android 8.0: Galaxy Note 8 und Nokia 3 bekommen Oreo
+Samsung und HMD Global haben mit der Verteilung der aktuellen Android-Version 8.0 alias Oreo begonnen. Mit dem Nokia 3 bekommt damit auch das Einsteiger-Smartphone mit Nokia-Logo das Upgrade. Der finnische Hersteller löst damit sein Versprechen ein, seine Modelle auf dem aktuellen Stand zu halten. (Android 8.0, Nokia) 
+ 
+Windows 7, 8.1 und 10: Kein Registry-Eintrag für Sicherheitsupdates mehr nötig
+Keine Registry-Schlüssel mehr: Microsoft hat die Bedingung entfernt, die Windows-PCs vom Aktualisieren abhielt. Das war im Januar 2018 wohl notwendig - Meltdown und Spectre hatten Priorität und Antivirensoftware konnte Abstürze bei den schnell entwickelten Updates hervorrufen. (Windows, Microsoft) 
+ 
+Initiative Applied AI: KI verstehen und ihren Gesellschaftseinfluss diskutieren
+Die Initiative Applied AI fördert die Anwendung künstlicher Intelligenz in Europa. Mehrere große Partner wie Google, SAP und Siemens sollen dabei helfen. Das Projekt will Europa beim Thema KI konkurrenzfähig machen, muss aber auch über Risiken aufklären. (KI, Google) 
+ 
+4HANA und ERP: SAPs neue Lizenzierung soll Bestandskunden entgegenkommen
+SAP will sein Abrechnungsmodell umstellen. Automatische Systeme sollen nicht mehr als Nutzer gezählt, sondern nach Transaktionen bewertet werden. Umstrukturierungen bei den Projektteams sollen Verträge flexibler machen. In Zukunft sollen Kunden auch ihre eigenen Abrechnungen erstellen können. (SAP, Cloud Computing) 
+ 
+Spring Creators Update: Warten auf den Windows-Frühlingspatch
+Auf vielen Webseiten ist von einem Release des Spring Creators Updates am 10. April die Rede gewesen, was Microsoft selbst jedoch nie bestätigt hat und offensichtlich falsch ist. Stattdessen erhalten Windows Insider einen Patch für die Vorbereitung des Updates und normale Nutzer einen Spectre-Patch. (Windows 10, Microsoft) 
+ 
+AMD Zen-APU: Raven Ridge bekommt VP9-Beschleunigung für Linux
+Fast ein Jahr nach den ursprünglichen Arbeiten am Video-Decoding unterstützt AMDs neuer Video-Core die hardwarebeschleunigte Wiedergabe von VP9. Genutzt werden kann das in den Raven Ridge und kommenden AMD-Grafikkarten. (AMD Zen, Prozessor) 
+ 
+Microsoft Winfile: Alter Windows-Dateimanager jetzt quelloffen
+Nach 28 Jahren veröffentlicht Microsoft den Quellcode des Dateimanagers aus Windows 3.0. Nostalgiker können das alte Eisen jetzt auch unter Windows 10 nutzen. (Dateimanager, Microsoft) 
+ 
+Maschinelles Lernen: Google-Mitarbeiter protestieren gegen Militärprojekt Maven
+Mehr als 3.100 Mitarbeiter von Google sind gegen die militärische Nutzung ihrer KI. Ein offener Brief an den CEO Sundar Pichai wurde als Protest gegen Projekt Maven verfasst. Auch alteingesessene Mitarbeiter haben das Dokument unterschrieben. (Drohne, Google) 
+ 
+Travis CI: Falsch gesetzte Variable führt zu gelöschter Datenbank
+Der mit Github genutzte Dienst Travis-CI war für mehrere Stunden nicht erreichbar. Der Grund ist offenbar eine falsch gesetzte Variable eines Entwicklers, die zum Verlust der Produktivdatenbank geführt hat. Eventuell waren Nutzerdaten für andere einsehbar. (Datenbank, Server-Applikationen) 
+ 
+Linux: Hardware soll Schlüssel der Kernel-Entwickler schützen
+Die Linux Foundation sorgt sich schon länger um die Sicherheit des Codes in der Kernel-Entwicklung und macht Werbung für PGP-signierte Git-Tags und Code-Beiträge. Linux-Entwickler können nun auch kostenlos Kryptohardware beziehen, um ihre Schlüssel abzusichern. (Linux-Kernel, Linux) 
+ 
+Microsoft: Admin-Tool bringt Teams und Skype for Business zusammen
+Microsofts Admin Center ermöglicht es Nutzern, Chatteilnehmer und Chaträume zu verwalten. Die Anwendung funktioniert mit Teams und Skype for Business und bringt diese näher zusammen. Bisher ist die Software erst ein Vorgeschmack auf das, was noch kommen soll. (Microsoft, Skype) 
+ 
+GNU Patch: Holey Beep verrät Zeroday in Patch-Tool
+Eine scherzhafte Webseite über eine Sicherheitslücke im Piepston-Tool beep verrät zwar keine Details darüber - dafür enthält sie aber einen Hinweis auf eine Sicherheitslücke im Patch-Tool. Für die beep-Lücke gibt es außerdem zwischenzeitlich einen Proof of Concept. (Linux, Sicherheitslücke) 
+ 
+Microsoft: Office 365 wird besser gegen Ransomware geschützt
+Um vor Ransomware und schädlichen Links zu schützen, verbessert Microsoft sein Office 365 und Onedrive mit Funktionen wie einer Datenwiederherstellung, passwortgeschützten Sharing-Links und verschlüsseltem E-Mail-Verkehr in der Cloud. Die Maßnahmen kommen nicht nur für Business-Konten. (Office 365, Microsoft) 
+ 
+Android 8.1 im Test: Ein Besuch auf der Oreo-Baustelle
+Vor einem halben Jahr erwies sich Android 8.0 alias Oreo als noch nicht ganz fertig. Doch wie sieht es jetzt aus? Trotz eines Versionsupdates und zahlreicher Sicherheits-Patches gilt diese Aussage weiterhin. Ein Rundgang auf der Baustelle. (Android 8.1, Smartphone) 
+ 
+Windows Defender: Microsoft baut Sicherheitslücke bei Bug-Fix ein
+Für seine Malware-Analyse-Engine nutzt Microsoft offenbar einen internen Fork des Werkzeugs Unrar. Beim Beheben von möglichen Sicherheitslücken hat das Team aber selbst eine eingebaut. Google hat diese Lücke gefunden und Microsoft stellt ein Update bereit. (Project Zero, Microsoft) 
+ 
+Natus Neuroworks: Sicherheitslücken in Gehirnscan-Software entdeckt
+Der Scan der Hirnaktivitäten ist nicht gefährdet, das Krankenhaus aber schon: Sicherheitsexperten haben Schwachstellen in der Software von EEG-Geräten gefunden, die es ermöglichen, Code auf dem Gerät auszuführen und sich Zugriff auf das Krankenhausnetz zu verschaffen. (Security, Cisco) 
+ 
+AWS Sagemaker und S3: Daten in nur einer Verfügbarkeitszone preiswerter speichern
+AWS kündigt Neuerungen bei seinem Cloud-Speicher S3 an: Es wird ein preiswertes Angebot geben, das Daten in nur einer Verfügbarkeitszone speichert. Das verringert die Redundanz, könnte für deutsche Unternehmen aber ein Plus sein. Auch der KI-Editor Sagemaker wird verbessert. (Amazon S3, Speichermedien) 
+ 
+beep: Sicherheitslücke im Piepstool für Linux
+Das Kommandozeilentool "beep" dient eigentlich nur dazu, einen Piepston auf dem PC-Speaker auszugeben. Doch jetzt wurde eine Sicherheitslücke darin entdeckt - mit der man Root-Rechte erlangen kann. (Linux, Debian) 
+ 
+Secure Boot: Linux-Community streitet über Kernel-Lockdown
+Mit einer Reihe von Patches soll ein laufender Linux-Kernel vor Veränderungen geschützt werden. Die Verknüpfung dieses sogenannten Kernel-Lockdown erregt Chefentwickler Torvalds, der diese Funktion so nicht möchte. Red-Hat- und Google-Entwickler versuchen zu intervenieren. (Linux-Kernel, Linux) 
+ 
+Postbox 6.0: Neuer kommerzieller Thunderbird-Ableger mit Maildir
+Der Thunderbird-Ableger Postbox ist in der Version 6.0 erschienen. Es gibt ein neues Design und viele Umbauten im Hintergrund. Auch das Mailbox-Format wird geändert, so dass eine Migration notwendig wird. (Postbox, Thunderbird) 
+ 
+Android: Carbon ROM kommt mit Oreo für zahlreiche Smartphones
+Die Macher der alternativen Android-Version Carbon ROM haben sich mit einem Upgrade auf Android 8.1 alias Oreo zurückgemeldet: Für insgesamt 19 Geräte steht die Android-Variante als Download zur Verfügung, bald sollen weitere Geräte folgen. (Android-ROM, Android) 
+ 
+Creative Cloud: Adobe Produkte machen einiges dank KI automatisch
+Adobe hat für seine Video- und Fotoprogramme umfangreiche Updates bereitgestellt, die zur Automatisierung und Beschleunigung zeitintensiver Aufgaben beitragen sollen. Dabei wird künstliche Intelligenz eingesetzt, um Farb- und Lautstärkeangleichungen vorzunehmen. (Creative Cloud, Grafiksoftware) 
+ 
+Unix: OpenBSD 6.3 schützt vor Meltdown und Spectre
+Die Version 6.3 von OpenBSD unterstützt mehrere ARM-SoC von Allwinner, Rockchip oder auch Broadcom sowie ARM-Neon. Das System schützt seine Nutzer außerdem vor den Meltdown- und Spectre-Angriffen. OpenSSH lässt Schlüssel nach einer Zeit verfallen und LibreSSL unterstützt weitere APIs aus OpenSSL. (OpenBSD, DHCP) 
+ 
+Anzeigefehler: Displaylink warnt vor Problemen in MacOS 10.13.4
+Displaylink-Nutzer bekommen keine Ruhe. Das Displaylink-Forum muss erneut vor einer MacOS-Version warnen. Als Lösung gibt es einen kurzfristig veröffentlichten Betatreiber. Displaylink-Nutzer sind Probleme auf Macs aber mittlerweile gewöhnt. (Mac OS X, Display) 
+ 
+1.1.1.1: Cloudflares DNS-Server geht live
+Schnell und sicher, das verspricht Cloudflare für seinen neuen DNS-Server. Dieser ist von Nutzern weltweit unter den IP-Adressen 1.1.1.1 und 1.0.0.1 nutzbar. Allerdings gibt es Sicherheitsbedenken. (Cloudflare, Google) 
+ 
+Deutsche Bahn: Fahrgäste können per Check-in Kontrollen vermeiden
+Mit dem sogenannten Komfort Check-in müssen Fahrgäste der Deutschen Bahn mit Sitzplatzreservierung in Zukunft nicht mehr kontrolliert werden. Das Zugpersonal sieht auf seinen eigenen Geräten, dass der Fahrschein gültig ist, der Fahrgast soll weniger oft gestört werden. (Handyticket, Deutsche Bahn) 
+ 
+Betriebssysteme: Linux 4.16 bringt Spectre- und Meltdown-Patches und mehr
+Während Spectre und Meltdown weiterhin die Arbeit der Kernel-Hacker dominieren, kehrt langsam wieder der Alltag ein. Mit der Freigabe des Linux-Kernels 4.16 gibt es zusätzliche Patches gegen die Schwachstellen aber auch wieder zahlreiche Neuerungen, vor allem beim quelloffenen Treiber für Grafikkarten von AMD. (Linux-Kernel, Virtualisierung) 
+ 
+Messenger: Iran will offenbar Telegram sperren
+Iran will nach Angaben eines Abgeordneten die im Land beliebte und viel genutzte Kommunikations-App Telegram sperren. Gründe liegen in der "nationalen Sicherheit": Der Messenger wurde bei regimekritischen Demonstrationen zum Jahreswechsel 2018 als Kommunikationsmittel verwendet. (Telegram, Instant Messenger) 
+ 
+eCall: Automatisches Notrufsystem für Autos kommt
+Ab dem 31. März 2018 müssen neue Automodelle über den automatischen Notruf eCall verfügen, eine Nachrüstung schreibt der Gesetzgeber aber nicht vor. Mit sogenannten Unfallmeldesteckern können Autofahrer ein Notrufsystem auch im Gebrauchtwagen nutzen. (Auto, GPS) 
+ 

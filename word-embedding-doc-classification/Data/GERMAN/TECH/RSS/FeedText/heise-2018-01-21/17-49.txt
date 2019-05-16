@@ -1,0 +1,180 @@
+NetzDG: Facebook sperrt Karikaturisten Schwarwel
+In seiner Zeichnung nahm Schwarwel die rassistische H&M-Werbung aufs Korn. Facebook und Instagram verstanden jedoch keinen Spaß.
+ 
+Bugfix: Google behebt Patzer in Chromecast und Google Home
+Die Betriebssysteme hatten für Unruhe unter Router-Herstellern gesorgt, weil sie gewöhnliche Annoncierungs-Nachrichten nach Aufwachen aus dem Stromsparmodus massenhaft verschickten und so manche Router lahmlegten.
+ 
+Meltdown und Spectre im Überblick: Grundlagen, Auswirkungen und Praxistipps
+Der erste Pulverdampf hat sich verzogen: c't 3/2018 fasst die wichtigsten Informationen zu den schweren Sicherheitslücken aktueller Prozessoren zusammen, liefert Messergebnisse und bringt Praxistipps.
+ 
+High-End-Grafikspeicher: Samsung beginnt GDDR6-Massenproduktion für Next-Gen-Grafikkarten
+Samsung hat die Massenproduktion von 16-GBit-GDDR6-Grafikspeicher gestartet. Er soll hohe Transferraten für kommende High-End-Grafikkarten liefern.
+ 
+Angeschlagene iPhone-Akkus: Wie eine Abschaltung von Apples Leistungsdrossel aussehen könnte
+Apple-Chef Tim Cook hat angekündigt, dass Nutzer künftig selbst entscheiden dürfen, ob ihr iPhone auch mit alter Batterie die volle Leistung entwickelt. Das ist lobenswert, doch eine echte Lösung ist es nicht.
+ 
+Cloudflare Access soll Unternehmens-VPNs ersetzen
+Mit seinem Proxy-Dienst Access will Cloudflare Firmen den komplizierten VPN-Betrieb ersparen. Unternehmen sollen ihre Anwendungen öffnen und per Identity-Management dennoch sicheren Zugriff gestatten.
+ 
+Google bevorzugt schnelle Webseiten in der Mobilsuche
+Google will künftig schnelle Webseiten in der Mobilsuche bevorzugen. Lahme Seiten landen unter Umständen auf den hinteren Suchergebnisseiten. Sie werden damit praktisch unsichtbar.
+ 
+Regulierer: Internet häufig langsamer als vertraglich vereinbart
+Die Auswertung von rund 700.000 Bandbreitenmessungen bei der Bundesnetzagentur stellt den deutschen Zugangsanbietern kein besonders gutes Zeugnis aus: Viele Nutzer erhalten nicht einmal die Hälfte der versprochenen Bandbreite.
+ 
+Fataler Konstruktionsfehler im besonderen elektronischen Anwaltspostfach
+Markus Drenger und Felix Rohrbach vom Chaos Darmstadt haben ihre Erkenntnisse zum beA am Dienstagabend an der TU Darmstadt erneut präsentiert. Und es sieht ganz danach aus, dass die Client-Software einen irreparablen Konstruktionsfehler hat.
+ 
+Face ID: iPhone X kann Gefühlslage des Betrachters in Echtzeit überwachen
+Ein Hackerteam hat eine App entwickelt, die über die TrueDepth-Gesichtskamera ermittelt, ob der Benutzer gerade traurig, überrascht oder sauer ist. Werbetreibende lecken sich nach solchen Möglichkeiten die Finger.
+ 
+Skygofree: Ausgefeilter Android-Trojaner spioniert seit 2014 Smartphones aus
+Über den Schädling Skygofree können Angreifer Android-Geräte fernsteuern und so etwa Audioaufnahmen starten und WhatsApp-Nachrichten mitlesen, warnen Sicherheitsforscher. Angriffe gibt es bislang aber nur in Italien.
+ 
+Linux-Kernel 4.15 schützt vor Meltdown und Spectre
+Das noch diesen Monat erwartete Linux 4.15 versucht, die Prozessor-Sicherheitslücken Meltdown und Spectre im Zaum zu halten. Ohne Performance-Verlust geht das aber auch bei Linux nicht – und vollständig sind die Gegenmaßnahmen  auch noch nicht.
+ 
+Meltdown & Spectre: Google brüstet sich mit "unbemerkten" Cloud-Patches
+Google hat die Super-GAU-Lücke nach eigenen Angaben schon vor Monaten gepatcht, ohne irgend jemandem was davon zu erzählen. Auch will man Spectre ohne Wenn und Aber gebannt haben, was den Aussagen der Entdeckern der Lücke widerspricht.
+ 
+Einwilligung: Datenschützer erzielen Erfolg gegen Googles Sammelpraxis
+Das Verwaltungsgericht Hamburg hat ein Klageverfahren Googles gegen eine Anordnung des Hamburgischen Datenschutzbeauftragten Johannes Caspar eingestellt. Die Kalifornier dürfen damit nicht pauschal übergreifende Nutzerprofile erstellen.
+ 
+Chinas und Südkoreas Vorgehen gegen Bitcoin lässt Kurse stürzen
+Angesichts des hohen Energieverbrauchs gehen China und Südkorea verstärkt gegen Bitcoin-Mining vor. Die Regulierungsbemühungen der beiden asiatischen Staaten lassen den Kurs der digitalen Währung offenbar nun einbrechen.
+ 
+Kurswechsel bei Facebook: Biedermeier statt Aufklärung
+An der Oberfläche ist Facebooks neue Strategie Ausweis eines digitalen Biedermeier: Die bürgerliche Familie zieht sich ins heile Private zurück. Das Fundament bleibt allerdings Facebooks Lockvogeltaktik. Ein Kommentar von Daniel AJ Sokolov.
+ 
+Meltdown und Spectre: Spontane Neustarts nach Updates von Intels Haswell- und Broadwell-CPUs
+Manche Nutzer von Haswell- und Broadwell-Prozessoren kämpfen laut Intel mit spontanen System-Neustarts. Intel sucht derzeit noch die Ursache.
+ 
+AMD rudert zurück: Prozessoren doch von Spectre 2 betroffen, Microcode-Updates für Ryzen und Epyc in Kürze
+AMD-Prozessoren sind nun doch von der zweiten Spectre-Variante Branch Target Injection betroffen. AMDs Senior Vice President stellte bereits Microcode-Updates für Ryzen und Epyc in Aussicht.
+ 
+Vorsicht vor Fake-Mails vom BSI mit angeblichen Meltdown-/Spectre-Patches
+Betrügerische Mails im Namen des Bundesamt für Sicherheit in der Informationstechnik wollen Opfern einen als Meltdown-/Spectre-Patch getarnten Trojaner unterjubeln.
+ 
+Neue Algorithmen für Facebook: Weniger Nachrichten, mehr Persönliches
+Statt "relevanter Inhalte" stehen bei Facebook fortan "bedeutsame Interaktionen" mit Menschen im Vordergrund. Das bedeutet mehr Katzen- und Babyfotos, weniger Nachrichten. User werden dann womöglich weniger Zeit auf Facebook verbringen.
+ 
+Spectre-Lücke: Auch Server mit IBM POWER, Fujitsu SPARC und ARMv8 betroffen
+IBM stellt Firmware-Updates für Server mit POWER7+, POWER8 und POWER9 bereit, Fujitsu will einige SPARC-M10- und -M12-Server patchen; zu ARM-SoCs für Server fehlen Infos.
+ 
+Intel-Benchmarks zu Meltdown/Spectre: Performance sackt um bis zu 10 Prozent ab, SSD-I/O deutlich mehr
+Die Leistungsfähigkeit aktueller Intel-Prozessoren kann sich laut Intel nach dem Einspielen von Sicherheitspatches um bis zu 10 Prozent verringern, in Spezialfällen fällt der Performance-Verlust sogar noch höher aus. Besonders betroffen: SSD-Systeme.
+ 
+FAQ zu Meltdown und Spectre: Was ist passiert, bin ich betroffen, wie kann ich mich schützen?
+Antworten auf die häufigsten Fragen zu den Prozessorlücken und Angriffsszenarien Meltdown und Spectre.
+ 
+CES: Schnellladen per USB-C: USB-IF zertifiziert generische Schnellladegeräte
+Das Standardisierungsgremium USB-IF hat ein Zertifizierungsprogramm für USB-C-Netzteile aufgelegt, die Schnellladen gemäß der von Smartphone-Herstellern gewünschten PPS-Spezifikation bieten.
+ 
+Patchday: Zero-Day-Lücke in Microsoft-Office
+Microsoft schließt Sicherheitslücken in Office, Windows & Co. Davon gelten mehrere als kritisch. Angreifer nutzen derzeit eine Office-Schwachstelle aktiv aus.
+ 
+CES: Kartendienst Here: BMW-Integration und Tracking für SAP
+Der ehemalige Nokia-Kartendienst Here entwickelt für SAP ein Tracking-Verfahren, um beispielsweise Container per GPS zu verfolgen. Die mittlerweile über 500.000 km umfassende HD Live Map will Here noch dieses Jahr auf eine Million Kilometer erweitern.
+ 
+Donald E. Knuth: Der Informatik-Papst wird 80
+In den 60er-Jahren begann Donald E. Knuth ein Standardwerk der Informatik zu schreiben: The Art of Computer Programming. Das dauerte "etwas" länger als angenommen: Jetzt wird er 80 und schreibt noch immer.
+ 
+Microsoft über Meltdown & Spectre: Details zu Patches und Leistungseinbußen
+In einem Blog-Beitrag erklärt Microsoft-Vizepräsident Terry Myerson die Updates für Windows genauer und gibt auch Schätzungen zu Leistungseinbußen ab: Die können unter Windows Server erheblich sein.
+ 
+CES: Dell präsentiert sechs neue Laptops und Convertibles fürs Büro
+Eine Reihe neuer Rechner hat Dell auf der CES vorgestellt. Zwei erscheinen als Convertibles, bei den restlichen Modellen handelt es sich um klassische Laptops.
+ 
+Meltdown und Spectre: Intel patcht ab 2013 produzierte Prozessoren, bestätigt Performance-Auswirkung
+Intel will zunächst nur die Prozessoren der letzten fünf Jahre mit Sicherheitsupdates versorgen und will diese noch im Januar ausspielen. Was mit älteren Prozessoren geschieht, ist unklar.
+ 
+Meltdown und Spectre: Microsoft veröffentlicht Prüfwerkzeug für Prozessor-Sicherheitslücken
+Microsoft hat ein PowerShell-Modul veröffentlicht, mit dem sich Windows-Client- und -Server-Systeme darauf abklopfen lassen, ob sie anfällig für Meltdown- oder Spectre-Angriffe sind.
+ 
+VR-Headset HTC Vive Pro ausprobiert: Endlich mehr Pixel
+VR-System HTC Vive bestach bislang durch tolles Tracking, nicht so sehr durch Bildschärfe. Die neue Vive Pro will das mit höher auflösenden Displays ändern. Wir haben die Brille auf der CES ausprobiert.
+ 
+Meltdown und Spectre: Die Sicherheitshinweise und Updates von Hardware- und Software-Herstellern
+Hersteller von Hard- und Software sind von den Sicherheitslücken Meltdown und Spectre gleichermaßen betroffen. Eine Linkübersicht zu Stellungnahmen, weiterführenden Informationen und Update-Hinweisen.
+ 
+heise-Angebot: Netztalk am 16. Januar: Der (digitale) Kapitalismus ist nicht in der Krise
+Was passiert, wenn sich Unternehmen Menschheitsaufgaben zum Ziel setzen? Wie sieht eine Gesellschaft aus, in der das Internet zur Meta-Struktur einer neuartigen Ökonomie wird? Darüber und um mehr Themen geht es nächste Woche im Gespräch mit Timo Daum.
+ 
+CES: Nvidia für autonome und vernetzte Autos: weitere Drive-Bausteine und neue Partnerschaften
+Nvidia erweitert sein Angebot an Entwickler-Tools im Automotive-Bereich; zudem ist die nächste Hardware-Plattform Xavier fast fertig. Das lockt weitere Autohersteller und Zulieferer an.
+ 
+CES: Elektroauto Byton Concept: Das autonome Spielmobil kommt
+Ein Auto wie ein Smartphone: Der Elektro-SUV Byton Concept fährt mit riesigen Touchscreen als Armaturenbrett, Gestensteuerung und Gesichtserkennung vor. Dazu gibt es lernfähige Sprachassistenten und jede Menge Ablenkung vom langweilen Fahren.
+ 
+CES: Philips SmartSleep: Stirnband soll Tiefschlafphase auslösen
+Im Rahmen der CES hat Philips die nach eigenen Angaben erste Lösung vorgestellt, die für eine gesündere Nachtruhe sorgt, indem sie gezielt die Tiefschlafphase aktiviert.
+ 
+CES: Intel Core i-8000G: Kombiprozessoren mit leistungsfähiger Vega-Grafik für Notebooks
+Die leistungsfähigen Quad-Core-CPUs mit AMD-GPU und HBM2-Speicher ersetzen in flachen Notebooks Mobil-Grafikkarten. Intel verspricht genug Performance, damit aktuelle Spiele in Full-HD-Auflösung mit hohen Details flüssig laufen.
+ 
+CES: 8K, IoT und Elektroautos auf der CES: Las Vegas zeigt, was uns dieses Jahr erwartet
+Autos fahren von selbst, Fernseher können gar nicht genug Pixel bekommen und das Eigenheim spricht mit dem Handy. Auf der CES in Las Vegas stellen Unternehmen ihre Zukunftstechnik zur Schau. Was wir von der Messe erwarten.
+ 
+Analyse zur Prozessorlücke: Meltdown und Spectre sind ein Security-Supergau
+Die Sicherheitslücken Meltdown und Spectre treffen die Prozessorhersteller ins Mark - vor allem Intel. Aus den Lücken ergeben sich mehr als ein Dutzend Angriffsmöglichkeiten - ein Security-Supergau. EIne Analyse von Andreas Stiller.
+ 
+Programmiersprachen-Ranking: TIOBE kürt C zur Sprache des Jahres 2017
+Im Jahresvergleich verzeichnet der TIOBE Programming Community Index nur leichte Änderungen. Mit einem Popularitäts-Plus von 1,69 Prozent ragt C aus der Masse der Sprachen hervor.
+ 
+Trackmageddon: GPS-Tracking-Services ermöglichen unbefugten Zugriff
+Sicherheitsforscher haben Schwachstellen in zahlreichen Online-Tracking-Services entdeckt, die Angreifern unter anderem das Abrufen von GPS-Daten ermöglichen. Eine Liste der verwundbaren Services ist online verfügbar.
+ 
+Visa sperrt hunderttausende Bitcoin-Kreditkarten
+Visa hat Prepaid-Kreditkarten gesperrt, die mit Bitcoin oder anderen Krypto-Währungen aufgeladen werden konnten. Betroffen sind mindestens die internationalen Anbieter AdvCash, TenX und Xapo, die auch in Deutschland Kreditkarten angeboten haben.
+ 
+Prozessor-Lücken Meltdown und Spectre: Intel und ARM führen betroffene Prozessoren auf, Nvidia analysiert noch
+Betroffen sind unter anderem sämtliche Intel-Core-Prozessoren bis zurück zum Jahr 2008 sowie eine Vielzahl von ARM-Cortex-CPUs. Nvidia glaubt, dass die CUDA-GPUs nicht anfällig sind und analysiert noch seine Tegra-Prozessoren.
+ 
+Kurz vor Zwölf: Die Datenschutzerklärung für die Datenschutzgrundverordnung rüsten
+Meist verfügen Unternehmen bereits über eine Datenschutzerklärung für ihre Nutzer. Doch am 25. Mai 2018 mit Inkrafttreten der EU-DSGVO veraltet sie. Verantwortliche finden in der aktuellen iX eine kostenlose Checkliste für den Stichtag.
+ 
+Prozessor-Bug: Browser-Hersteller reagieren auf Meltdown und Spectre
+In Chrome lässt sich eine Option aktivieren, die das Risiko der Prozessor-Sicherheitslücke verringern soll. Mozilla hat ebenfalls Maßnahmen angekündigt, die die Auswirkungen der Lücke abmildern sollen.
+ 
+Prozessor-Bug: Intel-Chef stieß hunderttausende Aktien ab, Börsenkurs sackt ab
+Brian Krzanich verkaufte im November 2017 eine riesige Anzahl von Intel-Aktien. Die CPU-Lücke war dem Unternehmen seit Juni bekannt.
+ 
+Gravierende Prozessor-Sicherheitslücke: Nicht nur Intel-CPUs betroffen, erste Details und Updates
+Nach diversen Spekulationen über Ursache und Auswirkungen der CPU-Sicherheitslücke nehmen Intel und Google Stellung. Google veröffentlicht Details, außerdem zeigten Sicherheitsforscher mit Spectre und Meltdown zwei Angriffsszenarien.
+ 
+Spotify strebt an die Börse, aber ohne IPO
+Musikstreamer Spotify möchte seine Aktien an einer US-Börse listen, nimmt jedoch einen ungewöhnlichen Weg: Das Unternehmen bietet keine eigenen neuen Aktien feil.
+ 
+Tracking-Skripte klauen E-Mail-Adressen aus Web-Browsern
+Mittlerweile verfügen alle gängigen Browser über einen integrierten Login-Manager. Diese Funktion ist nicht nur praktisch für Nutzer, sondern auch für zwielichtige Werbefirmen, die die Daten fürs User-Tracking zweckentfremden.
+ 
+KIC 8462852: Feiner Staub könnte mysteriösen Stern verdunkeln – Rätsel bleiben
+Seit Jahren sorgt der sich immer wieder verdunkelnde Stern KIC 8462852 für viele Spekulationen. Vergangenes Jahr haben Forscher ihn ausführlich analysiert und eine natürliche Erklärung gefunden. Die wirft aber neue Fragen auf.
+ 
+Massive Lücke in Intel-CPUs erfordert umfassende Patches
+Derzeit arbeiten Linux- und Windows-Entwickler mit Hochdruck an umfangreichen Sicherheits-Patches, die Angriffe auf Kernel-Schwachstellen verhindern sollen. Grund für die Eile: eine Intel-spezifische Sicherheitslücke.
+ 
+High-Speed-SSDs: Plextor stellt M9Pe-Serie mit bis zu 3,2 GByte/s Lesegeschwindigkeit vor
+Die M9Pe-SSDs von Plextor gibt es in drei Bauformen und mit bis zu 1 TByte Speicherkapazität.
+ 
+Neue EU-Geldwäscherichtlinie: "Die Privatsphäre fällt praktisch weg"
+Die überarbeiteten EU-Vorgaben gegen Geldwäsche führen laut Rechtswissenschaftlern dazu, dass der Zahlungsverkehr künftig "fast vollständig überwacht ist". Transaktionsdaten könnten jahrzehntelang auf Vorrat gespeichert werden.
+ 
+Kritik an AMD: Adrenalin-Grafiktreiber verhindert Start von Spiele-Klassikern
+Einige ältere Spiele wie Command & Conquer 3 und The Witcher starten mit dem neuen AMD-Treiber nicht. Die Beschwerden der Spieler häufen sich, AMD blockt die Kritik noch ab.
+ 
+Akkutausch beim iPhone: Welche Geräte abgedeckt sind und was es kostet
+Nachdem bekannt wurde, dass Apple die Leistung von iPhones mit angeschlagenem Akku drosselt, hat der Konzern den Austausch des Energielieferanten signifikant verbilligt. Ganz simpel ist der Vorgang aber nicht.
+ 
+"Facebook-Gesetz": NetzDG macht Soziale Netze zu Richtern über "Hate Speech"
+Das Netzwerkdurchsetzungsgesetz stößt in Politik, Wirtschaft und Jurisprudenz auf heftige Kritik: Einschränkung der Meinungsfreiheit, Ende des freien Internet, Privatfirmen als Richter, so die Befürchtungen. Erst einmal sind die Bestimmungen jetzt gültig.
+ 
+Erneuerbare Energie: Entlegene Siedlungen werden noch Jahrzehnte Diesel verstromen
+Viele Ureinwohner Kanadas wollen ihren Dieselverbrauch zur Stromproduktion senken. Doch bei nicht ans Stromnetz angeschlossenen Siedlungen ist das erstaunlich schwierig.
+ 
+34C3: Riesige Sicherheitslücken bei Stromtankstellen
+An Ladesäulen auf fremde Rechnung Strom fürs E-Auto abzuzapfen ist laut dem Sicherheitsforscher Mathias Dalheimer kein Problem. Die Abrechnungsnummer für Nutzerkarten könne einfach kopiert werden, die Kommunikationsinfrastruktur sei kaum geschützt.
+ 
+Botnetze können das Stromnetz sabotieren
+Ein Botnetz könnte den Stromverbrauch vernetzter Geräte rascher beeinflussen, als Stromnetze darauf reagieren können. Damit könnte die Stromversorgung ganzer Länder sabotiert werden.
+ 

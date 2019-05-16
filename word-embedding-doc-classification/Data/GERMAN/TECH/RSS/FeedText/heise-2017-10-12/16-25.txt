@@ -1,0 +1,181 @@
+Internet per Coax-Kabel: Symmetrische 10 GBit/s am Horizont
+Die Kabel-Branche sieht sich weltweit durch allmählich fortschreitenden Glasfaser-Ausbau unter Druck. Nun will sie mit einer Erweiterung der DOCSIS-Spezifikation 3.1 dagegen halten.
+ 
+Systemverwaltung: PowerShell goes Cross-Plattform
+Die Veränderung von PowerShell geht weiter: Die im Laufe des Jahres erscheinende Version 6.0 soll das Microsoft-Framework zur Systemverwaltung weiter für den Cross-Plattform-Einsatz vorbereiten.
+ 
+Actioncam GoPro Hero6 Black im Test – perfekt zum Geschichten erzählen
+TechStage hat die neue Action-Kamera GoPro Hero6 Black getestet. Sie kann nun Videos im Format 4K UHD bei 60 Bildern pro Sekunde aufnehmen und erstellt automatisch Kurzfilme, die sich mit einem Klick teilen lassen. Ob sich das Paket für 569 Euro lohnt?
+ 
+Vertrauliche Daten von Accenture auf ungeschützten Webservern
+Tag der offenen Tür in Accentures Cloud: Mindestens vier Server voll vertraulicher Daten wie Passwörter und Entschlüsselungscodes waren laut Sicherheitsforschern im Netz frei zugänglich.
+ 
+Kindle Oasis: Neuer E-Reader mit größerem Display, ohne Akkuhülle und mit Hörbüchern
+Parallel zur Eröffnung der diesjährigen Frankfurter Buchmesse und kurz nach der Vorstellung des neuen Tolino Epos hat Amazon den neuen Kindle Oasis präsentiert. Der E-Reader wurde deutlich überarbeitet und kann nun auch Hörbücher abspielen.
+ 
+Online-Banking offline: Umleitungs-Probleme bei der Netbank
+Nach langfristigen Ankündigungen hat die Netbank am vergangenen Wochenende ihre Datenbestände migriert und - fast mit Ansage - eine Menge Kunden mit Dienstunterbrechungen in den Regen gestellt.
+ 
+Schlüsselbund-Passwörter-Klau auf dem Mac: Sierra und El Capitan bleiben anfällig
+Apple hat einen schwerwiegenden Fehler in der sogenannten Keychain nur in macOS High Sierra behoben. Der Entdecker will zunächst keinen Exploit publizieren – doch er wird kommen.
+ 
+Patchday: Microsoft kümmert sich um 62 Lücken, Adobe um keine
+In Windows & Co. klaffen 27 als kritische eingestufte Schwachstellen. Adobe veröffentlicht zwar einen neuen Flash Player, hat darin aber keine Sicherheitslücke gestopft.
+ 
+Kaspersky gehackt: Israelische Agenten sollen russischen NSA-Hack entdeckt haben
+Als russische Hacker angeblich dank der Malware-Analyse von Kaspersky auf einem PC NSA-Material entdeckt und an sich gebracht haben, hatten sie Beobachter: Laut einem Bericht war Kaspersky von israelischen Agenten infiltriert, die die NSA alarmierten.
+ 
+it-sa 2017: Weltweit erste externe Festplatte mit BSI-Zertifikat
+Behörden und Unternehmen mit hohen Datenschutz-Anforderungen setzen schon lange auf verschlüsselte Speichermedien. Nun wurde auf der it-sa die weltweit erste externe HDD/SSD mit BSI-Zertifikat präsentiert.
+ 
+Elektronische Gesundheitskarte: Informationen zum Start der Online-Anbindung
+Die Broschüren der Gematik sollen Leistungserbringer und den IT-Dienstleister darüber informieren, was alles bei der Einrichtung einer Online-Anbindung zu beachten ist.
+ 
+Freie Routerwahl: Es knirscht zwischen Fritzboxen und Vodafone-Kabelanschlüssen
+Kabel-Fritzboxen, die aus dem Fachhandel stammen, bauen seit einiger Zeit keine Internet-Verbindung mehr auf. Der Netzbetreiber hatte den Support zunächst verweigert, obwohl nicht klar ist, ob der Fehler im Router liegt.
+ 
+Librem 5: Purisms freies Smartphone erreicht Crowdfunding-Ziel
+Mit 1,5 Millionen US-Dollar hat der Hersteller Purism die Mindestsumme für die Entwicklung des "weltweit ersten freien Smartphones" namen Librem 5 einsammeln können. 2019 sollen Unterstützer ihr Gerät erhalten.
+ 
+Google-Analyse: Microsoft patcht Windows 7/8 teilweise nicht
+Forscher von Google haben nachgewiesen, dass Microsoft Sicherheitslücken in Windows 10 behoben hat, die gleichen Lücken in Windows 7 und 8 jedoch offen ließ. Patches kamen erst, als die Veröffentlichung durch Project Zero drohte.
+ 
+Financial Times bekämpft Werbebetrug
+Millionenverluste durch Domain-Spoofing: Werbenetzwerke verkauften Videowerbung für Leser der Financial Times, die aber tatsächlich auf anderen Websites ausgespielt wurde.
+ 
+Vernetzte Lautsprecher: Sony plant angeblich "smartes Haustier"
+Sony könnte demnächst mit einem eigenen smarten Lautsprecher Amazon, Google und Apple Konkurrenz machen, wenn es nach dem Bericht einer japanischen Zeitung geht.
+ 
+Microsoft-Manager: Keine neuen Funktionen mehr für Windows-Phones
+Microsoft-Gründer Bill Gates nutzt schon eine Zeit lang kein Smartphone mit einem Windows-System mehr. Nun erklärt der amtierende Windows-Chef das "Aus" für Windows Mobile 10 auf dem Smartphone.
+ 
+Abgas-Skandal: Hersteller sollen Diesel-Autos mit Hardware nachrüsten
+Ursprünglich hatte die Industrie nur angeboten, die Software anzupassen. Nun sollen sie dazu gebracht werden, auch die Hardware nachzurüsten, um den Stickoxidausstoß einzudämmen.
+ 
+Asteroid passiert knapp die Erde – Simulation des Ernstfall-Szenarios
+Der Asteroid 2012 TC4 wird sich kommende Woche der Erde nähern. Gefährlich wird er laut Experten nicht. Für die Wissenschaft bietet er jedoch die Gelegenheit, verschiedene Schutzszenarien durchzuspielen.
+ 
+Russland soll dank Kaspersky-Software NSA-Dokumente an sich gebracht haben
+Ein NSA-Angesteller soll 2015 Dokumente mit nach Hause genommen haben, um dort daran zu arbeiten. Auf dem Rechner seien sie von der Kaspersky-Software entdeckt und der ins Visier des Kremls geraten. Das berichtet das "Wall Street Journal" – ohne Belege.
+ 
+Erst Mond dann Mars: Trump-Regierung ändert Zielrichtung der NASA
+Die USA wollen erst zum Mond zurückkehren und dort eine Präsenz errichten, bevor es zum Mars gehen soll. Das kündigte US-Vizepräsident Mike Pence an und forderte, dass sein Land wieder die Führung im Weltraum übernehmen solle.
+ 
+Verfassungsschutzchef will IP-Adressen von Abrufern von Enthauptungsvideos
+Die Präsidenten der deutschen Geheimdienste haben in einer ersten öffentlichen Anhörung im Bundestag Teile ihres Wunschzettels präsentiert. Ganz oben stehen Befugnisse zum "Zurückhacken" und Abhören von WhatsApp und Co.
+ 
+Intel schlägt zurück: Core i7-8700K gegen AMD Ryzen 7
+Die Sechskerner der achten Core-i-Generation Coffee Lake lösen die Kaby-Lake-Quads ab: Reicht das, um gegen die AMD-Achtkerner zu punkten?
+ 
+NSA-Skandal: Keine Hinweise auf NSA-Spionage – Generalbundesanwalt beendet Untersuchung
+Mehr als vier Jahre nach Beginn des NSA-Skandals mit den Veröffentlichungen von Edward Snowden, sieht der Generalbundesanwalt "keine belastbaren Hinweise" auf eine massenhafte und systematische Internetüberwachung. Die Untersuchungen werden eingestellt.
+ 
+Vor 25 Jahren: IBM kündigt seine Thinkpads an
+Heute vor 25 Jahren kündigte IBM seine ersten drei Thinkpads an, die Modelle 700, 700C, und 700T. Gezeigt wurden sie dann erstmals auf der Comdex in Las Vegas im November 1992.
+ 
+Google Pixel 2: aus eigener Kraft mehr wie Apple sein – ein Kommentar
+Mit dem Nexus One führte Google einst das pure Android-Gerät ein. Mit dem Pixel veränderte Google den Kurs in Richtung integrierter Premium-Anbieter. Der Erfolg blieb aus. Jetzt legt Google nach – und kann dabei auf eigene Stärken bauen.
+ 
+Googles Pixel Buds: Bluetooth-Kopfhörer als Babelfisch
+Mehr als Musik hören: Dank Google Assistant sollen die neuen Kopfhörer des Suchmaschinenriesen auch noch zusammen mit dem Android-Phone als Übersetzer aus und in 40 Sprachen dienen.
+ 
+Google Pixel 2 ausprobiert: Guter Porträt-Modus, Offline-Musikerkennung und drei Jahre Update-Garantie
+Das Pixel 2 sieht ähnlich aus wie der Vorgänger, hat intern aber deutlich mehr zu bieten: Zum Beispiel eine verbesserte Kamera und "Google Lens". Android-Fans freuen sich über die dreijährige Update-Garantie. Was es nicht gibt: Eine Kopfhörerbuchse.
+ 
+Google Home Mini und Max: Smarte Lautsprecher für jeden Geschmack
+Künftig gibt es eine Mini- und eine Maxi-Version des Lautsprechers Google Home mit integriertem Sprachassistenzsystem.
+ 
+Vernetzte Lautsprecher: Sonos startet öffentliche Alexa-Beta und präsentiert neuen Lautsprecher
+Durch ein Software-Update können Anwender aus USA, UK und Deutschland nun Sonos mit jedem Alexa-Gerät verbinden. Dazu gibt es einen neuen Sonos-Player mit eingebauter Alexa. 2018 will Sonos Apple Airplay 2 und Google Assistant unterstützen.
+ 
+EU-Kommission: Luxemburg soll 250 Millionen Euro Steuern von Amazon fordern
+Brüssel zieht in seinem Vorgehen gegen die Steuerdeals US-amerikanischer Technikkonzerne nach und geht jetzt auch gegen Amazon vor. Das Unternehmen habe auf illegale Weise in Luxemburg Steuern gespart, die nun zurückgefordert werden sollen.
+ 
+14-TByte-Festplatte mit Helium und SMR von HGST
+HGST hat die erste Festplatte mit einer Kapazität von 14 TByte vorgestellt.Die hohe Kapazität ereicht die Festplatte mit Helium-Füllung und Shingled Magnetic Recording.
+ 
+Missing Link: Rebellische Replikanten – der Ursprung von "Blade Runner" bei Philip K. Dick
+"Träumen Androiden von elektrischen Schafen?" – das "Blade Runner"-Urmanuskript, in Erwartung von "Blade Runner 2049" neu gelesen im Spiegel der Zeit: Hat uns die Story heute noch etwas zu sagen?
+ 
+Rekordhack bei Yahoo war drei Mal so groß
+Yahoo was pwned. Komplett. Nicht eine Milliarde Konten, sondern alle drei Milliarden Konten wurden im August 2013 gehackt. Das will die Firma erst jetzt bemerkt haben.
+ 
+"Blade Runner 2049": Gelungene Rückkehr in die düstere Zukunft der 80er
+Dreißig Jahre nach "Blade Runner" geht die Geschichte um die Frage, was uns zum Menschen macht, weiter. "Blade Runner 2049" knüpft nahtlos an das Original an. Die Technik ist oscar-verdächtig, die Story schwächelt bisweilen etwas.
+ 
+Zahlen bitte! Linux: mehr als 25 Millionen Zeilen Code
+Der Linux-Kernel lernt ständig neue Funktionen und wird dadurch immer fetter. Aber ist das überhaupt ein Problem? Und wofür ist der ganze Code überhaupt zuständig?
+ 
+Physik-Nobelpreis für Nachweis von Gravitationswellen
+Anderthalb Jahre nach dem ersten Nachweis von Gravitationswellen haben drei damit befasste Forscher den Nobelpreis erhalten. Anlagen in den USA und Europa hatten erst vor wenigen Tagen einen ersten gemeinsamen Nachweis vermeldet.
+ 
+iPhone 8 und iPad Pro haben Probleme mit 4K-Filmen in HDR
+Apples neueste Mobilgeräte können auch die schicken 4K-Filme von iTunes in HDR abspielen. Doch das Bild sieht schlechter aus als bei den alten HD-Filmen in SDR.
+ 
+Daimler: WannaCry hat offenbar neue Opfer gefunden
+Mehrere Leser berichteten heise Security unabhängig voneinander, dass der WannaCry-Virus bei der Daimler AG ausgebrochen sei und die laufende Produktion beeinflussen würde. Auch Festo soll derzeit mit dem Schädling kämpfen, hat das aber dementiert.
+ 
+Vans & Drones: Mercedes testet Paketlieferung mit Drohnen in Zürich
+Kunden bestellen Waren, der Händler packt sie auf eine Drohne, diese fliegt zu einem Transporter, der die Waren ausliefert: Das testet Mercedes-Benz zusammen mit Partnern derzeit in Zürich.
+ 
+Lockheed Martin: Mars Base Camp als Basislager für Mars-Mission
+Auch Lockheed Martin will schon in wenigen Jahren Menschen zum Mars schicken, gibt sich aber deutlich zurückhaltender als SpaceX. In einer Raumstation auf Basis der Raumkapsel Orion sollen Astronauten um den Mars kreisen und forschen.
+ 
+SpaceX-Rakete für alles: "Big Fucking Rocket" für Reisen auf der Erde und ins Sonnensystem
+Elon Musk hat in Australien die überarbeiteten Pläne seines Unternehmens für eine Besiedlung des Mars vorgestellt. Kernstück ist eine Rakete, die nicht nur zum Roten Planeten fliegen, sondern auch Langstreckenreisen auf der Erde revolutionieren soll.
+ 
+Kommentar: Star Trek wird erwachsen
+Fabian Scherschel saß früher in seiner Sternenflottenuniform jede Woche vor dem Fernseher, wenn Voyager lief. Jetzt ist er froh, dass Star Trek mit Discovery endlich die Neunziger hinter sich gelassen hat.
+ 
+ESA-Sonde Rosetta: Überraschend neues allerletztes Foto gefunden
+Wissenschaftler haben in den zuletzt von Rosetta übermittelten Daten überraschend noch ein weiteres Foto gefunden. Es zeigt die Landestelle aus gerade einmal rund 20 Metern Entfernung, und zwar noch etwas detaillierter als das vormals letzte Foto.
+ 
+Apple iPhone 8 Plus im Test: hoffentlich das letzte seiner Art
+Das neue iPhone 8 Plus von Apple hat zwar eine gute Ausstattung und exzellente Kamera – allerdings ist das Design des Telefons in die Jahre gekommen. TechStage hat es ausführlich getestet. Wer es kaufen sollte, lesen Sie im Test.
+ 
+Ubuntu gibt Desktop-Variante für 32-Bit-x86-Systeme auf
+Von Ubuntu Desktop 17.10 wird es keine Images mehr geben, mit der man die Distribution auf  32-bittigen x86-Systemen ausprobieren und direkt installieren kann. Kubuntu & Co. betrifft das aber vorerst nicht.
+ 
+Alexa: Amazons Sprachassistentin wird smarter, kontaktfreudiger und verspielter
+Amazon hat Details zu den verbesserten Smart-Home-Fähigkeiten von Alexa und den neuen Gaming Features bekanntgegeben.
+ 
+Echo Spot: Amazons Echo Show bekommt kleinen Bruder
+Amazon hat ein neues Mitglied der Echo-Familie vorgestellt: Den Echo Spot, der ein wenig wie ein smarter Wecker daherkommt.
+ 
+Amazon Echo Show kommt Mitte November nach Deutschland
+Der Verkauf des jüngsten Mitglieds aus Amazons Reihe smarter Lautsprecher startet nun auch in Deutschland. Das Modell ist mit Touchscreen und Kamera ausgerüstetet.
+ 
+Amazon Echo: Überarbeitete Ausgabe, Plus-Version und verbesserte Smart-Home-Integration
+Der Nachfolger des smarten Lautsprechers Echo und die neue Version Echo Plus sind unter anderem in der Lage, mit nur einem Sprachbefehl mehrere Aktionen auszulösen.
+ 
+Amazon Fire TV neu aufgelegt: 4K-Video mit 60 Hertz, HDR und Dolby Atmos zum Kampfpreis
+Amazons neues Fire-TV-Modell ist ab sofort für rund 80 Euro (mit Fernbedienung inklusive Spracheingabe) vorbestellbar und wird am 25. Oktober an deutsche Kunden ausgeliefert.
+ 
+Echo Connect: Zubehör verwandelt Amazons smarten Lautsprecher in Telefon und Spielgerät
+Amazons smarter Lautsprecher Echo wird sich ab 2018 mit Zubehör in ein Festnetztelefon verwandeln lassen. Bereits zu Weihnachten sollen die "Echo Buttons" verfügbar sein, mit denen sich Alexa für Spiele nutzen lässt.
+ 
+USB 3.2: Geschwindigkeit von USB-C auf 20 GBit/s verdoppelt
+Die Spezifkation für USB 3.2 ist fertig. Sie verdoppelt die Transferrate für USB-C-Verbindungen auf 20 GBit/s. Nun fehlt nur noch die entsprechende Hardware – selbst bei USB-3.1-Gen2-Hubs ist Ebbe.
+ 
+Russland will an NASA-Raumstation um den Mond teilhaben
+Die NASA prüft gegenwärtig Konzepte für eine Raumstation im Orbit um den Mond, um von dort aus weiter ins Sonnensystem vorstoßen zu können. Aus Russland heißt es nun, das Land werde daran mitarbeiten und könnte etwa Module liefern.
+ 
+Krypto-Messenger Signal schützt Kontaktdaten vor den Server-Betreibern
+Dem Server die Telefonnummern aller Kontakte im Adressbuch eines Handys übermitteln ohne dass der Betreiber an diese herankommt ...geht das? Die Entwickler des Ende-zu-Ende verschlüsselnden Messengers Signal für Android und iOS sagen ja, das geht.
+ 
+Nextcloud mit Ende-zu-Ende-Verschlüsselung
+Nextcloud führt in einem Proof of Concept Ende-zu-Ende-Verschlüsselung für Dateien im Cloud-Speicher ein. Dafür setzt das Unternehmen auf mehrere Schichten symmetrischer und asymmetrischer Verfahren.
+ 
+Firefox Quantum als Betaversion erschienen
+Firefox Quantum – auch bekannt als Version 57 – soll der "beste Firefox aller Zeiten" werden. Bevor das große Update im November erscheint, hat Mozilla nun eine Betaversion veröffentlicht.
+ 
+Twitter testet doppelt so lange Tweets
+Twitter rüttelt an den eigenen Grundfesten: Tweets könnten bald bis zu 280 statt 140 Zeichen haben. Der Kurznachrichtendienst zeigt sich überzeugt, dass das eine gute Idee ist. Die erste Reaktion der Nutzer
+fiel ziemlich gemischt aus.
+ 
+LiMux-Aus: München erklärt neue Mail-Software für geheim
+Die Stadt München beginnt im Oktober mit der Umstellung auf eine neue Groupware, zunächst wird das Mailsystem renoviert. Offenbar kommt aber nicht der Open-Source-Ausschreibungsgewinner Kolab zum Einsatz, sondern Microsoft Exchange.
+ 
+Apple veröffentlicht erstes Bugfix-Update für iOS 11
+Apple hat am Dienstagabend iOS 11.0.1 veröffentlicht – nur sieben Tage nach der ersten offiziellen Version von iOS 11.
+ 

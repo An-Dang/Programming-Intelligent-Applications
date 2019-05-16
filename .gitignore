@@ -7,6 +7,8 @@ tensorflow-tutorial/\.ipynb_checkpoints/
 
 gan-tutorial/\.ipynb_checkpoints/
 
+reinforcement-learning/\.ipynb_checkpoints/
+
 
 tensorboard/
 
@@ -15,8 +17,6 @@ tensorboard/
 keys/
 
 gan-wgan/StartTensorboard\.bat
-
-word-embedding-doc-classification/Data/
 
 word-embedding-doc-classification/Pics/
 

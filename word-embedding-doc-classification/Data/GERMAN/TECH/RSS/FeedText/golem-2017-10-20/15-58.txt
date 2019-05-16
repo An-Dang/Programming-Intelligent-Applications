@@ -1,0 +1,120 @@
+Luminar: Lightroom-Konkurrenz bringt sich in Stellung
+Adobes Entscheidung, Lightroom nur noch als Abo anzubieten und in eine Classic- und eine Cloud-Lösung aufzuteilen, hat Anwender verärgert. Konkurrent Macphun hingegen will seiner Bildbearbeitung Luminar bald einen kostenlosen Fotomanager aufsetzen. (Lightroom, Grafiksoftware) 
+ 
+Ubuntu 17.10 im Test: Unity ist tot, lange lebe Unity!
+Mit der aktuellen Version 17.10 alias Artful Aardvark kehrt Ubuntu zu Gnome und dem Rest der Linux-Desktop-Community zurück. Dabei gibt sich das Team sichtlich Mühe, die Unity-Optik irgendwie zu erhalten. Nur schade, dass einige Funktionen wegfallen. (Unity, Ubuntu) 
+ 
+Bixby 2.0: Samsung will Sprachassistenten auf viel mehr Geräte bringen
+Mit der neuen Bixby-Version 2.0 will Samsung seinen Sprachassistenten für Entwickler öffnen: Ein Beta-SDK steht für ausgewählte Developer zur Verfügung. Langfristig will Samsung Bixby nicht nur auf Smartphones, sondern auch Fernseher, Kühlschränke und andere Geräte bringen. (Bixby, Smartphone) 
+ 
+Separate Cloud-Version: Lightroom nur noch als Abo erhältlich
+Adobe hat ein neues, cloudbasiertes Lightroom CC vorgestellt. Die Desktopanwendung heißt jetzt Lightroom Classic. Beide Anwendungen gibt es nur noch als Abo, die Kaufversion wird abgeschafft. (Lightroom, Grafiksoftware) 
+ 
+RSA-Sicherheitslücke: Infineon erzeugt Millionen unsicherer Krypto-Schlüssel
+RSA-Schlüssel von Hardware-Kryptomodulen der Firma Infineon lassen sich knacken. Das betrifft unter anderem Debian-Entwickler, Anbieter qualifizierter Signatursysteme, TPM-Chips in Laptops und estnische Personalausweise. (Infineon, Google) 
+ 
+Krack-Angriff: Kein Grund zur Panik
+Der Krack-Angriff auf die WLAN-Verschlüsselung WPA2 erfährt derzeit ein Medienecho wie kaum eine Sicherheitslücke. Anlass zur Panik besteht dabei für Privatanwender nicht und auch die wenigsten Unternehmen sind gefährdet. Administratoren sollten die Lage trotzdem im Blick behalten. (Krack, WLAN) 
+ 
+Windows 10: Microsoft verteilt Fall Creators Update
+Am 17. Oktober um 19 Uhr gibt Mirosoft mit dem Fall Creators Update eine neue große Version von Windows 10 frei. Verbesserungen wird es vor allem beim Design, Cortana und dem Datenschutz geben. Das Update ist Voraussetzung für Windows Mixed Reality. (Windows 10, Microsoft) 
+ 
+Windows 10: Microsoft zeigt Fluent Design im Detailvideo
+Ein neues Gewand für Windows 10: Das Fluent Design soll sich in allen Microsoft-Apps und UWP-Programmen wiederfinden. Kleine Änderungen und die Rückkehr zur halbtransparenten Milchglasoptik werden schrittweise eingeführt - zum Teil sogar schon im Fall Creators Update. (Windows 10, Microsoft) 
+ 
+Krack: WPA2 ist kaputt, aber nicht gebrochen
+Schwachstellen in der Implementierung von WPA2 ermöglichen das Mitlesen verschlüsselter Kommunikation per WLAN - ohne Zugriff auf das Passwort. Linux- und Windows-Nutzer können patchen, Android-User müssen hoffen. (Security, WLAN) 
+ 
+DDoS: Vier Darknet-Marktplätze nach Angriffen offline
+Auch Hidden-Services können per Denial-of-Service-Angriff empfindlich gestört werden - wie derzeit die Betreiber von vier großen Darknet-Plattformen merken. Seit Freitag sind die Seiten nicht oder nur über Umwege erreichbar. (Darknet, Datenschutz) 
+ 
+Verlag: IGN übernimmt Indiegames-Anbieter Humble Bundle
+Humble Bundle tut sich mit IGN zusammen. Der Anbieter von Games, Software und Büchern nach dem Pay-What-You-Want-System freut sich über den Schritt. Doch viele Nutzer sehen die Übernahme erst einmal kritisch. (Indiegames, EFF) 
+ 
+Android: Einige Root-User können Netflix-App wieder laden
+Seit Mai 2017 können Root-User die Netflix-App nicht mehr aus Googles Play Store laden - seit einigen Tagen taucht die App aber wieder bei manchem betroffenen Nutzer auf. Nicht alle Root-Nutzer sehen die Anwendung aber, die Hintergründe der erneuten Verfügbarkeit bleiben unklar. (Netflix, Google) 
+ 
+Arduino: IDE 1.9 implementiert heiß ersehnte Funktion
+Die neue Version der Arduino-IDE soll endlich Autovervollständigung bieten. Unter der Haube wird die IDE stärker modularisiert und soll eine bessere Integration in Entwickler-Workflows und Werkzeuge von Dritten bieten. Allerdings ist sie noch Beta. (Arduino, Softwareentwicklung) 
+ 
+Windows 10: Cortana hilft Nutzern durch die Systemsteuerung
+Wie richte ich ein Bluetooth-Gerät ein? Cortana soll mit Follow Me künftig Nutzer durch das Betriebssystem führen und Anweisungen per Sprachausgabe geben können. Eine Demo davon ist zumindest auf Twitter verbreitet worden. (Cortana, Microsoft) 
+ 
+Gluon: AWS und Microsoft stellen quelloffene KI-Schnittstelle vor
+Gluon ist ein weiterer Schritt in Richtung standardisierter APIs für neuronale Netze. Die Schnittstelle ist sowohl mit Microsofts Cognitive Toolkit als auch mit Apache Mxnet kompatibel. Sie skaliert mit mehr als 500 GPUs und soll mit wenig statt viel Daten umgehen können. (Neuronales Netzwerk, Microsoft) 
+ 
+Malware: Pornhub verteilte monatelang Fake-Browserupdates
+Die Webseite Pornhub hat in den vergangenen Monaten bösartige Werbeanzeigen verteilt, die Nutzer zu einem Browserupdate aufforderten. Wer der Aufforderung nachkam, installierte sich weitere Adfraud-Malware. Deutsche Nutzer waren wohl nicht betroffen. (Malware, Virus) 
+ 
+Support-Ende: Microsoft unterstützt Office 2011 auf dem Mac nicht mehr
+So alt wie es klingt ist Office 2011 für den Mac noch gar nicht - es handelt sich um die vorletzte Version der Bürosoftware. Dennoch stellt Microsoft die Unterstützung ein. Wer diese braucht, muss Office 2016 einsetzen. (Office, Apple) 
+ 
+Pornhub: Machine-Learning-System ordnet Videos Pornodarstellern zu
+Wer war in welchem Video zu sehen? Auf Pornhub werden in Zukunft Darsteller anhand von Bilderkennung automatisch entsprechenden Videos zugeordnet. Später sollen auch Kriterien wie Körpermerkmale und Drehort analysiert werden können. Ein wichtiger Bestandteil: die Community. (Maschinelles Lernen, Spam) 
+ 
+APFS in High Sierra 10.13 im Test: Apple hat die MacOS-Dateisystem-Werkzeuge vergessen
+MacOS mit Apple-PFuSch? Wenn es um das neue Dateisystem APFS geht, hat Apple zwar etwas Robustes abgeliefert, doch das Drumherum stimmt überhaupt nicht, wie ausführliche Tests gezeigt haben. Ansonsten gibt es für Endanwender in MacOS 10.13 alias High Sierra nicht viel zu sehen, was aber gar nicht so schlecht ist. (APFS, Spam) 
+ 
+Sailfish X: Kostenpflichtiges Betriebssystem für Sonys Xperia X
+Für Sonys Xperia X gibt es ein alternatives Betriebssystem zu Android: Sailfish X. Das Betriebssystem stammt von dem finnischen Unternehmen Jolla und wird für 50 Euro verkauft. Ganz fertig ist es allerdings noch nicht. (Sailfish OS, Smartphone) 
+ 
+Digitaler Assistent: Amazons Alexa erhält Stimmenerkennung
+Alexa kann Nutzer künftig anhand der Stimme erkennen. Abhängig von der Stimme wird automatisch das passende Profil aktiviert, und Alexa verhält sich bei jedem Anwender etwas anders. Einige wichtige Alexa-Funktionen berücksichtigen die Stimmenerkennung leider noch nicht. (Amazon Alexa, Amazon) 
+ 
+Für iPhone und iPad: Apple legt mit iOS 11.0.3 ein weiteres Update nach
+Apple hat mit iOS 11.0.3 kurz nach der Veröffentlichung von iOS 11 bereits das dritte Update bereitgestellt. Die neue Betriebssystemversion behebt Probleme mit dem Audio- und Haptik-Feedback sowie dem Touchscreen des iPhone 6s. (iOS 11, Apple) 
+ 
+ZFS ausprobiert: Ein Dateisystem fürs Rechenzentrum im privaten Einsatz
+Unter Linux ist EXT4 Standard, moderne Features fehlen dem Dateisystem allerdings. Mit ZFS existiert eine Alternative. Die zwingt den Nutzer aber zur Umgewöhnung, wie wir herausgefunden haben. (Linux, Backup) 
+ 
+Antivirus: Symantec will keine Code-Reviews durch Regierungen mehr
+Aus Angst vor Spionage will die Sicherheitsfirma Symantec nach Angaben ihres CEO keine Regierungen mehr in den eigenen Code schauen lassen. Anlass war offenbar eine Anfrage der russischen Regierung. (Symantec, Virus) 
+ 
+Verschlüsselung: Outlook versendet S/MIME-Mails auch unverschlüsselt
+Eine Sicherheitslücke in Outlook hat zur Folge, dass per S/MIME verschlüsselte Mails auch im Klartext mitgesendet werden. Microsoft hat den Fehler am Patchday behoben. (Outlook, Microsoft) 
+ 
+Linux-Desktop: KDE Plasma 5.11 bringt neues Design der Systemeinstellungen
+Die zentralen Systemeinstellungen bekommen mit dem nun verfügbaren Desktop Plasma 5.11 von KDE ein neues Design. Außerdem werden nun alte Benachrichtigungen gespeichert und Nutzer können leicht Dokumente und Ordner ver- und entschlüsseln. (KDE, Linux) 
+ 
+Sprachassistent: Microsoft bringt Cortana für Skype
+Wie ist das Wetter? Wo ist das nächste Burger-Restaurant? Nutzer können künftig Cortana in Skype um Hilfe fragen. Der Sprachassistent analysiert auch Chatverläufe, um automatisch Vorschläge anzubieten. (Cortana, Skype) 
+ 
+Forschung: Algorithmus erweckt Facebook-Profilbilder zum Leben
+Maschinelles Lernen und Bilderkennung finden immer mehr Anwendung. Im Trend liegt das Animieren von Bildern und Emoticons. Facebook arbeitet gemeinsam mit Forschern an einer eigenen Lösung. Ein erstes Ergebnis: eine noch mehr lächelnde Mona Lisa und wütende Profilbilder. (Facebook, Soziales Netz) 
+ 
+Apple: Neues iTunes 12.6.3 enthält wieder den App Store
+Als Apple iTunes 12.7 veröffentlichte, fehlte auf einmal der App Store in der Software. Wer auf den App Store in iTunes angewiesen ist, kann nun die neue Version 12.6.3 installieren, die mit iOS 11 und den neuen iPhones funktioniert. Ein Downgrade ist etwas kompliziert. (Apple App Store, Apple) 
+ 
+Programmiersprache: Fetlang liest sich "wie schlechte Erotikliteratur"
+Gegenderte Variablen, verwirrende Fehlermeldungen und eine schlüpfrige Schreibweise: Fetlang ist eine Programmiersprache mit einer lustigen Syntax, hinter der herkömmliches C steckt. Allerdings ist dieses kaum wiederzuerkennen. (Programmiersprache, Versionsverwaltung) 
+ 
+Teachable Machine: Googles Beispielprogramm erklärt Machine Learning im Browser
+Drei Klassen und eine Webcam: Teachable Machine ist ein kleines Programm von Google, mit dem Nutzer das Konzept von maschinellem Lernen verstehen sollen. Es nutzt dazu die quelloffene Bibliothek Deeplearn.js. Das Besondere: Es funktioniert lokal im Browser statt über die Cloud. (Maschinelles Lernen, Google) 
+ 
+Microsoft: Cortana steuert Smart-Home-Geräte
+Microsoft ist gerade dabei, Cortana zu erweitern. Der digitale Assistent kann nun auch Smart-Home-Komponenten ansteuern - auf Zuruf kann das Licht umgestellt oder die Heizung verändert werden. (Cortana, Microsoft) 
+ 
+MacOS High Sierra: Apple verrät Passwort für Dateisystemverschlüsselung
+Wenn der Passworthinweis das Kennwort im Klartext liefert, läuft etwas falsch. Das hat auch Apple gemerkt und liefert ein Update für High Sierra, das auch weitere Probleme beheben soll. (Apple, Mac OS X) 
+ 
+Open Source: PostgreSQL 10 erweitert das Konzept von Teilen und Herrschen
+Die neue Version 10 des Datenbanksystems PostgreSQL bringt Verbesserungen bei der Parallelisierung und Replikation von Datenbanken. Außerdem wird das MD5-Hashverfahren durch SHA-256 ersetzt. In Zukunft sollen Versionen anders nummeriert werden. (PostgreSQL, Datenbank) 
+ 
+Microsoft: Edge-Browser kommt für iOS und Android
+Mehr Microsoft bei Google und Apple: Der Edge-Browser kommt für mobile Geräte und bringt das Teilen von Webseiten auf Windows-Desktops gleich mit. Android-Nutzer bekommen auch einen Microsoft Launcher geboten. (Edge, Google) 
+ 
+Kostenfreier Antivirus: Kaspersky Free ab sofort auf Deutsch verfügbar
+Kaspersky hat seinen kostenfreien Virenscanner für Deutschland freigegeben. Die Software hat einige Beschränkungen, soll Nutzer aber nicht ausspionieren oder tracken. (Kaspersky, Virus) 
+ 
+Open Source: Oracles Serverless-Plattform versteht auch AWS Lambda
+Das Project Fn ist eine quelloffene Serverless-Plattform von Oracle. Damit konkurriert das Unternehmen wieder einmal mit Größen wie Microsoft und AWS. Der Vorteil von Fn: Es kann sowohl in der Cloud als auch On-Premise eingerichtet werden. (Oracle, Microsoft) 
+ 
+Apple: WatchOS 4.0.1 behebt Verbindungsfehler bei der Apple Watch
+Apple hat ein Update für das Smartwatch-Betriebssystem WatchOS veröffentlicht. WatchOS 4.0.1 soll bei der Apple Watch Series 3 LTE einen Fehler beheben, der die Mobilfunkverbindung verhindert. Schuld sind Vorschaltseiten unverschlüsselter WLANs gewesen. (Apple Watch, Long Term Evolution) 
+ 
+Google und Linaro: Android bekommt mit Treble sechs Jahre Kernelpflege
+Ab Android-Oreo sollen dank dem Projekt Treble Updates schneller und dauerhaft an Nutzer verteilt werden. Dafür gibt es nun auch einen Linux-Kernel mit sechs Jahren Langzeitpflege und die Android-Kernel sollen künftig vereinheitlicht werden. (Linux-Kernel, Google) 
+ 
+HPE: Apps aus dem App-Marktplatz für die Fabrik herunterladen
+HPE will Industrieanlagen mehr mit der Cloud verbinden. Die Express App Platform - Manufacturing ist ein Appstore für Fertigungsmaschinen. Mit HPE-Cloudservern und Containersoftware sollen sich Apps mit nur sechs Klicks installieren lassen können. (HPE, Technologie) 
+ 

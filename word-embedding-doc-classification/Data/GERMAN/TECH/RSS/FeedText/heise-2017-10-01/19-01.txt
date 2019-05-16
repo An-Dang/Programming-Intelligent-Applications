@@ -1,0 +1,181 @@
+Daimler: WannaCry hat offenbar neue Opfer gefunden
+Mehrere Leser berichteten heise Security unabhängig voneinander, dass der WannaCry-Virus bei der Daimler AG ausgebrochen sei und die laufende Produktion beeinflussen würde. Auch Festo soll derzeit mit dem Schädling kämpfen, hat das aber dementiert.
+ 
+Vans & Drones: Mercedes testet Paketlieferung mit Drohnen in Zürich
+Kunden bestellen Waren, der Händler packt sie auf eine Drohne, diese fliegt zu einem Transporter, der die Waren ausliefert: Das testet Mercedes-Benz zusammen mit Partnern derzeit in Zürich.
+ 
+Lockheed Martin: Mars Base Camp als Basislager für Mars-Mission
+Auch Lockheed Martin will schon in wenigen Jahren Menschen zum Mars schicken, gibt sich aber deutlich zurückhaltender als SpaceX. In einer Raumstation auf Basis der Raumkapsel Orion sollen Astronauten um den Mars kreisen und forschen.
+ 
+SpaceX-Rakete für alles: "Big Fucking Rocket" für Reisen auf der Erde und ins Sonnensystem
+Elon Musk hat in Australien die überarbeiteten Pläne seines Unternehmens für eine Besiedlung des Mars vorgestellt. Kernstück ist eine Rakete, die nicht nur zum Roten Planeten fliegen, sondern auch Langstreckenreisen auf der Erde revolutionieren soll.
+ 
+Kommentar: Star Trek wird erwachsen
+Fabian Scherschel saß früher in seiner Sternenflottenuniform jede Woche vor dem Fernseher, wenn Voyager lief. Jetzt ist er froh, dass Star Trek mit Discovery endlich die Neunziger hinter sich gelassen hat.
+ 
+ESA-Sonde Rosetta: Überraschend neues allerletztes Foto gefunden
+Wissenschaftler haben in den zuletzt von Rosetta übermittelten Daten überraschend noch ein weiteres Foto gefunden. Es zeigt die Landestelle aus gerade einmal rund 20 Metern Entfernung, und zwar noch etwas detaillierter als das vormals letzte Foto.
+ 
+Apple iPhone 8 Plus im Test: hoffentlich das letzte seiner Art
+Das neue iPhone 8 Plus von Apple hat zwar eine gute Ausstattung und exzellente Kamera – allerdings ist das Design des Telefons in die Jahre gekommen. TechStage hat es ausführlich getestet. Wer es kaufen sollte, lesen Sie im Test.
+ 
+Ubuntu gibt Desktop-Variante für 32-Bit-x86-Systeme auf
+Von Ubuntu Desktop 17.10 wird es keine Images mehr geben, mit der man die Distribution auf  32-bittigen x86-Systemen ausprobieren und direkt installieren kann. Kubuntu & Co. betrifft das aber vorerst nicht.
+ 
+Alexa: Amazons Sprachassistentin wird smarter, kontaktfreudiger und verspielter
+Amazon hat Details zu den verbesserten Smart-Home-Fähigkeiten von Alexa und den neuen Gaming Features bekanntgegeben.
+ 
+Echo Spot: Amazons Echo Show bekommt kleinen Bruder
+Amazon hat ein neues Mitglied der Echo-Familie vorgestellt: Den Echo Spot, der ein wenig wie ein smarter Wecker daherkommt.
+ 
+Amazon Echo Show kommt Mitte November nach Deutschland
+Der Verkauf des jüngsten Mitglieds aus Amazons Reihe smarter Lautsprecher startet nun auch in Deutschland. Das Modell ist mit Touchscreen und Kamera ausgerüstetet.
+ 
+Amazon Echo: Überarbeitete Ausgabe, Plus-Version und verbesserte Smart-Home-Integration
+Der Nachfolger des smarten Lautsprechers Echo und die neue Version Echo Plus sind unter anderem in der Lage, mit nur einem Sprachbefehl mehrere Aktionen auszulösen.
+ 
+Amazon Fire TV neu aufgelegt: 4K-Video mit 60 Hertz, HDR und Dolby Atmos zum Kampfpreis
+Amazons neues Fire-TV-Modell ist ab sofort für rund 80 Euro (mit Fernbedienung inklusive Spracheingabe) vorbestellbar und wird am 25. Oktober an deutsche Kunden ausgeliefert.
+ 
+Echo Connect: Zubehör verwandelt Amazons smarten Lautsprecher in Telefon und Spielgerät
+Amazons smarter Lautsprecher Echo wird sich ab 2018 mit Zubehör in ein Festnetztelefon verwandeln lassen. Bereits zu Weihnachten sollen die "Echo Buttons" verfügbar sein, mit denen sich Alexa für Spiele nutzen lässt.
+ 
+USB 3.2: Geschwindigkeit von USB-C auf 20 GBit/s verdoppelt
+Die Spezifkation für USB 3.2 ist fertig. Sie verdoppelt die Transferrate für USB-C-Verbindungen auf 20 GBit/s. Nun fehlt nur noch die entsprechende Hardware – selbst bei USB-3.1-Gen2-Hubs ist Ebbe.
+ 
+Russland will an NASA-Raumstation um den Mond teilhaben
+Die NASA prüft gegenwärtig Konzepte für eine Raumstation im Orbit um den Mond, um von dort aus weiter ins Sonnensystem vorstoßen zu können. Aus Russland heißt es nun, das Land werde daran mitarbeiten und könnte etwa Module liefern.
+ 
+Krypto-Messenger Signal schützt Kontaktdaten vor den Server-Betreibern
+Dem Server die Telefonnummern aller Kontakte im Adressbuch eines Handys übermitteln ohne dass der Betreiber an diese herankommt ...geht das? Die Entwickler des Ende-zu-Ende verschlüsselnden Messengers Signal für Android und iOS sagen ja, das geht.
+ 
+Nextcloud mit Ende-zu-Ende-Verschlüsselung
+Nextcloud führt in einem Proof of Concept Ende-zu-Ende-Verschlüsselung für Dateien im Cloud-Speicher ein. Dafür setzt das Unternehmen auf mehrere Schichten symmetrischer und asymmetrischer Verfahren.
+ 
+Firefox Quantum als Betaversion erschienen
+Firefox Quantum – auch bekannt als Version 57 – soll der "beste Firefox aller Zeiten" werden. Bevor das große Update im November erscheint, hat Mozilla nun eine Betaversion veröffentlicht.
+ 
+Twitter testet doppelt so lange Tweets
+Twitter rüttelt an den eigenen Grundfesten: Tweets könnten bald bis zu 280 statt 140 Zeichen haben. Der Kurznachrichtendienst zeigt sich überzeugt, dass das eine gute Idee ist. Die erste Reaktion der Nutzer
+fiel ziemlich gemischt aus.
+ 
+LiMux-Aus: München erklärt neue Mail-Software für geheim
+Die Stadt München beginnt im Oktober mit der Umstellung auf eine neue Groupware, zunächst wird das Mailsystem renoviert. Offenbar kommt aber nicht der Open-Source-Ausschreibungsgewinner Kolab zum Einsatz, sondern Microsoft Exchange.
+ 
+Apple veröffentlicht erstes Bugfix-Update für iOS 11
+Apple hat am Dienstagabend iOS 11.0.1 veröffentlicht – nur sieben Tage nach der ersten offiziellen Version von iOS 11.
+ 
+Microsoft Ignite: Neue Version von Windows Server und viel Cloud
+Bei der Eröffnung der Unternehmenskunden-Konferenz Ignite hat Microsoft-CEO Satya Nadella über die Zukunft des Cloud-Geschäfts und Quantencomputing gesprochen. Unauffällig war die Präsentation der neuen Versionen von Windows Server und SQL Server.
+ 
+ClkScrew: Geheime Schlüssel mit der Brechstange aus der ARM Trustzone auslesen
+Die ARM-Chips in Smartphones lassen sich mittels Stromsparfunktionen angreifen, um Zugriff auf Informationen in der Trustzone der Geräte zu erlangen. Damit ließe sich Verschlüsselung knacken, die sogar vor Angreifern mit Root-Rechten sicher sein sollte.
+ 
+Digitalgipfel: EU soll bis 2025 weltweit führend bei Glasfaser und 5G werden
+Deutschland, Frankreich, Italien und Spanien haben Ziele für den EU-Digitalgipfel abgesteckt. Die Forderungen reichen von einem gleichen Mehrwertsteuersatz bis zu einem Behördenzugang zu Daten in Echtzeit.
+ 
+Star Trek: Wo ist die Discovery?
+Star Trek: Discovery ist bei Netflix gestartet. Auch spoilerfrei lässt sich sagen: Die ersten zwei Folgen sind richtig gut! Allerdings müssen eingefleischte Trekkies sehr viel Vorwissen verdrängen.
+ 
+Chelsea Manning darf nicht nach Kanada
+Chelsea Mannings Strafe wurde zwar von US-Präsident Obama verkürzt, dennoch ist die 29-Jährige vorbestraft. Daher scheiterte ihr Versuch, Kanada zu besuchen.
+ 
+Deloitte: Beratungsgesellschaft wurde Opfer eines Hackerangriffs
+Die weltweit tätige Beratungsgesellschaft Deloitte ist einem Zeitungsbericht zufolge Opfer eines Hackerangriffs geworden. Der sei bereits im März entdeckt worden, war aber möglicherweise schon seit Monaten im Gange.
+ 
+Bundestagswahl 2017: Union und SPD verlieren stark - Union vorne, SPD in der Opposition, AfD drittstärkste Kraft
+Die Wahl zum Deutschen Bundestag 2017 ist gelaufen. Spannend bleibt nicht nur, wie die künftige Bundesregierung aussieht - sondern auch, welche Politik etwa bei Digitalisierung, Netzpolitik und digitalen Bürgerrechten verfolgt wird.
+ 
+Schluss mit lustig: Wahlkampf 2017 - ein letzter Kommentar
+Es gab schon Aufreger in diesem Wahlkampf. Wenn man die Wahl für wichtig hält - tut aber nicht jeder. Wie auch immer: Beteiligen Sie sich auch zwischen den Wahlen an der öffentlichen politischen Diskussion. Sie ist sehr gut, betont Clemens Gleich.
+ 
+iPhone 8, die kleine Schwester des iPhone X: ein erster Blick
+Wer mag schon das zweitschönste Auto oder das zweitbeste Essen? Deshalb warten die Apple-Fans auf das iPhone X. Dabei liefert schon das iPhone 8 bemerkenswerte Ergebnisse, vor allem in der Kamera-Software.
+ 
+Störerhaftung: Bundesrat macht Weg frei für WLAN-Gesetz mit Sperranspruch
+Nach dem Bundestag hat jetzt auch die Länderkammer einen Gesetzentwurf befürwortet, mit dem Betreiber offener Funknetze die Störerhaftung nicht mehr fürchten müssen. Andererseits drohen mehr Websperren.
+ 
+Apple TV: Verwirrung um 4K-Ausgabe - auch bei alten Boxen
+Mit der neue Apple-TV-Generation ermöglicht Apple die Wiedergabe ultrahochaufgelöster Videos aus iTunes - inklusive HDR in zwei Formaten. In der Praxis funktioniert das aber nicht immer zufriedenstellend.
+ 
+Deutsches Internet-Institut eröffnet
+Im Mai hatte Berlin den Zuschlag für das Deutsche Internet-Institut erhalten. Das Institut wurde nun feierlich eröffnet und soll im Geiste seines Namenspaten Joe Weizenbaum Forschung betreiben – interdisziplinär und kritisch.
+ 
+Zuckerberg: Keine ausländische Werbung zur Bundestagswahl auf Facebook
+Im Vorfeld der Bundestagswahl hat Facebook tausende Fake-Accounts gelöscht. Anders als in den USA sei von diesen Konten aber keine ausländisch gesteuerte Politwerbung geschaltet worden.
+ 
+Nvidia GeForce GTX 1070 Ti kommt Ende Oktober, Vega-56-Partnerkarten verspäten sich
+Nvidia will die GeForce GTX 1070 Ti Ende Oktober vorstellen und im November in den Handel bringen. Dann soll sie mit übertakteten Herstellervarianten der Radeon RX Vega 56 konkurrieren.
+ 
+FinFisher: Internetprovider schieben Spitzelopfern Malware unter
+Eine neue Variante der  Spionage-Malware FinFisher nutzt einen aufsehenerregenden Infektionsweg: Lokale Internetprovider schleusen als Man-in-the-Middle vergiftete Versionen vertrauenswürdiger Software wie TrueCrypt oder VLC Player auf die PCs.
+ 
+Verschlüsselung: Gpg4win 3.0 hält sich dezent im Hintergrund
+Die Windows-Softwaresammlung Gpg4win verwendet Version 2.2 der freien Krypto-Engine GnuPG und sorgt dafür, dass Outlook mit dem OpenPGP/MIME-Standard umgehen kann.
+ 
+Auswirkungen von Raubkopien: EU-Kommission unterdrückt Piraterie-Studie
+Der Konsum von illegal kopierten Inhalten hat kaum Wirkung auf den Erwerb der Inhalte, stellt eine Studie im Auftrag der EU-Kommission fest. In der aktuellen Copyright-Debatte hält die Europäische Kommission ihre Studie aber noch immer unter Verschluss.
+ 
+Intel Management Engine gehackt
+Sicherheitsexperten zeigten, wie sie eine Sicherheitslücke in Intels ME-Firmware nutzen, um unsignierten Code auszuführen.  Die ME hat im Prinzip unbeschränkten Zugriff auf die Hardware des Systems, kann aber von Virenscannern nicht überwacht werden.
+ 
+Google-Deal mit HTC: Patente und Smartphone-Experten für 1,1 Milliarden US-Dollar
+Google bekräftigt seine ernsthaften Absichten im Smartphone-Geschäft: Der Internet-Konzern stärkt sich mit HTC-Experten und bekommt Patente. Der Branchenpionier aus Taiwan bekommt durch den Milliardendeal dringend benötigten finanziellen Spielraum.
+ 
+FIFA 18 angespielt: Karacho-Fußball, auf Hochglanz poliert
+Spielerisch tritt die Fußball-Simulation FIFA 18 auf der Stelle. Das ist zu verkraften, denn der jüngste Teil der Reihe hat anderes zu bieten: Top-Grafik, TV-Atmosphäre und den zweiten Teil des interaktiven Story-Kampagne The Journey.
+ 
+Übernahmegerüchte um HTC: Börse setzt Aktienhandel wegen "wichtiger Ankündigung" aus
+Die taiwanische Börse setzt am Donnerstag den Handel mit Aktien des Smartphone-Herstellers HTC aus. Grund soll eine "wichtige Ankündigung" sein – angeblich übernimmt Google-Mutter Alphabet zumindest einen Teil des Unternehmens.
+ 
+iOS 11: Erhebliche Mail-Probleme mit Exchange und Office 365
+iPhone- und iPad-Nutzer, die über Microsofts Office 365, Exchange Server oder Outlook.com kommunizieren, können mit iOS 11 unter Umständen keine E-Mails mehr versenden. Ein Apple-Update soll das Problem bald beseitigen.
+ 
+Anti-Terror-Initiative: Online-Firmen sollen extremistische Inhalte binnen zwei Stunden löschen
+Das "EU-Internet-Forum" soll global, der Verhaltenskodex deutlich verschärft werden, heißt es in Brüssel und London. Facebook, Google, Twitter und Co. müssten schädliche Inhalte viel schneller als bisher aus dem Netz entfernen.
+ 
+Notfall-Robotik: Bodenroboter bewähren sich an den Ventilen
+Während des Roboterwettbewerbs ERL Emergency konnten die ersten Roboter Aufgaben absolvieren. Bodenroboter manövrierten in Gebäuden und schlossen Ventile. Die Unterwasserroboter konnten weniger glänzen.
+ 
+iOS 11 steht zum Download bereit: iPhone und iPad werden produktiver
+Ein Datei-Manager und grundlegenden Neuerungen vereinfachen die Arbeit mit iPhone und iPad. ARKit öffnet die Tore für eine Flut an Augmented-Reality-Apps. Alte iPhones und Apps müssen draußen bleiben.
+ 
+E-Privacy-Verordnung: Wirtschaft will kein "Desaster" wie bei Cookie-Abfrage
+Die Einwilligung in die Verarbeitung von Kommunikationsdaten kristallisiert sich als Knackpunkt im Streit um die geplante europäische E-Privacy-Verordnung heraus. Parallel hapert es hierzulande mit der Umsetzung der Datenschutzgrundverordnung.
+ 
+Vor der Freigabe von iOS 11: Mobilfunkanbieter und Firmen warnen wegen Problemen vor Update
+Per SMS bittet der österreichische Netzbetreiber Drei seine Kunden derzeit darum, mit der Installation von iOS 11 zu warten. Auch beim Zusammenspiel mit Microsoft Exchange und Kerio Connect kann es nach dem Update offenbar zu Problemen kommen.
+ 
+Datenschützer: Unternehmen können Windows 10 Enterprise datenschutzkonform einsetzen
+In Unternehmen kann die Enterprise-Version von Microsofts Betriebssystem datenschutzkonform eingesetzt werden. Zu diesem Schluss kommt eine Untersuchung des Bayerischen Landesamts für Datenschutzaufsicht, das aber auch kritikwürdiges gefunden hat.
+ 
+PC-Wahl: CCC demonstriert erneut einen Angriff und bietet Open-Source-Hilfe
+Mit einem demonstrativen Hack macht der CCC auf ein erneutes Sicherheitsproblem der bereits mehrfach nachgebesserten Wahl-Software aufmerksam. Eine Open-Source-Spende soll PC-Wahl jetzt zu einer sicheren Update-Funktion verhelfen.
+ 
+Fachkräftemangel: Weiter steigender Bedarf an IT-Fachkräften
+20 Prozent mehr Stellen für IT-Profis waren in den 12 Monaten bis August 2017 ausgeschrieben als im gleichen Zeitraum ein Jahr zuvor, analysiert der Personaldienstleister Adecco - was die Diskussion um Fachkräftemangel weiter anheizen dürfte.
+ 
+Oracles neuer 32-Kern-Prozessor SPARC M8 mit mehr Performance
+Mit dem M8 stellt Oracle die neue Generation seiner SPARC-Prozessoren vor. Besonders die hauseigene Oracle DB und Java sollen von den Neuerungen profitieren.
+ 
+Intels Prozessor-Wirrwarr: Kaby-Lake-CPUs laufen nicht auf Z370-Boards
+Kaby-Lake-Prozessoren laufen nicht auf Z370-Mainboards, wie aus dem Bericht einer holländischen Website hervorgeht.
+ 
+Equifax soll früheren Hack verheimlicht haben
+Monate vor dem kolossalen Hack mit mehr als 143 Millionen Opfern soll Equifax bereits einmal gehackt worden sein. Derweil ermitteln US-Behörden wegen Insiderhandels gegen Equifax-Manager.
+ 
+Backdoor in CCleaner ermöglichte Fernzugriff – Update dringend empfohlen
+Die Version 5.33.6162 von CCleaner enthält eine Backdoor, die bis vor kurzem den unbemerkten Remote-Zugriff ermöglichte. Mittlerweile soll die Gefahr gebannt sein; ein zügiges Update auf die aktuelle Version 5.34 ist dennoch mehr als ratsam.
+ 
+Achtung: Aktuelle Spam-Mails fälschen Absender von Mitarbeitern
+Akute Gefahr geht von einer Schädlingswelle aus, die per E-Mail anrollt. Durch eine clevere Wahl der Absender könnten auch versierte Anwender verleitet werden, dem darin enthaltenen Link zu folgen. Er führt zu bislang weitgehend unerkannter Malware.
+ 
+Saturn-Sonde Cassini: Wehmut nach Missionsende, neue Ziele im Visier
+Die Saturnsonde Cassini ist Geschichte, aber noch sind die von ihr gesammelten Daten nicht ausgeschöpft. Nach dem Missionsende herrschen bei NASA und ESA Stolz und Wehmut vor, aber auch die Hoffnung auf künftige Missionen.
+ 
+4K-Filme auf iTunes: Knapp 50 Titel bereits verfügbar
+Apple hat die ersten UHD-Filme mit HDR und Dolby Vision auf iTunes veröffentlicht. Sie lassen sich offenbar nicht nur auf dem kommenden Apple TV 4K abspielen.
+ 
+Bashware: Windows 10 über Linux-Komponente angreifbar
+Die Sicherheitsfirma Checkpoint hat eine Möglichkeit gefunden, wie man Windows-10-Rechner über die optionalen Linux-Komponenten des Betriebssystems angreifen kann. Allerdings übertreiben die Forscher den Ernst der Lage gehörig.
+ 
