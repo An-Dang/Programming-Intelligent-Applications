@@ -9,6 +9,13 @@ gan-tutorial/\.ipynb_checkpoints/
 
 reinforcement-learning/\.ipynb_checkpoints/
 
+gridworlds/
+
+pycolab/
+
+*.whl
+
+
 
 tensorboard/
 
