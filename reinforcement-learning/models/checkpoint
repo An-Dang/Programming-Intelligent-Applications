@@ -1,0 +1,2 @@
+model_checkpoint_path: "final-epsiolon_0.1|pretrain-steps_5000|final-exploration-step_20000|buffersize_10000|T_35000|gamma_0.99].ckpt"
+all_model_checkpoint_paths: "final-epsiolon_0.1|pretrain-steps_5000|final-exploration-step_20000|buffersize_10000|T_35000|gamma_0.99].ckpt"
